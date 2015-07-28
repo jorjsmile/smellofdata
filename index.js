@@ -26,6 +26,10 @@ server.addAction("/load", function(req, res, end){
             reader = pars.process(),
             headers = [];
 
+        if(!reader) {
+            end();
+        }
+
         for(var i = 0; i < reader.longestRowLength; i ++)
             headers.push(i);
 
