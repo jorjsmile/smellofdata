@@ -87,6 +87,15 @@ server.addAction("/mapreduce", function(req, res, end){
     end();
 });
 
+server.addAction("/unload", function(req, res, end){
+    var sess = new Session();
+
+    sess.destroy(this.getParam("session"), function(){
+        res.write("ok");
+        end();
+    });
+
+});
 
 server.addAction("/test", function(req, res, end){
     res.setHeader("Content-Type", "text/plain");

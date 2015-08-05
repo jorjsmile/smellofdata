@@ -1,4 +1,4 @@
 \.idea
 \.nbproject
 configs/main.js
-sessions/**
+sessions/*

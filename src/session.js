@@ -119,5 +119,16 @@ session.prototype.open = function(name){
     return name;
 };
 
+session.prototype.destroy = function(name, callback){
+    var path = this.getPath();
+    name = name || null;
+
+
+    fs.exists(__dirname+"/../"+path+"/"+name+".js", function(){
+        fs.unlink(__dirname+"/../"+path+"/"+name+".js", callback);
+    });
+
+};
+
 module.exports.randomString = generateName;
 module.exports.session = session;

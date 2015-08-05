@@ -49,16 +49,16 @@ exports.testTypes = function(test){
             });
         }
     ],function(e, result){
-        //for(var s in result)
-        //    fs.unlink(__dirname + "/../../sessions/"+result[s]+".js", function(e){
-        //        if(e)
-        //            console.log(e);
-        //    });
+        for(var s in result)
+            fs.unlink(__dirname + "/../../sessions/"+result[s]+".js", function(e){
+                if(e)
+                    console.log(e);
+            });
         test.done();
     })
 };
 
-exports.testLoad = function(test){
+exports.testFlow = function(test){
 
     async.waterfall([
         function(c){
@@ -79,7 +79,7 @@ exports.testLoad = function(test){
                 c(null, data.sessId);
             });
         },
-        function(sessId, c){
+        function(sessId, c){ //reload
             var data = {
                 session : sessId
             };
@@ -98,7 +98,7 @@ exports.testLoad = function(test){
                 c(null, sessId);
             });
         },
-        function( sessId, c ){
+        function( sessId, c ){ //map reduce
             var data = {
                 session : sessId,
                 map : "js:function(key, value){ value[0] += 'Yeeah'; this.emit(key, value); this.emit('longestLengthRow', value.length);}",
@@ -120,14 +120,18 @@ exports.testLoad = function(test){
                 c(null, sessId);
             });
 
+        },
+        function( sessId, c ){
+            request.get("http://localhost:9090/unload?session="+sessId, function(err, res){
+
+                test.ok(res.body);
+                c(null, sessId);
+            })
         }
     ], function(err, sessId){
-
+        console.log(sessId);
         //clear session
-        fs.unlink(__dirname + "/../../sessions/"+sessId+".js", function(e){
-            if(e)
-                console.log(e);
-        });
+        test.ok(!fs.existsSync(__dirname + "/../../sessions/"+sessId+".js"));
         test.done();
     });
 
