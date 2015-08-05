@@ -9,13 +9,62 @@ var request = require("request"),
     session = require("./../../src/session").session;
 
 
+exports.testTypes = function(test){
+    async.series([
+        function(c){
+            var data = {
+                        "origin" : "testlocal",
+                        file : fs.createReadStream( "/var/node/smellofdata/tests/resources/files/testXLSX.xlsx" )
+                    };
+                request.post({url : "http://localhost:9090/load", formData:data}, function(err, res){
+                if(err){
+                    console.log(err);
+                    test.done();
+                }
+                data = res.body.match(/parent\.postMessage\((\{(.|[\r\n])*?\}), '/);
+                data = eval( "(" + data[1] + ")");
+
+                test.equal(200, res.statusCode);
+
+                c(null, data.sessId);
+            });
+        },
+        function(c){
+            var data = {
+                "origin" : "testlocal",
+                file : fs.createReadStream( "/var/node/smellofdata/tests/resources/files/testPDF.pdf" )
+            };
+            request.post({url : "http://localhost:9090/load", formData:data}, function(err, res){
+                if(err){
+                    return c(err, null);
+                    //test.done();
+                }
+
+                data = res.body.match(/parent\.postMessage\((\{(.|[\r\n]|[\n])*?\}), '/);
+                data = eval( "(" + data[1] + ")");
+
+                test.equal(200, res.statusCode);
+
+                c(null, data.sessId);
+            });
+        }
+    ],function(e, result){
+        //for(var s in result)
+        //    fs.unlink(__dirname + "/../../sessions/"+result[s]+".js", function(e){
+        //        if(e)
+        //            console.log(e);
+        //    });
+        test.done();
+    })
+};
+
 exports.testLoad = function(test){
 
     async.waterfall([
         function(c){
             var data = {
                 "origin" : "testlocal",
-                file : fs.createReadStream( "/var/node/parser/tests/resources/files/testXLSX.xlsx" )
+                file : fs.createReadStream( "/var/node/smellofdata/tests/resources/files/testXLSX.xlsx" )
             };
             request.post({url : "http://localhost:9090/load", formData:data}, function(err, res){
                 if(err){
@@ -112,11 +161,14 @@ exports.testSession = function(test){
     test.ok(s.open());
 
     test.ok(s.setSessionValue("file", "/tmp/asADFxcVFAdc"));
+    test.ok(s.setSessionValue("function", "js:function() { return true; }"));
     test.ok(s.setSessionValue("object", {a : 1}));
     test.ok(s.setSessionValue("array", [1]));
-    test.ok(s.setSessionValue("function", "js:function() { return true; }"));
+    test.ok(s.setSessionValue("function", "js:function() { return false; }"));
 
     test.ok(s.getSession().object.a);
+    test.ok(!s.getSession().function());
+
 
     var name = s.getName();
 

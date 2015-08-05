@@ -40,7 +40,7 @@ function session(path){
         var filePath= this.getFilePath();
         _sessionString = fs.readFileSync(filePath)
                         .toString()
-                        .replace(/(^module.exports=\{|\}\;$)/g,"");
+                        .replace(/(^module.exports=\{\n|\n\}\;$)/g,"");
 
         var resolveName = require.resolve(filePath);
         //console.log("cache", require.resolve(filePath), require.cache[require.resolve(filePath)]);
@@ -54,15 +54,29 @@ function session(path){
         var newSession = _sessionString,
             filePath =  this.getFilePath();
 
-        if(newSession != "") newSession +=",";
+        if(!value) return;
 
+        if(newSession != ""){
+            var regReplace = new RegExp("^\'"+name+"\'.*?\n?$","m");
+            newSession = newSession.replace(regReplace, "");
+            newSession +=",\n";
+            newSession = newSession.replace(/,\n,/, ",");
+        }
 
-        if(typeof(value) === "string" && value.indexOf("js:") === 0)
-            newSession += "'"+name+"':"+value.replace(/^js\:/,"");
+        if(typeof(value) == "string"){
+            value = value.replace(/\n/, "");
+            if(value.indexOf("js:") === 0)
+                newSession += "'"+name+"':"+value.replace(/^js\:/,"");
+            else
+                newSession += "'"+name+"': '"+value.replace(/\'/,"\\'")+"'";
+        }
         else
-            newSession += "'"+name+"': " + JSON.stringify(value);
+            newSession +=  "'"+name+"': " + JSON.stringify(value);
 
-        newSession = "module.exports={"+newSession+"};";
+
+        newSession = newSession.replace(/\n{2,}/g, "\n");
+
+        newSession = "module.exports={\n"+newSession+"\n};";
         try{
 
             esprima.parse(newSession);
@@ -95,7 +109,7 @@ session.prototype.open = function(name){
 
         this.setName(name);
         var filePath=this.getFilePath();
-        fs.writeFileSync(filePath, "module.exports={};");
+        fs.writeFileSync(filePath, "module.exports={\n\n};");
     }
     else
         this.setName(name);

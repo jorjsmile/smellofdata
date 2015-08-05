@@ -5,7 +5,8 @@ var httpServer=require("./src/web"),
     server = new httpServer(),
     Parser = require("./src/parser"),
     Session = require("./src/session").session,
-    conf = require("./configs/main.js");
+    conf = require("./configs/main.js"),
+    extend = require("extend");
 
 /**********************************************************************************************************************/
 /************************************** TEST INDEX FILE ***************************************************************/
@@ -16,40 +17,53 @@ server.addAction("/load", function(req, res, end){
     var sess = new Session();
 
     if( req.method == "POST" && req.files && req.files["file"] ){
-
-        var pars = new Parser(req.files["file"].path, {
+        console.log(req.body);
+        var parserConfig = req.body.Config || {};
+            defaultConfig = {
                 "xlsx" : {
                     "addSheetName" : true,
                     "concatSheets" : true
                 }
-            }),
-            reader = pars.process(),
-            headers = [];
-
-        for(var i = 0; i < reader.longestRowLength; i ++)
-            headers.push(i);
-
-        var    output = {
-                data: reader.data,
-                headers: headers,
-                sessId : sess.open()
             };
 
-        sess.setSessionValue("reader", output); //TAKE CARE ABOUT YOUR MEMORY!!! DO NOT USE IT ON HUGE FILES!!!
+        console.log(extend(true, defaultConfig, parserConfig));
 
-        output = JSON.stringify(output);
+        var pars = new Parser(req.files["file"].path, extend(true, defaultConfig, parserConfig) ),
+            ondone = function(err, reader){
+                var headers = [];
 
-        //res.writeHead(200, {
-        //    "Content-Type" : "text/html;charset=utf-8"
-        //});
-        res.write("<script type='text/javascript' > parent.postMessage("+output+", '"+req.body.origin+"'); </script>");
+                if(reader == null){
+                    return end();
+                }
+
+                for(var i = 0; i < reader.longestRowLength; i ++)
+                    headers.push(i);
+
+                var    output = {
+                    data: reader.data,
+                    headers: headers,
+                    sessId : sess.open()
+                };
+
+                sess.setSessionValue("reader", output); //TAKE CARE ABOUT YOUR MEMORY!!! DO NOT USE IT ON HUGE FILES!!!
+
+                output = JSON.stringify(output);
+                //res.writeHead(200, {
+                //    "Content-Type" : "text/html;charset=utf-8"
+                //});
+                res.write("<script type='text/javascript' > parent.postMessage("+output+", '"+req.body.origin+"'); </script>");
+                end();
+            },
+            reader = pars.process(ondone);
+
+
     }
     else if(req.method == "POST" && req.body.session){
         sess.open(req.body.session);
         res.write(JSON.stringify(sess.getSession().reader));
+        end();
     }
 
-    end();
 });
 
 server.addAction("/mapreduce", function(req, res, end){
