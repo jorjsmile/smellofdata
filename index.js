@@ -70,7 +70,10 @@ server.addAction("/mapreduce", function(req, res, end){
     var sessData = sess.getSession(),
         result = parser.mapReduce(sessData.reader.data, sessData.map, sessData.reduce, true);
 
-    //console.log(sessData.reader.data.length, result.length);
+    if(req.body.isSource){
+        result.sessId = req.body.session;
+        sess.setSessionValue("reader", result);
+    }
 
     res.write(JSON.stringify(result));
 

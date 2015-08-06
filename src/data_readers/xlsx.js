@@ -44,10 +44,11 @@ function xlsxReader(file, options){
 
         var col = from;
 
+        console.log(from, to);
         for(; col!=to; col=increase(col))
             _columns.push(col);
 
-        _columns.push(increase(col));
+        _columns.push(col);
 
         return _columns;
     }
@@ -70,6 +71,7 @@ xlsxReader.prototype.readData = function(){
         for(var s in workbook.SheetNames){
             this.readSheet(workbook.SheetNames[s]);
         }
+        this.longestRowLength ++;
     }
 
 
@@ -87,19 +89,22 @@ xlsxReader.prototype.readSheet = function(sheetName){
     var list = this.getColumns(range[1], range[3]);
 
     //create result array
-    var rowLength = 0,
+    var rowLength = 1,
         rowC = offset+1;
 
     for(var row = range[2]; row < range[4]; row++, rowC++){ //iterate through all rows
 
         this.data[rowC] = this.data[rowC] || []; //create new offset if it's required
-        rowLength = 0;
+        rowLength = 1;
 
         if(addSheetName)
             this.data[rowC].push(sheetName);
 
         for(var i = 0; i<list.length; i++){ //iterate through all columns
-            if(worksheet[list[i]+row] === undefined) continue;
+            if(worksheet[list[i]+row] === undefined){
+                this.data[rowC].push("");
+                continue;
+            }
             rowLength ++;
             //result[row] = result[row][i] || [];
             //rowData.push(worksheet[list[i]+row].v);
