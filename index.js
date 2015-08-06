@@ -5,7 +5,8 @@ var httpServer=require("./src/web"),
     server = new httpServer(),
     Parser = require("./src/parser"),
     Session = require("./src/session").session,
-    conf = require("./configs/main.js");
+    conf = require("./configs/main.js"),
+    extend = require("extend");
 
 /**********************************************************************************************************************/
 /************************************** TEST INDEX FILE ***************************************************************/
@@ -17,18 +18,24 @@ server.addAction("/load", function(req, res, end){
 
     if( req.method == "POST" && req.files && req.files["file"] ){
 
-        var pars = new Parser(req.files["file"].path, {
+        console.log(req.body);
+        var parserConfig = req.body.Config || {};
+            defaultConfig = {
                 "xlsx" : {
                     "addSheetName" : true,
                     "concatSheets" : true
                 }
-            }),
-            reader = pars.process(),
-            headers = [];
+            };
 
-        if(!reader) {
-            end();
-        }
+        console.log(extend(true, defaultConfig, parserConfig));
+
+        var pars = new Parser(req.files["file"].path, extend(true, defaultConfig, parserConfig) ),
+            ondone = function(err, reader){
+                var headers = [];
+
+                if(reader == null){
+                    return end();
+                }
 
         for(var i = 0; i < reader.longestRowLength; i ++)
             headers.push(i);
@@ -47,13 +54,16 @@ server.addAction("/load", function(req, res, end){
         //    "Content-Type" : "text/html;charset=utf-8"
         //});
         res.write("<script type='text/javascript' > parent.postMessage("+output+", '"+req.body.origin+"'); </script>");
+                end();
+            },
+            reader = pars.process(ondone);
     }
     else if(req.method == "POST" && req.body.session){
         sess.open(req.body.session);
         res.write(JSON.stringify(sess.getSession().reader));
+        end();
     }
 
-    end();
 });
 
 server.addAction("/mapreduce", function(req, res, end){
@@ -80,6 +90,15 @@ server.addAction("/mapreduce", function(req, res, end){
     end();
 });
 
+server.addAction("/unload", function(req, res, end){
+    var sess = new Session();
+
+    sess.destroy(this.getParam("session"), function(){
+        res.write("ok");
+        end();
+    });
+
+});
 
 server.addAction("/test", function(req, res, end){
     res.setHeader("Content-Type", "text/plain");

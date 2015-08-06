@@ -57,7 +57,7 @@ function xlsxReader(file, options){
 xlsxReader.prototype = Object.create(reader);
 xlsxReader.prototype.constructor = xlsxReader;
 
-xlsxReader.prototype.readData = function(){
+xlsxReader.prototype.readData = function(done){
     var file = this.getFile(),
         concatSheets = this.getOption("concatSheets") || false;
 
@@ -74,7 +74,7 @@ xlsxReader.prototype.readData = function(){
         this.longestRowLength ++;
     }
 
-
+    done(null, this);
 };
 
 xlsxReader.prototype.readSheet = function(sheetName){

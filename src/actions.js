@@ -43,6 +43,11 @@ function action(url, callback){
         return reqInfo;
     };
 
+    this.getParam = function(name, _default){
+        var _default = _default || null;
+        return reqInfo.query[name] || _default;
+    }
+
     this.getRequest = function(){
         return request;
     };

@@ -11,7 +11,8 @@ function Parser(file, confReads){
         _mime = null,
         _available = {
             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" : "xlsx",
-            "application/vnd.ms-excel" : "xlsx"
+            "application/vnd.ms-excel" : "xlsx",
+            "application/pdf" : "pdf"
         },
         _module = null,
         _this = this,
@@ -72,13 +73,11 @@ Parser.prototype.getReader = function(){
     return this.getModule();
 };
 
-Parser.prototype.process = function(){
-    if(!this.isFileDetected()) return null;
+Parser.prototype.process = function(done){
+    if(!this.isFileDetected()) return done({"message" : "File Not Detected, nothing to process"}, null);
 
     var module = this.getModule();
-    module.readData();
-
-    return this.getReader();
+    module.readData(done);
 };
 
 Parser.prototype.mapReduce = function(data, map, reduce, log){

@@ -1,0 +1,4502 @@
+Artikelnummer Name Preis UstArt
+ALM5020 AN Atl.Thunfisch 70 gr 0,77 € 2
+ALM5102 AN Atlantikthunfisch 140 g 1,32 € 2
+ALM5252 AN Cuisine 70 g 0,69 € 2
+ALM5250 AN Cuisine Huhn&Surim 70g 0,69 € 2
+ALM5253 AN Cuisine Thun&Alge 70g 0,69 € 2
+ALM5103 AN Forelle 140 g 1,32 € 2
+ALM5036 AN Forelle&Thunf. 70g 0,77 € 2
+ALM602 AN Holistic Ente&Reis 400g 3,23 € 2
+ALM623 AN Holistic Hirsch&Reis 2kg 10,50 € 2
+ALM603 AN Holistic Hirsch&Reis 400 g 3,23 € 2
+ALM605 AN Holistic Huhn/Reis 400g 3,23 € 2
+ALM606 AN Holistic Lachs&Reis 400 g 3,23 € 2
+ALM601 AN Holistic Lamm&Reis 400 g 3,23 € 2
+ALM652 AN Holistic Verdaul.Kanin 400g 3,37 € 2
+ALM651 AN Holistic Verdaul.Rind 400g 3,37 € 2
+ALM653 AN Holistic Verdaul.Thun 400g 3,37 € 2
+ALM5097 AN Huhn & Kürbis 140 g 1,32 € 2
+ALM5022 AN Huhn 70 gr 0,77 € 2
+ALM5018 AN Huhn&Calamaris 70 g 0,77 € 2
+ALM5024 AN Huhn&Garnelen 70 gr 0,77 € 2
+ALM5083 AN Huhn&Käse 70 gr 0,77 € 2
+ALM5034 AN Huhn&Kürbis 70 gr 0,77 € 2
+ALM5091 AN Hühnerbrust 140 g 1,32 € 2
+ALM5016 AN Hühnerfilet 70g 0,77 € 2
+ALM5017 AN Hühnerschenkel 70 g 0,77 € 2
+ALM7101 AN Kalb 70 g 0,80 € 2
+ALM5101 AN Kitten 140 g 1,32 € 2
+ALM5105 AN Kitten 70 gr 0,77 € 2
+ALM5030 AN Lachs & Huhn 70 gr 0,77 € 2
+ALM5029 AN Lachs 70 gr 0,77 € 2
+ALM5032 AN Lachs&Karotte 70 gr 0,77 € 2
+ALM5405 AN light 3 x 70 g 1,80 € 2
+ALM5028 AN Makrele 70 gr 0,77 € 2
+ALM5027 AN Meerestiere 70 gr 0,77 € 2
+ALM5026 AN Ozeanfisch 70 gr 0,77 € 2
+ALM5093 AN Pazifikthunfisch 140g 1,38 € 2
+ALM5031 AN Pazifikthunfisch 70 gr 0,82 € 2
+ALM5057 AN Pouch Huhn 70 gr 0,65 € 2
+ALM5048 AN Pouch Huhn&Ei 70 gr 0,65 € 2
+ALM5047 AN Pouch Huhn&Käse 70 gr 0,65 € 2
+ALM5053 AN Pouch Thun&Ei 70 gr 0,65 € 2
+ALM5058 AN Pouch Thun&Huhn 70 g 0,65 € 2
+ALM5049 AN Pouch Thun&Käse 70 gr 0,65 € 2
+ALM5035 AN Pouch Thun&Rind 70 g 0,65 € 2
+ALM5055 AN Pouch Thun&Sard.70 gr 0,65 € 2
+ALM5042 AN Pouch Thunf.&Hirsch 70 g 0,65 € 2
+ALM5056 AN Pouch Thunfisch 70g 0,65 € 2
+ALM7108 AN Rind & Thunfisch 70 g 0,77 € 2
+ALM6200 AN Rind 70 gr 0,77 € 2
+ALM7105 AN Rind&Kaninchen70g 0,77 € 2
+ALM7102 AN Rind&Lamm70g 0,77 € 2
+ALM5108 AN Senior 70 gr 0,77 € 2
+ALM5092 AN Thun & Garnelen 140g 1,32 € 2
+ALM5019 AN Thun&Calamaris 70 g 0,77 € 2
+ALM5023 AN Thun&Garnelen 70 gr 0,77 € 2
+ALM5025 AN Thun&Huhn 70 gr 0,77 € 2
+ALM5080 AN Thun&Käse 70 gr 0,77 € 2
+ALM5033 AN Thun&Mais 70 gr 0,77 € 2
+ALM5084 AN Thun&Sardine 70 gr 0,77 € 2
+ALM5095 AN Thun&Schinken 140g 1,32 € 2
+ALM5094 AN Thunfisch&Huhn 140 g 1,32 € 2
+ALM5045 AN Thunfisch&Venusmuschel 70 g 0,77 € 2
+ALM5096 AN Thunfisch-Sardine 140g 1,32 € 2
+SHR351 C. Huhn/Ananas 75 g 0,77 € 2
+SHR137 C. Jelly Tuna/Huhn 85 g 9,80 € 2
+SHR170 C. Nat. Lachs 85 g 0,70 € 2
+SHR520 c. Thuna 70 g 0,77 € 2
+SHR354 C. Tuna/Mango 75g 0,77 € 2
+ALM607 Holistic Truth. + Reis 400g 3,23 € 2
+SHR135 Shesir 85g / 70 g 0,73 € 2
+Preisliste Animonda Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+83367 ADH Katze 200 g x 12 12,36 € 2
+82593 ADH Lamm&Einkorn 12x200 g 12,36 € 2
+82598 ADH Lamm&Einkorn 6x400 g 9,96 € 2
+83377 Brocconis 12 x 400g 5,76 € 2
+83301 Carny Ocean 8,10 € 2
+83490 Carny 6 x 200 g 3,90 € 2
+83506 Carny 6 x 400 g 6,30 € 2
+83544 Carny 800 g x 6 10,08 € 2
+83364 Carny Exotic 12x85 g 7,68 € 2
+83224 Cat Snack 50 g x 6 11,34 € 2
+82902 Chicken Sticks 50 St. 18,95 € 2
+83248 Daily Mix 420 g 3,10 € 2
+82602 Display Hund Aus der Heimat 89,00 € 2
+83646 Display Katze Aus der Heimat 89,00 € 2
+82913 Dogsnacks Fleischsticks 100 St. 6,45 € 2
+82912 Dogsnacks Fleischstreife 100 St. 6,45 € 2
+82740 GranCarno 6 x 800 g 8,94 € 2
+82730 GranCarno 6 x 400 g 5,34 € 2
+82787 GranCarno Exotic 125g 11,68 € 2
+82950 GranCarno Junior 1 kg 2,59 € 2
+82960 GranCarno Mix&Fertig 6,5kg 13,76 € 2
+82513 Gut für Dich Hund 21 St. 2,99 € 2
+83276 Gut für Dich Katze 21St. 2,99 € 2
+86605 Integra prot./sens. 85g x 12 8,28 € 2
+86525 Integra Protect 600 g 8,46 € 2
+86646 Integra Protect 1750 g 8,66 € 2
+86644 Integra protect Katze 250g 1,80 € 2
+86641 Integra protect/sensitiv 100 g x 16 Katze 9,92 € 2
+86580 Integra protect/sensitiv 150g x 11 hund 7,70 € 2
+86563 Integra sensit.Hund 15kg 25,88 € 2
+86635 Integra Sensitiv 250 g Truthahn + Gerste 1,56 € 2
+86572 Integra Sensitiv Snack 200 g 1,61 € 2
+86685 Integra sensitive 6 x 200 g 5,28 € 2
+83530/ Rafiné Cross 400 g 1,27 € 2
+83539 Rafiné cross 1,5 kg 4,05 € 2
+83521 Rafine Cross 15 kg Katze 26,12 € 2
+83429 Rafine MP Soupe 12 x 100 g 4,44 € 2
+83470 Rafiné Petit 18 x 85g 9,18 € 2
+83385 Rafine Ragout/ 32x100 g 15,68 € 2
+83480 Rafiné Soupé 20x100g 8,80 € 2
+83100 Rafiné Soupé Multipack 4x8 11,48 € 1
+83763 V.F. De Luxe 10 Kg 30,36 € 2
+83757 V.F. De Luxe 1,75 kg 8,45 € 2
+83750 V.F. De Luxe 250g 1,88 € 2
+82682 V.F. Kleiner Racker 85g ( 16 St.) 9,28 € 2
+82610 Vom Feinsten 22x150 g Hund 12,98 € 2
+83200 Vom Feinsten 32x100 g Katze 15,68 € 2
+83293 Vom Feinsten Select 22 Stck. 14,52 € 2
+Preisliste KÄFIGE Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+AP40020250 Lucie F weiß 45x28x57 15,95 € 1
+ENC19153 Napf 1 Venezia alt 1,10 € 1
+ENC19230 Napf Marte/Saturno 0,85 € 1
+FP08100 Nagerkäfig 1 m 19,90 € 1
+FP08120 Nagerkäfig 120 cm 29,50 € 1
+FP31COCA299 Banny 1 Nagerkäfig 80cm 15,90 € 1
+FP33COCA Banny 3 Nagerkäfig 1 m 18,95 € 1
+FP48RA12 Rattenkäfig Palazzo 1 27,25 € 1
+IM16715 Leda GS - Käfig 48,98 € 1
+IM90999 Napf Parrot 0,85 € 1
+IM92699 Napf Bell 0,60 € 1
+IZ-G008 Teddy 1 Hamsterheim 9,25 € 1
+IZ-G086 TEDDY Hamsterheim 14,95 € 1
+IZ-G092 Chinchillakäfig 100x58x80 38,50 € 1
+IZ-P010 Iza ll weiß 14,50 € 1
+IZ-P011 Iza II chrom Vogelkäfig 15,45 € 1
+IZ-P030 Gabi weiß 11,95 € 1
+IZ_A005 Napf 1,00 € 1
+IZ_G003 Grim I Hamsterheim 7,95 € 1
+IZ_G006 Grim II Hamsterheim 9,50 € 1
+IZ_G008 Teddy 1 mit Zubehör Hamsterheim 9,50 € 1
+IZ_G013 Teddy 1 Hamsterheim 7,95 € 1
+IZ_G014 Teddy 1 Hamsterheim 9,60 € 1
+IZ_G016 Teddy 2 Hamsterheim 10,95 € 1
+IZ_G017 Teddy 2 Hamsterheim 12,05 € 1
+IZ_G026 Mauskäfig 7,95 € 1
+IZ_G034 Teddy Lux Hamsterheim 10,80 € 1
+IZ_G051 Mauskäfig Mimi 9,50 € 1
+IZ_G085 Teddy Gigant 2 Hamster 20,95 € 1
+IZ_G086 Teddy Gigant 14,95 € 1
+IZ_G087 Teddy Gigant 1 17,50 € 1
+IZ_G091 Frettchenkäfig 35,40 € 1
+IZ_G094 Squirrel Streifenhörnchenkäfig 27,95 € 1
+IZ_P005 IZA 1 weiß Vogelkäfig 13,90 € 1
+IZ_P006 IZA 1 chrom Vogelkäfig 14,95 € 1
+IZ_P015 Beta weiß ( Käfig f. Sitt.) 12,95 € 1
+IZ_P016 Beta chrom 13,95 € 1
+IZ_P020 Tina weiß Vogelkäfig 13,90 € 1
+IZ_P021 Tina chrom Vogelkäfig 14,95 € 1
+IZ_P025 Sonia chrom 14,50 € 1
+IZ_P026 Sonia weiß 13,70 € 1
+IZ_P027 Sonia 3 weiß 20,50 € 1
+IZ_P028 Sonia III chrom 22,80 € 1
+IZ_P031 Gabi chrom 12,95 € 1
+IZ_P041 Lusi 2 weiß 13,90 € 1
+IZ_P045 Margot 1 weiß Vogelkäfig 10,80 € 1
+IZ_P046 Margot 2 weiß 12,75 € 1
+IZ_P047 Margot II chrom 13,50 € 1
+IZ_P048 Margot 1 chrom Vogelkäfig 11,60 € 1
+IZ_P063 G.S. - Käfig Eliza weiß 20,45 € 1
+IZ_P064 Eliza 22,80 € 1
+IZ_P305 Laura III 22,90 € 1
+SKY1231 Nagerkäfig 100 cm 19,90 € 1
+SKY1424 Marry Käfig 28,30 € 1
+U50310 PVC Schlauch 12/16 25m 14,95 € 1
+U50454 Reflektor 1175 mm 36 Watt 6,32 € 1
+U50512 Triton Röhre 18 Watt 10,20 € 1
+Preisliste KÄFIGE Zoobedarf Brodersen
+2
+U50742 FF25 Freshwater 9,11 € 1
+U50743 FF30 Freshwater 9,84 € 1
+U50747 Arcadia 14 W 5,29 € 1
+U50749 Tropical 18 W 6,02 € 1
+U50751 FO30 Tropical 6,61 € 1
+U50752 FO36 Tropical 8,08 € 1
+U50753 Arcadia Tropcal 38 W 9,84 € 1
+U50755 Arcadia 8 W 4,91 € 1
+U50756 FMW 18 Marine white 8,37 € 1
+U50758 Arcadia W 30 weiß 10,45 € 1
+U50766 Arcadia 36 W blau 12,05 € 1
+U50770 Reptil 15 W 9,84 € 1
+U50772 FD330 Reptile 12,49 € 1
+U50775 D3 compact Reptilienlampe 24,95 € 1
+Preisliste Beaphar Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+10360B Algolith 500 g 5,14 € 2
+15257 Anit-Pilz Spray 50 ml 6,95 € 1
+15290 Anti Allergie Shampoo 200 ml 5,97 € 1
+15291 Anti Schuppen Shampoo 200 ml 5,97 € 1
+11246 Bea Aufzuchtset 3,36 € 1
+10171 Beo-Weichfutter 1kg 5,15 € 2
+16925 Beokörner 800 g 3,58 € 2
+12405 Bierhefetabletten 500 St. 6,07 € 2
+13791 Bio - Halsband Hund 4,05 € 1
+13790 Bio - Halsband Katze 3,80 € 1
+13847 Bio Spot on große Hunde 6,25 € 1
+13848 Bio Spot on Katze 5,35 € 1
+13846 Bio Spot on Tropfen für kleine Hunde 5,65 € 1
+13794 Bio Umgebungsspray 400 ml 7,40 € 1
+13795 Bio Z.F. Schaum Hund/Katze 5,90 € 1
+13793 Bio Z.F. Spray Hund 150 ml 5,15 € 1
+13792 Bio Z.F. Spray Katze 150 ml 5,15 € 1
+10115 Bleib Weg Abwehr Set 10,80 € 1
+13023 Bleib Weg Fernhalte Gel 480g 5,31 € 1
+10116 Bleib Weg Granulat 4x20g 6,73 € 1
+11564 Bleib Weg Sticks 6 St. 4,50 € 1
+10091B Bleib Weg Verdunster 1,50 € 1
+13993 Bleib Weg Zerst. 250 ml 5,26 € 1
+16927 Bogena Beo-Futter 1kg 4,61 € 2
+16899 Bogena Kanarien 200g 2,05 € 2
+16904 Bogena Sittichf. 200 g 2,05 € 2
+18405 Care + Chinchilla 1,5kg 8,10 € 2
+18404 Care + Meerschwein 1,5kg 8,10 € 2
+18402 Care + Frettchen 2kg 10,15 € 2
+18400 Care + Hamster 700g 4,05 € 2
+18401 Care + Ratten 700g 4,05 € 2
+18375 Care + Degu 1,5 Kg 8,10 € 2
+18425 Care + Ratte 250g 2,26 € 2
+18403 Care+ Kaninchen 1,5kg 8,10 € 2
+18424 Care+ Kaninchen 250g 2,26 € 2
+18420 Care+M.S. 250g 2,26 € 2
+11637 Catnip Bits 35g 0,95 € 2
+11612 Catnip - Bits 150 St. 2,29 € 2
+11354 Cavi Fruit Nager 100ml 2,85 € 2
+16356 Chinchilla Sand 2 L 2,75 € 1
+16403 Croks Gelenkfit 300 g 2,55 € 2
+12932 Croks gelenkfit 600 g 3,20 € 2
+10717 Desinfektionspray 500 ml 6,47 € 1
+12976 Dog a Dent Zahngel 100g 3,40 € 1
+10239 Dru Cal 500 g 6,05 € 2
+16802 Ei - Mix Sittiche 1 kg 4,86 € 2
+11803 Elegance fresh Katze 3,45 € 1
+11802 Elegance Hund 3,60 € 1
+11408 Entfilzungs-Pumpspray 4,90 € 1
+10365 Fellglanzspray 150 ml 5,36 € 1
+14843 Ferien-Fischfutter 1,10 € 2
+11327 Finger - Zahnbürste 1,30 € 1
+14813 Fisch - Flocken Katze 2,55 € 2
+13041 Fleckentferner 400ml 5,95 € 1
+14730 Floh-Shampoo250ml 7,51 € 1
+14731 Floh-Spray 250ml am Tier 7,45 € 1
+11782 Flohband Hund 2,16 € 1
+Preisliste Beaphar Zoobedarf Brodersen
+2
+11786 Flohband Katze 2,16 € 1
+13796 Flohshampoo Natur 250 ml 3,70 € 1
+11036B Fogger 200ml 6,95 € 1
+12632 Gelenk Fit Soft 2,70 € 2
+10571 Gelenkfit 100 St. 9,15 € 1
+11633 Gelenkfit Bits 150g 1,95 € 2
+12629 Gelenkfit flüssig 4x7 Pipetten 13,30 € 1
+11094 Gentle Leader Gr. L 10,10 € 1
+11098 Gentle Leader Gr. S 8,95 € 1
+11096 Gentle Leader Gr. M 9,50 € 1
+11387 Geruchsbinderzerst. 4,20 € 1
+13051 Geruchsstopper 400ml 5,80 € 1
+15386 Geruchsstopper f. Nagerheime 4,05 € 1
+10065 Hagebuttentrunk 150 ml 3,75 € 2
+11275 Haut u. Fellkur Bonbons 3,85 € 2
+13994 Hautpflege Spray 250 ml 5,25 € 1
+11365 Hunde - Fernhalte Zerst. 150 ml 4,20 € 1
+10173 Igelfutter 1 kg 5,30 € 2
+10261 Irish Cal 500g 4,35 € 2
+12957 Junior Paste Hund 100g 3,25 € 1
+12956 Junior Paste Katze 100g 3,25 € 2
+10648 Kalktabletten 180 St. 4,55 € 2
+14881 Käse Kugeln Katze 70g 2,45 € 2
+11320 Katzen-Fernhalte-Zerst. 4,20 € 1
+12903 Kitti´s Mix 50 St. 0,80 € 2
+10325 Kitties bei Nierenproblemen 75 St. 2,45 € 2
+12404 KITTY Milch 200 g 4,76 € 2
+12406 Kleintiermilch 200 g 4,76 € 2
+11284 Lachsöl 425 ml 6,45 € 2
+11484 Lebensvitamine Nager 50ml 3,65 € 1
+11609 Malt Bits 150g 1,95 € 2
+11411 Malt Bits 35g 0,95 € 2
+12953 Malt Paste 100g 3,25 € 2
+12964 Malt Paste 250g 5,65 € 2
+12931 Malthearts 150 St 1,05 € 2
+11508 Mausertropfen 50ml 3,65 € 1
+10798 Milbenstrip 2 St. 5,05 € 1
+11092B Milbenzerst. 100ml 5,25 € 1
+15231 Multi Frisch 400 g (Toilett Deo) 4,45 € 1
+12979 Mundwasser Hund 250 ml 4,65 € 1
+10895 Nierendiät Ente 100 g 0,65 € 2
+10900 Nierendiät Katze 100g 0,65 € 2
+10894 Nierendiät Lamm 100g 0,65 € 2
+10888 Nierendiät Katze m. Hähnchen100g 0,65 € 2
+10884 Nierendiät Mixpack 3,65 € 2
+10889 Nierendiät Seelachs 100 g 0,65 € 2
+11532 Paganol 50 ml (Federkur) 3,95 € 1
+11958 Pflege & Wundbalsam 30 ml 3,75 € 1
+13736 Pfoten-Pflege-Spray 5,35 € 1
+11032 Protecto plus 150 ml 5,46 € 1
+11037 Protecto Plus 400ml 11,40 € 1
+11853 Reflektier.Ungezief.Band hund 4,35 € 1
+11852 Reflektier.Ungezief.Band Katze 4,00 € 1
+13700 Reto Tabletten 6,55 € 1
+10553 Rouletties Cat Nip 80 St. 1,19 € 2
+10552 Rouletties Garnele 80 St. 1,19 € 2
+10551 Rouletties Käse 80 St. 1,19 € 2
+10550 Rouletties Mix 270 St. 2,20 € 2
+Preisliste Beaphar Zoobedarf Brodersen
+3
+10898 Schlank u. Fit 100g 0,65 € 2
+13995 Schnellwäsche 5,25 € 1
+11535 Sensitiv Augenpflege 3,65 € 1
+11536 Sensitiv Ohrenreiniger 3,65 € 1
+11533 Sensitiv Tränenfleckentferner 3,90 € 1
+18265 Shampoo braunes Fell 250 ml 2,30 € 1
+18295 Shampoo Entfilzung 250 ml 3,10 € 1
+18277 Shampoo Fell-Glanz 250 ml 2,80 € 1
+15292 Shampoo Hautberuhigend 200 ml 5,97 € 1
+18283 Shampoo Katze 250 ml 2,80 € 1
+18289 Shampoo Kräuter 250 ml 2,80 € 1
+18253 Shampoo schwarzes Fell 250 ml 2,30 € 1
+18259 Shampoo weißes Fell 250 ml 2,30 € 1
+18271 Shampoo Welpen 250 ml 2,80 € 1
+11268 Spielspray 150 ml 4,05 € 1
+11489 Stubenrein - Trainer 50 ml 3,35 € 1
+16118 Sweet Hearts 150 St. 0,90 € 2
+14022 Transportkarton S 0,22 € 1
+14020 Transportkorton L 0,55 € 1
+11620 Trink + Fit 50ml 3,75 € 1
+10407 Trockenshampoo Hund 150 g 4,15 € 1
+10406 Trockenshampoo Katze 150 g 4,15 € 1
+11657 Turtle Vitamin 20ml 3,30 € 1
+11130 U.-Zerst. Nager 5,25 € 1
+11039 Ungez. Spray Total 400ml 8,16 € 1
+11040B Ungeziefer Schaum Total 300ml 7,05 € 1
+10234 Ungeziefer-Puder-Nager 3,70 € 1
+11692 Vinka Lebensvitamin Vogel 3,75 € 1
+11611 Vit - Bits 150 g 2,29 € 2
+11416 Vit Bits 35g 0,98 € 2
+12955 Vitamin Paste Hund 100g 3,25 € 2
+12966 Vitamin Paste Hund 250g 5,65 € 2
+12954 Vitamin Paste Katze 100g 3,25 € 2
+12965 Vitamin Paste Katze 250g 5,65 € 2
+10822 Vogel Grit 250g 1,80 € 2
+12402 Welpen Milch 500g 9,90 € 2
+12403 Welpen Milch 200g 4,76 € 2
+14844 Wochenend-Fischfutter 1,10 € 2
+13911 Wohlfühl Spot-On Hund 3x0,7 ml 4,60 € 1
+13998 Wohlfühl Spot-On Katze 3x0,4 ml 4,40 € 1
+16333 XTR Frettchenfutter 800g 3,50 € 2
+16326 XTR Grßsittichfutter 1 Kg 4,50 € 2
+12982 Xtra VitalMäusefutter 500 g 1,76 € 2
+16321 XtraVital Rattenfutter 2,5 kg 5,25 € 2
+16325 XtraVital Chinchilla 1kg 2,70 € 2
+16374 XtraVital Chinchillafutter 2,5 Kg 5,75 € 2
+12984 Xtravital Degu 500g 2,75 € 2
+16323 XtraVital Hamster 500g 1,60 € 2
+16318 XtraVital Kanin.junior 1kg 2,26 € 2
+16315 XtraVital Kaninchen 2,26 € 2
+16316 XtraVital Kaninchen 2,5 Kg 4,90 € 2
+16328 XtraVital Meerschwein 1 kg 2,20 € 2
+16329 XtraVital Meerschwein 2,5kg 5,15 € 2
+12981 XtraVital MS junior 500 g 1,80 € 2
+16320 XtraVital Rattenfutter 500g 1,65 € 2
+16393 XtraVital Rennmausfutter 1,80 € 2
+16335 XtraVital Streifenhörnchen 500 g 3,15 € 2
+12983 XtraVital Zwerghamster 500 g 1,80 € 2
+Preisliste Beaphar Zoobedarf Brodersen
+4
+12167 Z. F. B. Hund 6,33 € 1
+12168 Z. F. B. Katze 6,33 € 1
+13696 Z. F. Puder Hund 100g 5,15 € 1
+12169 Z.F.B. Junior Hund 6,33 € 1
+12173 Z.F.Band Hund lang 6,33 € 1
+15311 Zahnbürste 1,20 € 1
+11403 Zahnies 35g 0,98 € 2
+11399 Zahnies 150g 2,29 € 2
+12977 Zahnpasta 100 g 2,75 € 1
+12978 Zahnpflege - Zerst. 150 ml 3,75 € 1
+10080 Zahnpflegegranulat 75 g 6,15 € 2
+13641 Zecken Floh Puder Katze 100g 5,15 € 1
+11000 Zeckenstift 2,35 € 1
+Preisliste Bosch Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+BOS00801 Adult Mini Lamm 3 Kg 6,97 € 2
+BOS00212 Bio Adult Apples 750g 1,84 € 2
+BOS00206 BOS Fisch&Kartoffel 1 kg 2,06 € 2
+BOS00082 Bosch Active 15 kg 21,62 € 2
+BOS00080 Bosch Active 3 kg 6,05 € 2
+BOS00316 BOSCH Ad. Mini Ge&Din 1 Kg 2,37 € 2
+BOS00317 Bosch Ad. Mini Ge&Din 3 Kg 6,70 € 2
+BOS00797 Bosch Ad. Mini Gefl.& Hi 1 Kg 2,46 € 2
+BOS00075 BOSCH Adult 1 kg 1,87 € 2
+BOS00078 BOSCH Adult 15 kg 21,07 € 2
+BOS00076 BOSCH Adult 3 kg 5,82 € 2
+BOS00052 BOSCH Adult Maxi 15 kg 22,21 € 2
+BOS00051 BOSCH Adult Maxi 3 kg 6,04 € 2
+BOS00054 BOSCH Adult menue 15 kg 22,50 € 2
+BOS00053 BOSCH Adult menue 3 kg 6,07 € 2
+BOS00072 BOSCH Adult mini 1 kg 2,11 € 2
+BOS00073 BOSCH Adult mini 3 kg 6,05 € 2
+BOS00213 Bosch Bio Adult Apfel 3,75 Kg 9,75 € 2
+BOS00207 BOSCH Fisch&Kartoffel 3kg 6,04 € 2
+BOS00095 BOSCH Goodies 0,5 kg 1,58 € 2
+BOS00066 Bosch Junior Lamm 3 kg 6,94 € 2
+BOS00070 BOSCH Junior Maxi 3 Kg 6,67 € 2
+BOS00071 BOSCH Junior Maxi 15 kg 26,28 € 2
+BOS00335 Bosch Junior Med. 3 Kg 6,95 € 2
+BOS00334 BOSCH Junior Med. 1 Kg 2,13 € 2
+BOS00336 Bosch junior medium 15 kg 25,85 € 2
+BOS00804 BOSCH Junior Mini 1 Kg 2,13 € 2
+BOS00061 Bosch Junior mini 1 kg 2,13 € 2
+BOS00142 BOSCH Lamm&Reis 1 kg 1,98 € 2
+BOS00144 BOSCH Lamm&Reis 15 kg 21,99 € 2
+BOS00143 BOSCH Lamm&Reis 3 kg 5,95 € 2
+BOS00102 BOSCH Light 1 kg 1,88 € 2
+BOS00049 BOSCH Light 12,5 kg 19,00 € 2
+BOS00048 BOSCH Light 2,5 kg 4,68 € 2
+BOS00800 Bosch Mini Adult Lamm 1 kg 2,56 € 2
+BOS00805 Bosch Mini Junior 3 Kg 6,70 € 2
+BOS00745 Bosch Mini Senior 1 kg 2,46 € 2
+BOS00125 BOSCH Senior 1 kg 1,88 € 2
+BOS00088 BOSCH Senior 12,5 kg 19,76 € 2
+BOS00087 BOSCH Senior 2,5 kg 4,68 € 2
+BOS00090 BOSCH Sens.Lamm&Reis 15kg 31,75 € 2
+BOS00089 BOSCH Sens.Lamm&Reis 3 kg 8,62 € 2
+BOS00616 Dog Snack Goodies 450 g 2,24 € 2
+BOS932220 My Friend Kroketten 20 kg 14,80 € 2
+BOS00460 Sanabell Adult Gefl. 2 Kg 8,79 € 2
+BOS00761 Sanabell Ad. Strauß 10 Kg 30,00 € 2
+BOS00760 Sanabell Ad. Strauß 2 Kg 8,79 € 2
+BOS00759 Sanabell Ad. Strauß 400 g 1,91 € 2
+BOS00461 Sanabell Adult Gefl. 10 Kg 27,18 € 2
+BOS00453 Sanabell Adult For 400 g 1,91 € 2
+BOS00454 Sanabell Adult For. 2 Kg 8,79 € 2
+BOS00459 Sanabell Adult Gefl. 400 g 1,91 € 2
+BOS00767 Sanabell No Grain 10 Kg 32,09 € 2
+BOS00766 Sanabell No Grain 2 Kg 11,35 € 2
+BOS00765 Sanabell No Grain 400g 2,56 € 2
+BOS00462 Sanabell Sens. Geflü. 400 g 2,20 € 2
+BOS00456 Sanabell Sens. Lamm 400 g 2,20 € 2
+Preisliste Bosch Zoobedarf Brodersen
+2
+BOS00463 Sanabell Sensitiv Gefl. 2 Kg 9,10 € 2
+BOS00464 Sanabell Sensitiv Geflügel 10 Kg 28,50 € 2
+BOS00457 Sanabell Sensitiv Lamm 2 Kg 9,10 € 2
+BOS00458 Sanabell Sensitive Lamm 10 Kg 28,50 € 2
+BOS944702 Sanabelle Dental 2 kg 11,50 € 2
+BOS9447010 Sanabelle Dental 10 kg 32,09 € 2
+BOS9447004 Sanabelle Dental 400 g 2,56 € 2
+BOS9446010 Sanabelle Grande 10 kg 31,60 € 2
+BOS944602 Sanabelle Grande 2 kg 11,23 € 2
+BOS9446004 Sanabelle Grande 400 gr 2,59 € 2
+BOS9444010 Sanabelle Hair & Skin 10 kg 31,60 € 2
+BOS944402 Sanabelle Hair & Skin 2 kg 11,50 € 2
+BOS9444004 Sanabelle Hair & Skin 400 gr 2,59 € 2
+BOS9466110 Sanabelle Kitten 10 kg 28,19 € 2
+BOS946612 Sanabelle Kitten 2 kg 9,10 € 2
+BOS9466104 Sanabelle Kitten 400 gr 2,17 € 2
+BOS9442110 Sanabelle Light 10 kg 27,20 € 2
+BOS944212 Sanabelle Light 2 kg 8,79 € 2
+BOS9442104 Sanabelle Light 400 gr 1,91 € 2
+BOS9443110 Sanabelle Senior 10 kg 27,50 € 2
+BOS944312 Sanabelle Senior 2 kg 9,10 € 2
+BOS9443104 Sanabelle Senior 400 gr 2,17 € 2
+BOS_H2062 Sanabelle Thekendisplay 15,00 € 2
+BOS944802 Sanabelle Urinary 2 Kg 11,35 € 2
+BOS9448010 Sanabelle Urinary 10 kg 32,09 € 2
+BOS9448004 Sanabelle Urinary 400 g 2,56 € 2
+Preisliste BOZITA Zoobedarf Brodersen
+Artikelnummer Name Preis UstArt
+BOZ14641 Bopzita Breeder XL 15 kg 39,80 € 2
+BOZ10612 Bozita Active 2 kg 5,15 € 2
+BOZ10623 Bozita Active 5 kg 11,75 € 2
+BOZ10417 Bozita Display 2 kg 59,75 € 2
+BOZ03908 Bozita Elch 370 g 0,84 € 2
+BOZ05121 Bozita Elch 635 gr 1,12 € 2
+BOZ04918 Bozita Elch HiG 370g 0,84 € 2
+BOZ10631 Bozita Energy 15 kg 31,80 € 2
+BOZ10641 Bozita Extra 15 kg 28,50 € 2
+BOZ10601 Bozita Extra 2 kg 4,75 € 2
+BOZ10620 Bozita extra 5 kg 10,80 € 2
+BOZ03901 Bozita Flußbarsch 370 gr 0,84 € 2
+BOZ03935 Bozita Garnele 370 g 0,84 € 2
+BOZ04935 Bozita Garnelen 370 g HiS 0,84 € 2
+BOZ05128 Bozita Hecht 635 gr 1,12 € 2
+BOZ03943 Bozita Hering 30 g 0,84 € 2
+BOZ04921 Bozita HiG Ente 370g 0,84 € 2
+BOZ04917 Bozita HiG Huhn 370 g 0,84 € 2
+BOZ04916 Bozita HiG Kaninchen 370 g 0,84 € 2
+BOZ04914 Bozita HiG Lamm 370 g 0,84 € 2
+BOZ04911 Bozita HiG Makrele 370 g 0,84 € 2
+BOZ04919 Bozita HiG Pute 370g 0,84 € 2
+BOZ04934 Bozita HiS Hühn.Pute 370g 0,84 € 2
+BOZ04933 Bozita HiS Lachs 370 g 0,84 € 2
+BOZ03907 Bozita Huhn 370 g 0,84 € 2
+BOZ05124 Bozita Huhn&Reis 635 gr 1,12 € 2
+BOZ03934 Bozita Huhn-Pute 370 g 0,82 € 2
+BOZ04932 Bozita Hühn.-Leber HiG 370g 0,84 € 2
+BOZ04915 Bozita Hühnerleber 370g HiG 0,82 € 2
+BOZ63110 Bozita Hundesnack 175 g 1,05 € 2
+BOZ30320 Bozita Indoor&Ster. 2 Kg 9,58 € 2
+BOZ10511 Bozita Junior 2 kg 5,35 € 2
+BOZ10520 Bozita Junior 5 Kg 11,30 € 2
+BOZ10542 Bozita Junior 12,5 kg 24,45 € 2
+BOZ03932 Bozita Kaninchen 370 g 0,82 € 2
+BOZ03906 Bozita Kaninchen 370 g 0,82 € 2
+BOZ05127 Bozita Kaninchen 635 gr 1,12 € 2
+BOZ05711 Bozita Katze 410 g x 20 16,80 € 1
+BOZ03933 Bozita Lachs 370 g 0,82 € 2
+BOZ05131 Bozita Lachs 635 gr 1,12 € 2
+BOZ04920 Bozita Lacjs&Muschel HiG 370g 0,84 € 2
+BOZ05125 Bozita Lamm&Reis 635 gr 1,12 € 2
+BOZ10820 Bozita Light 3,5 Kg 9,25 € 2
+BOZ10811 Bozita Light 1,5 kg 5,15 € 2
+BOZ10841 Bozita Light 12 kg 26,35 € 2
+BOZ04912 Bozita Meereskrebs 370 g HiG 0,84 € 0
+BOZ10111 Bozita Mini 2 kg 4,40 € 2
+BOZ10120 Bozita Mini 5 Kg 8,95 € 2
+BOZ10441 Bozita Original 15 kg 22,87 € 2
+BOZ10411 Bozita Original 2 kg 4,40 € 2
+BOZ10420 Bozita original 5 kg 9,25 € 2
+BOZ10240 Bozita Original XL 15 kg 22,35 € 2
+BOZ10220 Bozita Original XL 5 kg 8,30 € 2
+BOZ05120 Bozita Pansen 635 gr 1,10 € 2
+BOZ04224 Bozita Pate m. Pute 360 8,40 € 2
+BOZ04220 Bozita Pate m. Rentier 360 0,84 € 2
+BOZ10340 Bozita Plus 15 kg 24,70 € 2
+Preisliste BOZITA Zoobedarf Brodersen
+BOZ10311 Bozita Plus 2 kg 4,50 € 2
+BOZ10320 Bozita Plus 5 kg 9,75 € 2
+BOZ03941 Bozita Pute 360 g 0,84 € 2
+BOZ05122 Bozita Pute 635 gr 1,12 € 2
+BOZ03940 Bozita Rentier 360 g 0,84 € 2
+BOZ03930 Bozita Rentier 370g 0,84 € 2
+BOZ05123 Bozita Rentier 635 gr 1,12 € 2
+BOZ04930 Bozita Rentier HiS 370 g 0,82 € 2
+BOZ03931 Bozita Rind 370 g 0,82 € 2
+BOZ04931 Bozita Rind 370 g HiS 0,82 € 2
+BOZ03903 Bozita Rinderhack 380 gr 0,82 € 2
+BOZ03904 Bozita Rinderleber 380 g 0,82 € 2
+BOZ04910 Bozita Schellfisch 370 g HiG 0,82 € 1
+BOZ03900 Bozita Schellfisch 380 g 0,82 € 2
+BOZ03942 Bozita Scholle 360 g 0,82 € 2
+BOZ10942 Bozita Senior 12,5 Kg 24,45 € 2
+BOZ10923 Bozita Senior 5 Kg 11,30 € 2
+BOZ10912 Bozita Senior 2 Kg 5,15 € 2
+BOZ10742 Bozita Sensitiv 12,5 kg 26,00 € 2
+BOZ10723 Bozita sensitiv 5 kg 11,70 € 2
+BOZ05126 Bozita Wild 635 gr 1,12 € 2
+BOZ10512 Bozita Young & Fit 5 kg 12,05 € 2
+BOZ10643 Bozita Young&Fit 12,5 kg 25,10 € 2
+Boz03918 Display Tetra Katze 322,56 € 2
+BOZ14740 Robour Performance 15 kg 40,80 € 2
+BOZ14441 Robur Active 15 kg 42,20 € 2
+BOZ14540 Robur Breeder 15 kg 39,80 € 2
+BOZ14541 Robur Breeder Puppy 15 kg 39,80 € 2
+BOZ14841 Robur Genuine L&R 12,5 kg 34,25 € 2
+BOZ14823 Robur Genuine L&R 2 kg 6,60 € 2
+BOZ14241 Robur Genuine S&R 12,5 kg 35,25 € 2
+BOZ14122 Robur light & Sensitiv 1,75 Kg 6,52 € 2
+BOZ14130 Robur Light+Sensitiv 6 kg 18,55 € 2
+BOZ14430 Robur Low Protein 7 kg 21,10 € 2
+BOZ14340 Robur Maintenance 15 Kg 38,10 € 2
+BOZ14332 Robur Maintenance 4,5kg 13,70 € 2
+Preisliste CHIPSI Zoobedarf Brodersen
+Artikelnummer Name Preis UstArt
+ROS990201 Aquariensand 25 kg 4,35 € 1
+ROS990101 Aquariensand weiß 5 Kg 1,25 € 1
+U45216_5 Cats Best Natur Gold 5 L 2,90 € 1
+U45216 Cats Best Nature Gold 10 L 7,95 € 1
+U45216_20 Cats Best Nature Gold 20 L 14,75 € 1
+U45209 Cats Best Öko 10 l 2,85 € 2
+U45210 Cats Best Öko plus 10 l 4,40 € 1
+U45210A Cats Best Öko Plus 20 l 10,90 € 1
+U45211 Cats Best Öko plus 40 l 20,95 € 1
+U45208 Cats Best universal 10 l 3,55 € 2
+U45208A Cats Best universal 40 l 12,10 € 2
+ROS900006 Chinchilla Sand 25kg 6,95 € 1
+ROS990411 Chinchillasand 2,5 Kg 1,50 € 1
+ROS900005 Chinchillasand 5 Kg 2,65 € 1
+U45212D Chipsi Citrus 15l 0,71 € 2
+U45212B Chipsi Citrus 60 l 1,90 € 2
+U45205 Chipsi Classic 15l 0,70 € 2
+U45202 Chipsi Classic 60 l 1,70 € 2
+U45211M Chipsi Extra medium 10 l 2,50 € 2
+U45212M Chipsi Extra Medium 15 kg 7,10 € 2
+U45212S Chipsi Extra Small 15kg 7,10 € 2
+U45211S Chipsi Extra small 10 l 2,44 € 2
+U45212 Chipsi Extra XXL 10 l 2,44 € 2
+U45212_15 Chipsi Extra XXL 15 kg 8,15 € 2
+U452121 Chipsi Green Apple 60 L 2,20 € 1
+U45213 Chipsi Mais 10 l 4,35 € 2
+U45213_15 Chipsi Mais 15 kg 11,95 € 2
+U45217_15 Chipsi Super 15kg 6,75 € 2
+U45217 Chipsi Super 3,5 kg 1,95 € 2
+U45212A Chipsi+ Green Apple 15 l 0,75 € 2
+ROS990153 Glanzkies schwarz 25 kg 5,10 € 1
+ROS990104 Kies weiß 3 - 5 mm 5 Kg 1,30 € 1
+ROS990102 Kies 1-2mm weiß 5 kg 1,30 € 1
+ROS990143 Kies dunkel 2-4 mm 5 kg 1,20 € 1
+ROS990144 Kies dunkel 3 -5 mm 5kg 1,20 € 1
+ROS990142 Kies dunkel 1-2mm 5 Kg 1,20 € 1
+ROS990242 Kies dunkel 1-2mm 25 kg 4,00 € 1
+ROS990243 Kies dunkel 2-4 mm 4,00 € 1
+ROS990244 Kies dunkel 3-5 mm 25 Kg 4,00 € 1
+ROS990245 Kies dunkel 5-8 mm 25 Kg 4,00 € 1
+ROS990145 Kies dunkel 5-8mm 5kg 1,20 € 1
+ROS990105 Kies weiß 5 - 8 mm 5 kg 1,30 € 1
+ROS990202 Kies weiß 1-2 mm 25 kg 4,40 € 1
+ROS990103 Kies weiß 2-4 mm 5 kg 1,30 € 1
+ROS990203 Kies weiß 2-4mm 25 Kg 4,40 € 1
+ROS990204 Kies weiß 3-5mm 25 Kg 4,40 € 1
+PEG70002 Mega Cats 14 Kg 6,95 € 1
+ROS900991 Papageiensand weiß 5 Kg 1,18 € 1
+ROS990008 Papgeiensand weiß 25kg 4,50 € 1
+U45215 Tierwohl 20 kg / 500 l 8,90 € 2
+U45219 Tierwohl Super 350 L 9,25 € 2
+ROS990005 Vogelsand weiß 2,5kg 0,60 € 1
+ROS990007 Vogelsand weiß 25 kg 3,10 € 1
+ROS990006 Vogelsand weiß 5kg 0,90 € 1
+Preisliste Eheim Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+EH400351 Absperrhahn 400394 3,45 € 1
+EH400451 Absperrhahn zu 400494 3,60 € 1
+EH743372 Achse 2222/2224 1,50 € 1
+EH7444390 Achse für 2026/2235 4,60 € 1
+EH743371 Achse für 2211/13,1046/48 1,60 € 1
+EH748050 Achse mit Tülle 2,00 € 1
+EH7444578 Adapter 2028 9,60 € 1
+EH3702010 air pump 200 l/h 17,60 € 1
+EH3704010 air pump 400 l/h 20,50 € 1
+EH3701010 air pump 100 l / h 14,45 € 1
+EH2628710 Aktiv-Kohle Matten 3 St. 8,10 € 1
+EH2628401 Aktivkohle - Patrone 2,25 € 1
+EH400354 Ansauger für alle Schläuche 9,00 € 1
+EH7275808 Ansaugrohr 2217 , 2226-2329 3,60 € 1
+EH7272210 Ansaugrohr zu 2211/13 2,90 € 1
+EH7656158 Anschlußhahn komplett 4,10 € 1
+EH221002 Aquaball 60 - 160 L 23,50 € 1
+EH400571 Auslaufbogen 400594 5,00 € 1
+EH400471 Auslaufbogen zu 400494 3,60 € 1
+EH221101 Außenfilter 2211 34,40 € 1
+EH221501 Außenfilter 2215 59,65 € 1
+EH400265 Ausströmer 2,20 € 1
+EH747886 Behälterteil für 2048 5,10 € 1
+EH747805 Behäterteil zu 2252/3451 6,10 € 1
+EH261741 Bioschwamm Liberty 1,60 € 1
+EH7312628 Bolzenplatte 1,40 € 1
+EH7481000 Bügel zu ECCO 4,30 € 1
+EH7445190 Deckel 2222/24 4,20 € 1
+EH7445200 Dicht.-satz Adapter 2222-24 1,20 € 1
+EH7428770 Dichtungssatz 71/73/75 5,70 € 1
+EH4005651 Diffusor 400594 16/22 3,70 € 1
+EH747890 Diffusor zu 2048 2,50 € 1
+EH4003651 Diffusor zu 400394 3,70 € 1
+EH4004651 Diffusor zu 400494 12/16 3,80 € 1
+EH8124010 Display Aquaball/Biopower 285,00 € 1
+EH400341 Doppelhahn 8,00 € 1
+EH400441 Doppelhahn 8,00 € 1
+EH400531 Druchanschluß-Set 16/22 11,70 € 1
+EH7343858 Düsenrohr für 2227 2,40 € 1
+EH727575 Düsenrohr zu 2213 2,90 € 1
+EH728650 Düsenrohr zu 2215/17/50 2,80 € 1
+EH8132020 ECCO-pro Display 399,00 € 1
+EH2508051 EHEIM Biomech 1L 8,80 € 1
+EH2501051 EHFIKARBON 1 L 2,30 € 1
+EH2507051 EHFIMECH 1.0 l 4,75 € 1
+EH2507101 EHFIMECH 2.0 l 8,50 € 1
+EH2504051 EHFISSYNTH 1.0 L 2,40 € 1
+EH2509051 EHFISUBSTRAT 1.0 l 8,40 € 1
+EH2509101 EHFISUBSTRAT 2.0 l 14,00 € 1
+EH2510021 EHFISUBSTRAT Pro 0,25 L 3,85 € 1
+EH2510051 EHFISUBSTRAT Pro 1.0 L 10,30 € 1
+EH2510101 EHFISUBSTRAT Pro 2.0 l 17,75 € 1
+EH261605 Filter zu Vorfilter400462 1,20 € 1
+EH7348618 Filtergehäuse 2012 5,30 € 1
+EH727231 Filterkorb zu 2211/2213 2,30 € 1
+EH747180 Filterkorb 2215,17, 26-29 2,90 € 1
+EH2616261 Filtermatte 4,90 € 1
+Preisliste Eheim Zoobedarf Brodersen
+2
+EH2616131 Filtermatte 2213 2,95 € 1
+EH2616310 Filtermatte 2232/34/36 4,55 € 1
+EH2616151 Filtermatte für 2215 4,45 € 1
+EH2616171 Filtermatte für 2217 5,40 € 1
+EH2616802 Filtermatten 2080 8,00 € 1
+EH261548 Filterparone zu 2048 3,50 € 1
+EH2617120 Filterpatrone zu 2012 4,80 € 1
+EH261551 Filterpatrone 2252 / 3451 4,15 € 1
+EH2617080 Filterpatrone für 2008 4,40 € 1
+EH2617100 Filterpatrone für 2010 4,60 € 1
+EH261506 Filterpatrone zu 2006 1,70 € 1
+EH261507 Filterpatrone zu 2007 3,50 € 1
+EH261808 Filterpatrone zu 2208-12 3,25 € 1
+EH261509 Filterpatrone zu 2209 3,40 € 1
+EH2616085 Filterschwamm Aquaball 1,45 € 1
+EH2616111 Filterschwamm Set 2211 2,52 € 1
+EH7600010 Filtertopf 2233 10,30 € 1
+EH2616315 Filtervlies 2032-36 3,55 € 1
+EH261608 Filtervlies 2208-2212 1,45 € 1
+EH2616265 Filtervlies 2226-2328 5,15 € 1
+EH2616225 Filtervlies f. 2222 - 2324 4,45 € 1
+EH2616135 Filtervlies für 2213 3,55 € 1
+EH3581000 Futterautomat 31,50 € 1
+EH3582 Futterautomat TWIN 44,10 € 1
+EH7655200 Gehäusedeckel 2008 4,10 € 1
+EH747075 Gewindestutzen 2211/2213 2,00 € 1
+EH7343390 Gummitüllen 2226 etc. 2,10 € 1
+EH763250 Haube zu 2213 6,10 € 1
+EH225202 Innenfilter,Kraftpaket 100 l 72,45 € 1
+EH360401 Jäger Heizer 100W 11,18 € 1
+EH3612010 Jäger Heizer 50 W 10,20 € 1
+EH360201 Jäger Heizer 50W 9,65 € 1
+EH360301 Jäger Heizer 75W 9,65 € 1
+EH748102 Käfig mit Ventilkugel 1,30 € 1
+EH7478250 Klemmstopfen 1,40 € 1
+EH2627100 Kohlepatrone zu 2010 7,85 € 1
+EH262548 Kohlepatrone zu 2048 5,80 € 1
+EH2628220 Kohleschwamm zu 2222/2224 5,75 € 1
+EH2048020 Kraftpaket 2048 54,50 € 1
+EH7444410 Kugelhalter 3,80 € 1
+EH7444068 Leistungsregler m. Di. Ring 1,30 € 1
+EH7210148 Menbran Luftpumpe 4,30 € 1
+MP0340677 mp 60er Set aquastar 60 60,00 € 1
+EH400200 Mulmglocke 4,85 € 1
+EH7273118 Nullring 2213 3,20 € 1
+EH359005 Pflanzenzange 400mm 7,40 € 1
+EH359000 Pflanzenzange 600mm 8,30 € 1
+EH100501 PowH-Pumpe 250 L 25,00 € 1
+EH2224020 Professional 2224 kompl. 86,00 € 1
+EH2071020 Professional 3 250 100,80 € 1
+EH2073020 Professional 3 350 126,50 € 1
+EH2075020 Professional 3 600 158,00 € 1
+EH2178010 Professional 3 600e Therm 346,00 € 1
+EH7343168 Profildicht. 2222 - 24 5,00 € 1
+EH734315 Profildichtung 2226-29 6,20 € 1
+EH100022 Pumpe 2-adr compact. 300 7,80 € 1
+EH100222 Pumpe 2-adr compakt 1000 15,95 € 1
+EH1100 Pumpe compact 2000 40,30 € 1
+Preisliste Eheim Zoobedarf Brodersen
+3
+EH1101 Pumpe compact 3000 53,50 € 1
+EH7657390 Pumpendeckel 2222/24 1,60 € 1
+EH7655400 Pumpenrad 5,00 € 1
+EH7655250 Pumpenrad 2008,2010 5,00 € 1
+EH7657360 Pumpenrad 2222 - 2324 8,80 € 1
+EH764599 Pumpenrad für 1048,3148 8,80 € 1
+EH600430 Pumpenrad für 2236 11,70 € 1
+EH7600430 Pumpenrad für 2236 11,70 € 1
+EH400398 Reduzierstück 12/16 9/12 1,50 € 1
+EH360801 Regelheizer 250 W 13,42 € 1
+EH765618 Rotor 2026-2128 11,40 € 1
+EH2616760 Satz Filtermatten 2076 7,50 € 1
+EH7271100 Sauger (4) 1,25 € 1
+EH727110 Sauger 1005,2007,08,10,22. 1,40 € 1
+EH401410 Sauger m. Klemmbügel 494 1,80 € 1
+EH401515 Sauger mit Klemmbügel 1,80 € 1
+EH401305 Sauger mit Klemmbügel 394 1,80 € 1
+EH353100 Schlammabsauger Batterie 39,50 € 1
+EH4004943 Schlauch 12/16 3m 4,60 € 1
+EH4005943 Schlauch 16/22 3 m 8,00 € 1
+EH4004949 Schlauch 12/16 50 m 55,90 € 1
+EH4005949 Schlauch 16/22 30 m 57,50 € 1
+EH400294 Schlauch 4/6 100 m 70,00 € 1
+EH400553 Schlauchklemme 2,80 € 1
+EH7212258 Schlauchsicherung 1,70 € 1
+EH400497 Schlaukupplungsstück 2,00 € 1
+EH261622 Set Filtervlies 2222/24 4,45 € 1
+EH261626 Set Filtervlies 2226/28 5,15 € 1
+EH400495 T-Abzweigstück 1,60 € 1
+EH2511051 Torfpellets 5,35 € 1
+EH7445058 Verschlußclip 2222-24 1,80 € 1
+EH7444450 Verschlußclip 2226-28 1,90 € 1
+EH7447150 Verschlußstopfen - Set 1,60 € 1
+EH7277708 Verschlußstopfen zu 2260 1,20 € 1
+EH401405 Winkelstück zu 400494 1,40 € 1
+Preisliste EUKANUBA Zoobedarf Brodersen
+1
+Artikelnummer Artikelnummer Preis UstArt
+EU906622 Adult Gelenke 12,5 kg 38,20 € 2
+EU905267 Adult Gelenke 2,5 kg 11,43 € 2
+EU905892 Adult Haut 12 kg 38,20 € 2
+EU904680 Adult Haut 2.3 kg 11,43 € 2
+EU535297 Adult Lamm groß 15 kg 49,07 € 2
+EU534672 Adult Lamm groß 3 kg 13,73 € 2
+EU147181 Adult Lamm&Rice 1 kg 6,09 € 2
+EU147915 Adult Lamm&Rice 15 kg 49,07 € 2
+EU147371 Adult Lamm&Rice 3 kg 13,73 € 2
+EU203915 Adult Light 15 kg 47,01 € 2
+EU203371 Adult Light 3 kg 13,51 € 2
+EU271915 Adult Light groß 15 kg 47,01 € 2
+EU271471 Adult Light groß 3 kg 13,51 € 2
+EU145915 Adult normal 15 kg 39,80 € 2
+EU145371 Adult normal 3 kg 11,91 € 2
+EU145751 Adult normal 7,5 kg 24,91 € 2
+EU229915 Adult normal groß 15 kg 43,42 € 2
+EU229371 Adult normal groß 3 kg 11,92 € 2
+EU229751 Adult normal groß 7,5 kg 24,91 € 2
+EU201181 Adult normal klein 1 kg 5,01 € 2
+EU201371 Adult normal klein 3 kg 11,92 € 2
+EU201751 Adult normal klein 7,5 kg 24,91 € 2
+EU906110 Adult Übergewicht 12,5 kg 38,20 € 2
+EU905120 Adult Übergewicht 2.5 kg 11,43 € 2
+EU905427 Adult Verdauung 12,5 kg 38,20 € 2
+EU904505 Adult Verdauung 2.5 kg 11,43 € 2
+EU811404 Boxer 12 kg 42,56 € 2
+EU811350 Boxer 2,5 kg 11,18 € 2
+EU812395 Cocker Spaniel 2,5 kg 11,18 € 2
+EU812449 Cocker Spaniel 7,5 kg 32,85 € 2
+EU110127 Display Wild Nature 182,16 € 2
+EU812289 Dt. Schäferhund 12 kg 42,56 € 2
+EU812234 Dt. Schäferhund 2,5 kg 11,18 € 2
+EU437812 EukaCat Adult Huhn 2 kg 13,43 € 2
+EU437881 EukaCat Adult Huhn 4 kg 21,42 € 2
+EU448696 EukaCat Adult Huhn 400 gr 3,30 € 2
+EU449341 EukaCat Adult Lamm 2 kg 13,43 € 2
+EU450071 EukaCat Adult Lamm 4 kg 21,42 € 2
+EU448740 EukaCat Adult Lamm 400 gr 3,30 € 2
+EU449563 EukaCat Hairball 2 kg 14,72 € 2
+EU450163 EukaCat Hairball 4 kg 23,27 € 2
+EU448924 EukaCat Hairball 400 gr 3,65 € 2
+EU449303 EukaCat Kitten 2 kg 14,72 € 2
+EU450033 EukaCat Kitten 4 kg 23,27 € 2
+EU448627 EukaCat Kitten 400 gr 3,65 € 2
+EU449464 EukaCat Light 1.5 kg 11,57 € 2
+EU449822 EukaCat Light 3 kg 17,83 € 2
+EU448795 EukaCat Light 400 gr 3,65 € 2
+EU449518 EukaCat Senior 2 kg 15,49 € 2
+EU448856 EukaCat Senior 400 gr 3,80 € 2
+EU812128 Golden Retriever 12 kg 42,56 € 2
+EU812074 Golden Retriever 2,5 kg 11,18 € 2
+EU30024 IAMS Adult Lamm 1,5 Kg 10,44 € 2
+EU110271 IAMS Nr.1 Promotion 39,60 € 2
+EU30064 IAMS Senior&Mature 1,5 kg 10,62 € 2
+EU30054 Iams Adult Fisch 1,5 Kg 10,48 € 2
+EU30053 IAMS Adult Fisch 1 kg 6,23 € 2
+Preisliste EUKANUBA Zoobedarf Brodersen
+2
+EU30049 IAMS Adult Fisch 10 kg 39,00 € 2
+EU30050 IAMS Adult Fisch 15 kg 53,96 € 2
+EU30052 IAMS Adult Fisch 3 kg 15,48 € 2
+EU30056 IAMS Adult Fisch 300 gr 2,49 € 2
+EU30013 IAMS Adult Huhn 1 kg 6,23 € 2
+EU30014 IAMS Adult Huhn 1,5 Kg 10,48 € 2
+EU30009 IAMS Adult Huhn 10 kg 39,00 € 2
+EU30010 IAMS Adult Huhn 15 kg 53,96 € 2
+EU30012 IAMS Adult Huhn 3 kg 15,48 € 2
+EU30016 IAMS Adult Huhn 300 gr 2,50 € 2
+EU30019 IAMS Adult Lamm 10 kg 39,00 € 2
+EU30020 IAMS Adult Lamm 15 kg 53,96 € 2
+EU30022 IAMS Adult Lamm 3 kg 15,48 € 2
+EU30026 IAMS Adult Lamm 300 gr 2,49 € 2
+EU641141 IAMS Fisch 100 gr 0,73 € 2
+EU30083 IAMS Hairball 1 kg 6,82 € 2
+EU30084 IAMS Hairball 1,5 Kg 10,62 € 2
+EU30081 IAMS Hairball 10 kg 41,64 € 2
+EU30082 IAMS Hairball 3 kg 16,98 € 2
+EU30086 IAMS Hairball 300 gr 2,71 € 2
+EU641035 IAMS Huhn 100 gr 0,73 € 2
+EU991185 IAMS Kaninchen/Gelee 100g 0,73 € 2
+EU640052 IAMS Kitten 100 gr 0,73 € 2
+EU30034 IAMS Kitten&Junior 1,5 Kg 10,62 € 2
+EU30030 IAMS Kitten&Junior 10 kg 40,17 € 2
+EU30032 IAMS Kitten&Junior 3 kg 16,01 € 2
+EU30036 IAMS Kitten&Junior 300 gr 2,55 € 2
+EU30113 IAMS Lachs 1 kg 6,23 € 2
+EU641226 IAMS Lachs 100 gr 0,73 € 2
+EU30112 IAMS Lachs 3 kg 15,48 € 2
+EU30116 IAMS Lachs 300 gr 2,49 € 2
+EU30075 IAMS Light 1,5 Kg 10,62 € 2
+EU30070 IAMS Light 10 kg 41,64 € 2
+EU30072 IAMS Light 3 kg 16,98 € 2
+EU30076 IAMS Light 300 gr 2,71 € 2
+EU30123 IAMS Mature Fisch 1 kg 6,48 € 2
+EU30122 IAMS Mature Fisch 3 kg 14,45 € 2
+EU30093 IAMS Mature Huhn 1 kg 6,82 € 2
+EU30091 IAMS Mature Huhn 10 kg 42,61 € 2
+EU30092 IAMS Mature Huhn 3 kg 16,98 € 2
+EU30096 IAMS Mature Huhn 300 gr 2,60 € 2
+EU641301 IAMS Maturity Huhn 100 gr 0,73 € 2
+EU994421 IAMS Mix 4 x 100g 2,19 € 2
+EU-D1051 IAMS Multicat Aktion 151,92 € 2
+EU_D1044 IAMS Pouch Minidisplay 35,82 € 2
+EU641127 IAMS Rind 100 gr 0,73 € 2
+EU30063 IAMS Senior 1 kg 6,48 € 2
+EU641363 IAMS Senior 100 gr 0,73 € 2
+EU30062 IAMS Senior&Mature 3 Kg 16,98 € 2
+EU30060 Iams Senior&Mature 10 Kg 42,62 € 2
+EU990980 IAMS Thunfisch/Gelee 100g 0,73 € 2
+EU812760 Jogging & Agility 3 Kg 13,20 € 2
+EU811916 Labrador Retriever 12 Kg 42,60 € 2
+EU621099 Mature & Senior 15 kg 43,79 € 1
+EU620054 Mature & Senior 3 Kg 13,51 € 2
+EU621167 Mature & Senior Groß 15 kg 43,80 € 2
+EU620177 Mature Groß 3 kg 13,51 € 2
+EU621235 Mature Lamm 15 kg 49,22 € 2
+Preisliste EUKANUBA Zoobedarf Brodersen
+3
+EU620290 Mature Lamm 3 kg 13,73 € 2
+EU671629 MP IAMS Adult 4x100 gr 2,19 € 2
+EU671643 MP IAMS Fisch 4x100 gr 2,19 € 2
+EU671568 MP IAMS Kitten 4x100 gr 2,19 € 2
+EU671582 MP IAMS Mature 4x100 gr 2,19 € 2
+EU671605 MP IAMS Senior 4x100 gr 2,19 € 2
+EU202181 Puppy&Junior groß 1 kg 5,05 € 2
+EU202915 Puppy&Junior groß 15 kg 40,64 € 2
+EU202371 Puppy&Junior groß 3 kg 12,18 € 2
+EU148181 Puppy&Junior klein 1 kg 5,05 € 2
+EU148371 Puppy&Junior klein 3 kg 12,18 € 2
+EU148751 Puppy&Junior klein 7,5 kg 26,45 € 2
+EU231181 Puppy&Junior Lamm 1 kg 5,72 € 2
+EU231915 Puppy&Junior Lamm 15 kg 46,15 € 2
+EU231371 Puppy&Junior Lamm 3 kg 12,86 € 2
+EU206181 Puppy&Junior mittel 1 kg 5,05 € 2
+EU206915 Puppy&Junior mittel 15 kg 40,67 € 2
+EU206371 Puppy&Junior mittel 3 kg 12,18 € 2
+EU278471 Senior groß 3 kg 13,51 € 2
+EU812555 Westhighland 1 Kg 5,40 € 2
+EU812616 Westhighland 2,5 Kg 11,18 € 2
+EU810995 Yorkshire 1 kg 5,94 € 2
+EU811053 Yorkshire Terrier 2,5 kg 11,18 € 2
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+Artikelnummer Name Preis UstArt
+225-103555 Ablaichkasten 2 in 1 3,05 € 1
+693-147641 Adresshülse S gold 0,90 € 1
+693-147542 Adresshülse M gold 0,95 € 1
+693-147504 Adresshülse M silver 0,80 € 1
+693-147559 Adresshülsen - Plastic 24 St. 4,90 € 1
+65008 Anflugspiegel Holz 0,79 € 1
+102-100677 Astgabel "L" 3,15 € 1
+102-100653 Astgabel "S" 2,17 € 1
+102-100660 Astgabel "M" 2,50 € 1
+212-172503 Astra (4 in1) Scheibenreiniger 2,99 € 1
+281-100032 Astra Fischfutter 1 L 5,90 € 2
+665-139875 Autoschutzdecke 145 x 150 cm 11,99 € 1
+309-216514 Ball Flying Duck 2,15 € 1
+361-318478 Beefis rot 100 Stck. 1,98 € 2
+317-147108 Blinkhalsband Gr. 30 - 50 cm 8,50 € 1
+317-147146 Blinkhalsband 25mm/ 40 - 70 8,70 € 1
+317-183663 Blinkhalsband L 55-70cm 7,95 € 1
+317-183656 Blinkhalsband M 40-55cm 6,95 € 1
+317-183649 Blinkhalsband S 30-40cm 5,25 € 1
+849-168837 Casino Straß 4,00 € 1
+409-122204 Catnip - Maus 2 St. 0,65 € 1
+404-228159 Catnip Sack 1,58 € 1
+453-188828 Catnip-Spray 150 ml 3,99 € 1
+849-402320 Classic Leder 1,00 € 1
+403-121917 Clor-Sisal Floppy 1,85 € 1
+403-121894 Color -Sisal Stehauf Hund 1,85 € 1
+101-100189 Color Gitterball m. Glocke 0,75 € 1
+313-117873 Control - Trainer Gr. 2 3,20 € 1
+313-117880 Control - Trainer Gr. 3 3,70 € 1
+313-117897 Control - Trainer Gr. 4 4,20 € 1
+313-117903 Control - Trainer Gr. 5 3,95 € 1
+313-117866 Control -Trainer Gr. 1 2,98 € 1
+313-117859 Control-Trainer Gr. 0 2,70 € 1
+642-313473 Doppelbürste 195 x 60 mm 3,95 € 1
+641-336144 Doppelbürste S 170 mm 1,95 € 1
+614-136966 Doppelnapf-Set 2 x 180 ml 3,05 € 1
+614-136881 Doppelnapfset metall 450 ml 2,98 € 1
+614-136898 Doppelnapfset metall 900 ml 3,98 € 1
+641-313961 Doublette 2,98 € 1
+603-199466 EBI Wasserspender 29,98 € 1
+532-133231 Eck - Holz Nagerhaus Gr. M 5,99 € 1
+433-335772 Eck - Kratzbrett 51 x 24 cm 7,50 € 1
+433-199060 Eck-Kratzbrett 53 x 28 cm 4,60 € 1
+433-199077 Eck-Kratzbrett 75 x 28 cm 4,75 € 1
+532-133248 Eckhaus Gr. "L" 10,30 € 1
+532-133330 Eckhaus Nager Circus groß 11,92 € 1
+6089 Ecknapf Meerschwein Keramik 2,90 € 1
+441-130797 Ecktoilettenhaus 15,30 € 1
+441-131114 Ecktoilettenhaus 56 x 70 / 46cm 23,06 € 1
+441-174258 ECO Katzentoilette 43x56/14 cm 8,50 € 1
+611-136577 Edelstahlnapf 1800 ml 3,15 € 1
+611-136515 Edelstahlnapf 450 ml 1,65 € 1
+373-318799 Endloswurst Lamm 0,22 € 2
+373-318812 Endloswurst Rind 0,22 € 2
+373-318744 Endloswurst Geflügel 0,22 € 2
+373-318737 Endloswurst Pansen 0,22 € 2
+40319 Entfilzer mit Kunststoffgriff 3,04 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+652-313114 Entfilzungskamm 9 Messer 8,97 € 1
+652-313183 Entfilzungsstriegel 1.5 mm 4,32 € 1
+652-313206 Entfilzungsstriegel 5.0 mm 5,71 € 1
+652-313190 Entfilzungstriegel 70 x190 mm 5,02 € 1
+645-313343 Entwirr - Flohkamm mit Griff 2,20 € 1
+645-138717 Entwirr Kamm Gr. 2,25 € 1
+645-313381 Entwirr Striegel 4,32 € 1
+645-138731 Entwirr Striegel 13 cm 4,32 € 1
+645-138700 Entwirr-Kamm 1,66 € 1
+40401 Entwirrkamm 13,5 cm 2,10 € 1
+40402 Entwirrkamm 18 cm 2,40 € 1
+6782 Entwirrkamm m. Griff 2,50 € 1
+319-147177 Ersatzbatterien 2 Stck. 0,95 € 1
+608-607855 Ersatzfilter f. Fresh Flow 4,74 € 1
+658-313664 Ersatzklingen Matbreaker 9,22 € 1
+313-117842 Erziehungshilfe Gr. 4 4,75 € 1
+313-117811 Erziehungshilfe Gr. 1 3,35 € 1
+313-117835 Erziehungshilfe Gr. 3 4,35 € 1
+313-117828 Erziehungshilfe Gr. 2 4,15 € 1
+133-101230 Exoten - Nest 90/120mm 0,90 € 1
+133-101247 Exoten Nistkorb 120/H 160 mm 1,35 € 1
+309-216521 Face - Ball 6 cm 2,15 € 1
+309-216545 Face - Ball 9 cm 2,95 € 1
+304-216132 Fancy-Plush Figur 1,50 € 1
+199-101377 Fangnetz 2,43 € 1
+408-122167 Fellmaus 2,65 € 1
+4537 Fellmaus "Mama" 3,75 € 1
+401-121474/ Fellmaus 5 cm 1500 Stck. 378,15 € 1
+401-121450 Fellmaus mit Glocke 0,32 € 1
+401-121481 Fellmaus ohne Glocke 0,28 € 1
+643-314005 Fellpflegehandschuh 2,45 € 1
+402-122129 Felltier am band mit Stimme 1,10 € 1
+281-112311 Ferien Fischfutter 0,69 € 2
+281-237137 Ferienfischfutter 7 Tage 0,65 € 2
+215-102503 Fischfangglocke 3,52 € 1
+215-102527 Fischnetz 10 cm 0,80 € 1
+215-102541 Fischnetz 15 cm 0,90 € 1
+317-183847 Flash LED Blinker 3,24 € 1
+311-306222 Flexi Long 2 - 8 11,96 € 1
+311-306161 Flexi Classic 3 - 5 11,52 € 1
+311-306130 Flexi Classic 1 - 5 7,97 € 1
+311-306093 Flexi Classic 2 - 5 8,95 € 1
+311-306192 Flexi Classic Long 2 - 8 12,75 € 1
+311-306529 Flexi comfort 2-5 11,28 € 1
+311-306345 Flexi Compakt 2 - 5 10,50 € 1
+311-306376 Flexi Compakt 3 - 5 17,40 € 1
+311-306307 Flexi Compakt 1-5 8,00 € 1
+311-346679 Flexi Giant 22,95 € 1
+311-306048 Flexi long 1 - 8 10,95 € 1
+311-306253 Flexi long 3-8 18,23 € 1
+311-306918 Flexi comf. compakt 1 -5 9,99 € 1
+311-306598 Flexi Comfort 1 - 5 9,87 € 1
+33767 Flexi comfort 3 14,54 € 1
+311-306925 Flexi Comfort Compakt 2 - 5 15,38 € 1
+311-306772 Flexi Comfort Long 2 - 8 14,47 € 1
+311-306301 Flexi Long M 7 m 8,75 € 1
+311-306232 Flexi long S 7 m 7,50 € 1
+311-610633 Flexi Maxi Long 8 m 20,49 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+311-306390 Flexi mini 5,77 € 1
+645-313312 Flohkamm Plastic 0,75 € 1
+645-138403 Flohkamm mit Griff 2,59 € 1
+306-114629 Frisbee Nylon 1,85 € 1
+503-132296 Fruchthalter 17 cm 1,19 € 1
+312-307090 Führleine 18 mm x 2 m 5,30 € 1
+312-307069 Führleine classic 12mm x 2m 6,46 € 1
+312-186572 Führleine Leder 25 mm x 2 m 16,20 € 1
+309-216552 Funny Frog Ball 9cm 2,48 € 1
+309-216538 Funny-Frog Ball 6cm 1,65 € 1
+603-193761 Futter- und Wasserspender 1,5 L 4,33 € 1
+124-100004 Futter-Wasserfontäne 110 mm 0,60 € 1
+604-171431 Futterautomat 37,51 € 1
+503-132289 Futterball f. Nager 9,5 cm 2,30 € 1
+614-136911 Futterbar 2x1,8 Ltr. 17,95 € 1
+223-103128 Futtersieb eckig 0,60 € 1
+303-236772 G.- Spielzeug "Jolly" 3,75 € 1
+303-236765 G.-Spielzeug "Jaggy" 3,30 € 1
+849-199473 Geflochten 1,50 € 1
+313-179314 Geschirr mit Griff Gr. M 14,12 € 1
+313-179338 Geschirr mit Griff XL 27,50 € 1
+313-179291 Geschirr mit Griff XS 8,27 € 1
+313-179321 Geschirr mit Griff Gr. L 19,95 € 1
+313-179307 Geschirr mit Griff Gr. S 10,95 € 1
+614-136935 Gestell + 2 Näpfe 2,8L 14,90 € 1
+614-136959 Gestell + 2 Näpfe 4 L 15,90 € 1
+101-100103 Gitterball 3 er 0,99 € 1
+409-122730 Gitterball 40 mm 0,42 € 1
+511-132333 Glas - Nagertränke 100 ml 0,90 € 1
+227-103852 Glas - Thermometer 0,95 € 1
+361-318461 Granu-Kaurollen 25 Stck. 0,30 € 2
+361-188293 Granu-Kaurollen rot 100 St 2,30 € 1
+361-317679 Granulat-Salami 30 cm 4 St. 1,90 € 2
+533-133453 Grasnest 16 cm 2,12 € 1
+533-133446 Grasnest Gr. S 1,65 € 1
+533-133439 Grasnest "doppelt" 1,73 € 1
+694-329382 Greifvogel Aufkleber 1,70 € 1
+40719 Griffkamm Sonderpreis 1,20 € 1
+303-217184 Gummi Ball 6 cm 1,20 € 1
+303-217191 Gummi Ball 9,5 cm 1,85 € 1
+643-336151 Gummi Bürstenblock 2,60 € 1
+303-217207 Gummi Football 70/120 mm 2,60 € 1
+303-217214 Gummi Hantel 50/120mm 2,75 € 1
+303-199916 Gummiball 6 cm 1,60 € 1
+303-113851 Gummiball 6 cm sortiert 0,80 € 1
+303-113899 Gummiball Gr. 3,20 € 1
+643-313800 Gummistriegel mit Handschlaufe 2,20 € 1
+665-305119 Gurt - Adapter 3,45 € 1
+313-172940 Gurt - Führleine 10mm 2 m 2,98 € 1
+313-173008 Gurt - Führleine 15 mm 2 m 3,98 € 1
+313-173046 Gurt - Führleine 15mm 250cm 3,30 € 1
+313-173121 Gurt - Führleine 25mm 2m 5,40 € 1
+313-172971 Gurt - Führleine 10 mm 250cm 2,50 € 1
+313-173091 Gurt - Führleine 20mm 250 cm 5,00 € 1
+313-173060 Gurt - Führleine 20mm 2m 4,98 € 1
+313-173169 Gurt - Führleine 25mm 250cm 6,00 € 1
+313-172452 Gurt - Geschirr 10 mm 2,95 € 1
+313-172469 Gurt - Geschirr 15 mm 3,95 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+313-172490 Gurt - Geschirr 20mm 4,85 € 1
+313-172520 Gurt - Geschirr 25mm 6,30 € 1
+313-172551 Gurt - Geschirr 25mm 90 - 120cm 6,70 € 1
+313-172278 Gurt - Halsband 10mm 1,15 € 1
+313-172315 Gurt - Halsband 20 mm 2,00 € 1
+313-172346 Gurt - Halsband 25 mm 2,70 € 1
+313-172377 Gurt - Halsband 40 mm 3,62 € 1
+313-172308 Gurt - Halsband 15 mm 1,60 € 1
+313-172858 Gurt - Leine 25 mm 1 m 2,97 € 1
+313-172797 Gurt - Leine 20mm 1 m 2,35 € 1
+313-172674 Gurt - Leine 10 mm 1m 1,50 € 1
+313-172735 Gurt - Leine 15mm 1 m 2,10 € 1
+31317303 Gurt - Leine 15mm 250 cm 3,42 € 1
+652-320587 Haarschere 18 cm 2,77 € 1
+319-179642 Halsband m. Tuch KITTY 1,58 € 1
+312-312070 Halsband m. Tuch Gr. 35 4,35 € 1
+312-312155 Halsband m.Tuch Gr. 45 4,70 € 1
+319-179628 Halsband mit Tuch 1,35 € 1
+312-312223 Halsband mit Tuch 55cm 5,78 € 1
+389-175934 Halstuch Gr. 65 2,78 € 1
+389-175927 Halstuch Gr. 30 cm 1,48 € 1
+537-132180 Hamsternest Papprolle 1,08 € 1
+537-133910 Hamsternest 100 g 2,48 € 1
+512-132432 Hamsterrad m. Gestell 3,15 € 1
+512-132425 Hamsterrad Plastic 1,98 € 1
+537-133903 Hamsterwatte 0,78 € 1
+312-185377 Handschlaufe 13mm x 60 cm 13,38 € 1
+303-177938 Hartg. Ball 6,5 cm 2,70 € 1
+303-177945 Hartg. Ball 7,5 cm 3,00 € 1
+303-177921 Hartg. Ball 5 cm 1,70 € 1
+532-188163 Hasenhaus 18,69 € 1
+532-133194 Hazienda Meerschwein 18,70 € 1
+681-171547 Heimtiertür XS- 2, 2 Wege 6,20 € 1
+503-132319 Heuraufe metall 20 x 15 cm 1,50 € 1
+264-111420 Hi-Tech air 6200 cc 9,75 € 1
+532-338100 Holz Nagerhaus Halbrund (4) 7,98 € 1
+532-338094 Holz Nagerhaus halbrund (3) 6,46 € 1
+532-133286 Holz - Nagerhaus Gr. L 8,98 € 1
+532-133101 Holz - Nagerhaus 22x11,5x11 cm 3,85 € 1
+102-100547 Holz - Trapezschauckel 12cm 0,80 € 1
+532-338070 Holz Nagerhaus 3,38 € 1
+532-133149 Holz Nagerhaus 3er Sortiment 11,70 € 1
+532-133262 Holz Nagerhaus flach S 4,99 € 1
+532-338087 Holz Nagerhaus halbrund (2) 4,98 € 1
+532-216378 Holz-Hamsterhaus "Double" 3,20 € 1
+532-229392 Holz-Hamsterhaus Bernie 1,96 € 1
+532-229415 Holz-Hamsterhaus Dannie 2,45 € 1
+532-216415 Holz-Hamsterhaus "Chimney" 2,90 € 1
+532-216408 Holz-Hamsterhaus "Column" 2,60 € 1
+532-216392 Holz-Hamsterhaus "Corner" 3,25 € 1
+532-216385 Holz-Hamsterhaus "Tower" 2,15 € 1
+532-229408 Holz-Hamsterhaus Alfie 3,90 € 1
+532-229385 Holz-Hamsterhaus Susie 3,30 € 1
+532-216422 Holz-Hamstertunnel 2 St. 2,90 € 1
+532-133033 Holz-Nagerhaus 21x12x12 2,50 € 1
+532-133040 Holz-Nagerhaus 28x19x15 3,95 € 1
+532-216439 Holz-Tunnelwippe 2,60 € 1
+65005 Holzglocke L 1,00 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+65006 Holzglocke S 0,79 € 1
+102-100394 Holzleiter 5 Sprossen 0,65 € 1
+102-100479 Holzleiter 7 Sprossen 0,85 € 1
+102-100554 Holzstangen 12mm 30cm 4st. 1,29 € 1
+102-100561 Holzstangen 4 St. 12mm x 40 cm 1,48 € 1
+663-139776 Hund - Drahtkäfig 54,99 € 1
+361-120361 Hunde - Pommes 1,80 € 2
+388-117941 Hunde - Slip Gr. 3 3,80 € 1
+388-117934 Hunde Slip Gr. 2 3,50 € 1
+388-117965 Hunde Slip Gr. 5 4,00 € 1
+388-117927 Hunde-Schutzhose Gr. 1 3,32 € 1
+677-174623 Hundebett 75 cm Kunststoff 9,95 € 1
+319-312292 Hundehalstuch 1,67 € 1
+381-175965 Hundemantel 26 cm 5,78 € 1
+381-176351 Hundemantel Gr. 26 10,00 € 1
+381-176368 Hundemantel Gr. 29 10,00 € 1
+381-176245 Hundemantel Gr. 29 cm 5,60 € 1
+381-176375 Hundemantel Gr. 32 10,00 € 1
+381-176252 Hundemantel Gr. 32 cm 5,70 € 1
+381-176382 Hundemantel Gr. 36 10,00 € 1
+381-176269 Hundemantel Gr. 36 cm 5,80 € 1
+381-176399 Hundemantel Gr. 40 10,00 € 1
+381-176276 Hundemantel Gr. 40 cm 5,90 € 1
+381-176405 Hundemantel Gr. 44 10,00 € 1
+381-176139 Hundemantel Gr. 44 10,00 € 1
+381-176283 Hundemantel Gr. 44 cm 5,95 € 1
+381-176290 Hundemantel Gr. 48 10,00 € 1
+381-176412 Hundemantel Gr. 48 10,00 € 1
+381-176429 Hundemantel Gr. 52 10,00 € 1
+381-176436 Hundemantel Gr. 56 10,00 € 1
+381-176320 Hundemantel Gr. 60 10,00 € 1
+381-176443 Hundemantel Gr. 60 10,00 € 1
+381-176450 Hundemantel Gr. 64 10,00 € 1
+381-176337 Hundemantel Gr. 64 10,00 € 1
+381-176467 Hundemantel Gr. 68 10,00 € 1
+381-176344 Hundemantel Gr. 68 10,00 € 1
+381-176078 Hundemantel Gr. 68 10,00 € 1
+381-176238 Hundemantel Gr. 26 cm 5,50 € 1
+381-175972 Hundemantel Gr. 29 6,95 € 1
+381-175989 Hundemantel Gr. 32 7,52 € 1
+381-175996 Hundemantel Gr. 36 7,99 € 1
+381-176009 Hundemantel Gr. 40 8,55 € 1
+381-176016 Hundemantel Gr. 44 9,50 € 1
+381-176023 Hundemantel Gr. 48 9,80 € 1
+381-176146 Hundemantel Gr. 48 cm 11,93 € 1
+381-176030 Hundemantel Gr. 52 9,99 € 1
+381-176306 Hundemantel Gr. 52 cm 9,41 € 1
+381-176047 Hundemantel Gr. 56 5,00 € 1
+381-176054 Hundemantel Gr. 60 10,00 € 1
+381-176061 Hundemantel Gr. 64 10,00 € 1
+387-176153 Hundepullover Gr. 25 5,00 € 1
+387-176191 Hundepullover Gr. 25 5,00 € 1
+387-176160 Hundepullover Gr. 29 5,00 € 1
+387-176214 Hundepullover Gr. 32 5,00 € 1
+387-176177 Hundepullover Gr. 32 5,00 € 1
+387-176184 Hundepullover Gr. 36 5,00 € 1
+387-176221 Hundepullover Gr. 36 5,00 € 1
+381-407677 Hundepullover mit Kapuze 16,95 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+378-318645 Hundeschokolade ( Tafel ) 0,74 € 2
+388-117910 Hundeslip Gr. 0 2,92 € 1
+309-114681 Hundespielzeug 3 Stck. 2,95 € 1
+304-216071 Hundespielzeug "Ball" 8 cm 1,75 € 1
+304-216057 Hundespielzeug "Bone" 20 cm 1,75 € 1
+304-216064 Hundespielzeug "Ring" 20 cm 1,75 € 1
+304-216088 Hundespielzeug "Rope" 33 cm 1,75 € 1
+677-146736 Hundetoilette 9,43 € 1
+409-200001 Igel- Ball Katze 0,15 € 1
+303-111796 Igelball 9 cm 2,10 € 1
+512-132449 Jogging Ball 17 cm 3,37 € 1
+512-132456 Jogging - Ball 125 mm 2,75 € 1
+512-132487 Jogging - Rad mit Halterung 2,30 € 1
+313-118054 Jogging -Leine 115 cm 12,98 € 1
+512-132500 Jogging Ball ( 3 in 1 ) 5,40 € 1
+512-132494 Jogging Rad mit Ständer 3,81 € 1
+313-118047 Jogging-Leine elastisch 115 cm 12,98 € 1
+621-236710 K.-Napf 12 cm / 500 ml 3,30 € 1
+621-236680 K.-Napf 10 cm / 100 ml 2,45 € 1
+621-236628 K.-Napf 14 cm / 400 ml 3,30 € 1
+621-236659 K.-Napf 7cm / 50 ml 1,65 € 1
+121-100264 Käfignapf eckig "M" 0,44 € 1
+121-100271 Käfignapf eckig L 0,57 € 1
+121-100257 Käfignapf eckig "S" 0,40 € 1
+678517 Kamm 2,85 € 1
+645-138496 Kamm Combo 3,78 € 1
+731-800720 Kamm mit Holz 2,50 € 1
+133-101223 Kanarien Nest 0,50 € 1
+133-101261 Kanarien Nest 110 mm 0,60 € 1
+683-187623 Katezn-Schutznetz 2 x 4m 15,22 € 1
+408-122228 Katzen Spielstab ( Fell ) 1,60 € 1
+683-187647 Katzen - Schutznetz 3 x 6 m 27,50 € 1
+683-187630 Katzen - Schutznetz 3 x 4 m 20,00 € 1
+408-122211 Katzen Spielstab 60 cm 1,60 € 1
+683-187616 Katzen-Schutznetz 2 x 2m 10,87 € 1
+409-121955 Katzen-Weichgummi Ball 4 St. 1,34 € 1
+408-236956 Katzenangel 45 cm 1,45 € 1
+408-182765 Katzenangel Apachee 1,30 € 1
+408-184059 Katzenangel Munster 2,48 € 1
+60959 Katzenball Plastik 4 St. 0,85 € 1
+44119004 Katzenecktoilette mit Rand 4,00 € 1
+453-188842 Katzenfernhalte Spray 3,85 € 1
+413-180051 Katzengarnitur 25-38/ 110 cm 5,30 € 1
+413-122877 Katzengarnitur Fashion 4,04 € 1
+412-179963 Katzengarnitur-Velour 5,98 € 1
+479-180778 Katzengras 1,20 € 2
+413-216293 Katzenhalsband Fancy-Safe 2,10 € 1
+413-122778 Katzenhalsband Fashion 2,99 € 1
+413-216330 Katzenhalsband Flower-Safe 2,10 € 1
+723-801604 Katzenhalsband gelb 0,70 € 1
+413-179734 Katzenhalsband Moon-Safe 1,90 € 1
+413-216262 Katzenhalsband B.Fly.Safe 2,10 € 1
+413-179765 Katzenhalsband Fancy Safe 2,23 € 1
+413-179888 Katzenhalsband Feathers 2,05 € 1
+413-216316 Katzenhalsband Luxe-Safe 2,10 € 1
+413-179819 Katzenhalsband Novel 1,95 € 1
+413-179666 Katzenhalsband Reflect Safe 1,98 € 1
+412-217269 Katzenhalsband Shiny-Color 1,20 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+413-216231 Katzenhalsband Velour-Safe 2,10 € 1
+413-216354 Katzenhalsband Wildlife-Safe 2,10 € 1
+431-123331 Katzenheim WALL-TOWER 85,00 € 1
+621-137567 Katzennapf "Jo-Jo" 5,81 € 1
+849-402290 Katzenset 0,45 € 1
+409-216873 Katzenspielz 50 cm a. Federst. 3,35 € 1
+402-183953 Katzenspielz. Puppe 0,75 € 1
+4021839 Katzenspielzeug 1,45 € 1
+408-182789 Katzenspielzeug "MouseTickler" 1,20 € 1
+409-231531 Katzenspielzeug Farmer 1,30 € 1
+726-802229 Katzentoil. mit Tür u. Filter 9,95 € 1
+441-130872 Katzentoilette 56x70 x27 18,60 € 1
+441-174289 Katzentoilette M 38x56/40 15,25 € 1
+441-130940 Katzentoilette "Maxi"mit Haube 27,00 € 1
+726-802045 Katzentoilette 38 x 48 cm 4,50 € 1
+441-130551 Katzentoilette 43x56/14 cm 8,50 € 1
+441-181843 Katzentoilette m.Rand klein 4,97 € 1
+441-130810 Katzentoilettenhaus 38x56/40 15,30 € 1
+441-130650 Katzentoilettenhaus 43x56/40 cm 15,30 € 1
+441-218778 Katzentoilettenhaus 43x56x40 16,70 € 1
+361-120972 Kau-Knacker 2 St. 1,18 € 2
+364-121047 Kauball Gr. L 1,95 € 1
+364-121030 Kauball Gr. M 1,24 € 1
+362-318188 Kauknochen 22 cm 2 Stck. 2,60 € 1
+362-318218 Kauknochen 12,5 cm 4 Stck. 2,45 € 1
+362-318157 Kauknochen 32cm 3,75 € 1
+363-318249 Kauknoten mini 1,48 € 1
+362-120804 Kauring 15 cm 2,05 € 1
+887-318003 Kaurolle gefüllt 120 mm 0,32 € 2
+366-121191 Kauschuh gefüllt S 12,5cm 0,97 € 1
+366-121207 Kauschuh gefüllt L 20cm 1,56 € 1
+366-188279 Kauschuh mini bunt 6 Stck. 1,45 € 1
+366-317815 Kauschuhe 7,5 cm 4 Stck. 0,79 € 1
+364-229347 Kausnack Twist'n Roll 2 x 125mm 2,98 € 2
+364-229354 Kausnack Twist'n Roll 3 x 125 mm 1,95 € 2
+364-229361 Kausnack Twist'n Roll 5 x 125 mm 1,20 € 2
+364-229378 Kausnack Twist'n Roll 6 x 60 mm 1,70 € 2
+621-348055 Keramik - Napf 100 ml 1,62 € 1
+621-137536 Keramik - Napf 275 ml 3,10 € 1
+621-336533 Keramik Doppelnapf Katze 4,15 € 1
+621-148062 Keramik Napf 0,5 L 2,98 € 1
+621-137529 Keramik Napf Motiv Hamst. 85 x 35 1,98 € 1
+621-137383 Keramik Napf ( L - s) 1,85 € 1
+621-137635 Keramik Napf mit Pfoten 120 x 45 2,15 € 1
+534-133583 Keramik-Höhle 160x110x100 mm 3,35 € 1
+621-187760 Keramik-Napf 170 mm braun, 1,50 € 1
+621-417584 Keramik-Napf 400 ml 2,10 € 1
+621-137628 Keramik-Napf mit Pfoten 1,20 € 1
+534-133576 Keramik-Steinhöhle 140x90x60 mm 2,20 € 1
+621-137390 Keramiknapf weiß L 2,80 € 1
+621-137376 Keramiknapf (S) 1,18 € 1
+621-348079 Keramiknapf bunt 1,25 L 6,25 € 1
+621-137260 Keramiknapf Hamster in Erdnuss 2,36 € 1
+621-137307 Keramiknapf Hase 5,68 € 1
+621-137291 Keramiknapf Hase mit Napf 4,58 € 1
+621-137659 Keramiknapf m. Pfoten L 4,56 € 1
+621-137666 Keramiknapf m. Pfoten XL 4,90 € 1
+621-137413 Keramiknapf oval xl 2,16 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+6070 Keramiknapf weiß oval 1,18 € 1
+649-188897 Kiddy-Coiffeur 5teilig 7,49 € 1
+671-214602 Kissen 100 ( 95 x 65 ) 15,55 € 1
+671-141892 Kissen 110 x 75 cm 18,13 € 1
+671-141977 Kissen 120 x 80 cm 25,79 € 1
+671-141618 Kissen 75 cm 9,60 € 1
+671-141687 Kissen 90 ( 85 x 60 ) 11,85 € 1
+671-189207 Kissen (Snussel 80 cm) 14,95 € 1
+671-141885 Kissen 110 x 75 cm 18,20 € 1
+671-141625 Kissen 80 ( 75x55) 6,60 € 1
+671-214596 Kissen 90 ( 85 x 60 cm) 12,27 € 1
+672-145876 Kissen Liegebett 90 cm 34,30 € 1
+671-188996 Kissen-Liegebett 65x55 18,50 € 1
+671-140840 Kissensofa (MG) 34,93 € 1
+671-140826 Kissensofa (ML) 22,99 € 1
+671-143544 Kissensofa (ML) 75cm 43,63 € 1
+671-189306 Kissensofa 80 cm ( Seat) 39,95 € 1
+672-140857 Kissensofa Alcantara 49,30 € 1
+671-143247 Kissentasche Gr 45 cm 16,90 € 1
+671-143148 Kissentasche Gr. 35 cm 13,99 € 1
+671-143308 Kissentasche Gr. 55 cm 19,99 € 1
+701-701454 Kitty Kit 10 Teile 14,95 € 1
+581-122914 Kleintiergarnitur 8mm 2,98 € 1
+102-100615 Klettersoielzeug L 35 cm 3,99 € 1
+102-100592 Kletterspielzeug "S" 3,13 € 1
+102-100608 Kletterspielzeug "M" 3,21 € 1
+711-800072 Knoten-Knochen 5-6cm 10 x 0,25 € 1
+362-318171 Knox 11,5 cm 5 Stck. 1,56 € 1
+362-318201 Knox 14 cm 3 Stck. 2,30 € 1
+362-318164 Knox 22 cm 1,57 € 1
+362-318133 Knox 7,5 cm 10 Stck. 2,70 € 1
+362-318140 Knox 26 cm 1,70 € 1
+362-318195 Knox ca. 16cm 2 St. 1,59 € 1
+533-133385 Kokosnuß Kugelhaus 130 mm 2,87 € 1
+533-133422 Kokosnuß mit Leiter 12,44 € 1
+533-133415 Kokosnuß-Haus 2 St. m. Leiter 8,97 € 1
+533-133408 Kokosnuß-Haus m.Befestigung&Leiter 6,45 € 1
+533-133392 Kokosnuß-Haus mit Leiter 13 cm 5,95 € 1
+349-238158 Kotbeutel-Ersatzrollen 4 St. 2,30 € 1
+349-238141 Kotbeuteltasche mit 3 Rollen 2,70 € 1
+644-138267 Krallenschere 14 cm 3,11 € 1
+644-320327 Krallenschere Kl. 2,42 € 1
+644-138243 Krallenzange 12,5 cm 3,46 € 1
+644-320341 Krallenzange 13 cm 3,70 € 1
+644-138250 Krallenzange 15,5cm 4,31 € 1
+644-138274 Krallenzange 15cm 3,08 € 1
+644-320334 Krallenzange 16 cm 5,35 € 1
+644-320358 Krallenzange Clipper 14,5 cm 2,87 € 1
+431-194560 Kratzbaum 153 cm (Castle - Tower) 108,00 € 1
+701-700501 Kratzbaum 240 - 265 cm 39,90 € 1
+431-123935 Kratzbaum 52 cm 15,99 € 1
+431-124925 Kratzbaum 80 cm 21,35 € 1
+431-124079 Kratzbaum Haus 125 cm 92,44 € 1
+431-184776 Kratzbaum 110cm 16,65 € 1
+431-124253 Kratzbaum 145 cm 140,00 € 1
+431-184622 Kratzbaum 60cm STAMP 6,70 € 1
+431-184882 Kratzbaum Boby 240 -265cm 43,00 € 1
+431-174807 Kratzbaum Fashion Trunk 64 cm 11,90 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+431-187951 Kratzbaum Haus 54 cm 65,16 € 1
+431-216576 Kratzbaum Palazzo 96 cm 9,95 € 1
+431-184790 Kratzbaum Rodo 110 cm 29,00 € 1
+431-123751 Kratzbaum Sandy 123 cm 106,72 € 1
+431-125427 Kratzbaum Sofa 52 cm 15,82 € 1
+431-123591 Kratzbaum Tower-World 170,00 € 1
+433-335796 Kratzbrett 540 x 90 mm 4,55 € 1
+433-335802 Kratzbrett 68 x 17 cm 6,85 € 1
+433-130407 Kratzbrett Comfort Roller 13,69 € 1
+433-185070 Kratzbrett Comfort Spring 12,60 € 1
+433-130179 Kratzbrett- Karton m. Catnip 2,10 € 1
+373-318836 Kuttlinis 1,65 € 2
+401-404164 Langhaar Fellmaus 10 cm mit Catnip 0,90 € 1
+401-121467 Langhaar Fellmausmit Stimme 0,64 € 1
+101-100301 Laternenspiegel mit Glocke 1,15 € 1
+302-410448 Latex - Huhn 1,70 € 1
+302-217368 Latex Igel 7 cm 0,95 € 1
+302-217320 Latex Noppenball 10 cm 1,65 € 1
+302-217412 Latex Spielzeug (Haloween) 12 St. 11,95 € 1
+302-217351 Latex-Ball 10 cm 1,70 € 1
+321-314111 Lautlose Pfeife 6 cm 2,15 € 1
+321-314128 Lautlose Pfeife 9 cm 2,95 € 1
+227-103906 LCD Thermometer 0,75 € 1
+312-307519 Leder-Führleine 15mm x 2 m 15,60 € 1
+312-307557 Leder-Führleine 20 mm x 2 m 18,70 € 1
+312-307212 Leder-Führleine 18mm 2m 14,62 € 1
+312-307038 Lederführleine 10 mm 2m 5,62 € 1
+409-122426 Ledermaus 5 cm 4 St. 1,46 € 1
+677-146422 Liegebett 3 Stck. 19,95 € 1
+677-146421 Liegebett mittel 6,95 € 1
+677-146423 Liegebett groß 8,55 € 1
+677-146420 Liegebett klein 5,00 € 1
+221-102862 Luftschlauch 100m 4/6 mm 27,00 € 1
+373-318829 Lunginis 1,54 € 2
+213-102282 Magnet - Scheibenreiniger "S" 2,29 € 1
+213-102299 Magnet- Scheibenreiniger "M" 2,99 € 1
+213-102305 Magnet-Scheibenreiniger L 3,48 € 1
+104-100868 Mangro Sisal Sitzstange 110 cm 8,43 € 1
+104-100851 Mangro Sisal Sitzstange 40 cm 3,48 € 1
+642-313503 Masssagebürste 15 x 10 cm 2,48 € 1
+652-313640 Matbreaker 15,37 € 1
+315-187067 Maulkorb Gr. 6 6,98 € 1
+402-183984 Maus 50 mm/ 3 St. 2,45 € 1
+621-137277 Maus mit Napf 2,65 € 1
+264-111345 Maus Startset " M " 7,92 € 1
+264-111338 Maus Startset "S" 7,98 € 1
+513-132524 Mausrad Metall 2,30 € 1
+609-134658 Menü - Set ( 4 in 1 ) 1,50 € 1
+103-100684 Messinspiegel mit Glocke 0,85 € 1
+513-132517 Metall - Laufrad Gr. M 4,28 € 1
+1072 Metall - Nistkorb Kanari 1,35 € 1
+321-120040 Metall - Pfeife 4 cm 0,85 € 1
+513-132609 Metall Laufrad 15cm Gr. M 2,40 € 1
+513-132579 Metall-Laufrad L 4,22 € 1
+513-132555 Metall-Laufrad LG 14,99 € 1
+513-132531 Metall-Laufrad SM 6,80 € 1
+513-132548 Metall-Laufrad Gr. ML 12,99 € 1
+378-318676 Milch Drops 250 g 1,68 € 2
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+378-318669 Milch Drops 125g 1,08 € 2
+378-318683 Milch Drops 500g 3,06 € 2
+564-401996 Mineralstein Soccer Alfalfa 50g 1,25 € 2
+60954 Ministrumpf und Maus 1,00 € 1
+532-133279 Nager Holzhaus Gr. M 3,95 € 1
+502-132234 Nager - Brücke Gr. M 2,47 € 1
+502-132227 Nager Brücke "S" 1,85 € 1
+501-134078 Nager Ecktoilette L 6,52 € 1
+501-134054 Nager Ecktoilette M 2,30 € 1
+661-138984 Nager Transportbox mini 20 x 15 oval 4,10 € 1
+661-215272 Nager Transportbox Mini 14,5x10,5 2,28 € 1
+661-139035 Nager Transportbox S 6,00 € 1
+511-132357 Nager- Tränke 75 ml 1,18 € 1
+563-188620 Nager-Knabbersnack 90g 0,90 € 2
+563-180587 Nager-Snack Bananenchips 150g 1,22 € 2
+563-180600 Nager-Snack Hagebutte 200g 1,22 € 2
+563-401965 Nager-Snack Herb 35g 1,10 € 2
+563-180624 Nager-Snack Karotte 125g 1,22 € 2
+563-180662 Nager-Snack Luzerne 70g 0,88 € 2
+563-180709 Nager-Snack Melissenstängel 80g 1,66 € 2
+563-401958 Nager-Snack Orange 35g 2 St. 1,09 € 2
+511-132371 Nager-Tränke 150 ml 1,40 € 1
+661-139110 Nager-Transportbox M 8,35 € 1
+502-132241 Nagerbrücke L 3,10 € 1
+502-132258 Nagerbrücke XL 7,45 € 1
+501-134047 Nagerecktoilette S Hamster 0,65 € 1
+532-188064 Nagerhaus 40 x 18 x 16 cm 8,10 € 1
+532-133224 Nagerhaus 19x13x19 cm 4,50 € 1
+532-188125 Nagerhaus 275x190x155 mm 7,80 € 1
+532-338315 Nagerhaus Country 9,94 € 1
+532-338339 Nagerhaus Hotel 9,93 € 1
+67089 Nagerhaus Jagdhütte 4,95 € 1
+563-188668 Nagersnack Fruchtmix 100g 0,98 € 2
+509-133569 Nagerstrohball Gr. S 0,89 € 1
+509-133552 Nagerstrohball Gr. L 1,50 € 1
+511-132364 Nagertränke Hamster 1,47 € 1
+511-132401 Nagertränke Hase 2,65 € 1
+511-132388 Nagertränke Meerschw. 1,99 € 1
+511-189726 Nagertränke Multi 100 ml 1,30 € 1
+511-189733 Nagertränke Multi 200 ml 1,60 € 1
+50213211 Nagertunnel L 3,20 € 1
+502-1321 Nagertunnel M 2,10 € 1
+502-1320 Nagertunnel S 1,60 € 1
+41863 Napf m. Deckel 1,87 € 1
+621-137512 Napf mit Motiv Hase 1,95 € 1
+621-137444 Napf mit Motiv Katze 3,20 € 1
+621-137505 Napf mit Motiv MS 2,99 € 1
+121-100080 Napf Papagei mit Haken 1,17 € 1
+641-313831 Natur Doppelbürste 230mm 2,50 € 1
+532-188156 Natur Nagerhaus 11,81 € 1
+532-188088 Natur-Nagereckhaus MS 3,95 € 1
+532-188071 Nature-Nagerhaus Set 2 St. 8,95 € 1
+3269 Naturgummi "Doong" 0,98 € 1
+303-113882 Neon - Wurfball groß 3,98 € 1
+303-113868 Neon Gummiball 6 cm 1,44 € 1
+303-113875 Neon-Wurfball 1,65 € 1
+399-121429 Neopren-Schuh 2St. Gr. 4 4,90 € 1
+225-103548 Netz Ablaichkasten 1,60 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+303-177990 Noppenball mit Glocke 5cm 1,11 € 1
+315-346761 Nylinmaulkorb Netzeinsatz Gr.2 2,70 € 1
+313-173701 Nylon - Führleine geflochten 2 200 cm 5,00 € 1
+313-173343 Nylon - Halsband geflochten 50 cm 1,80 € 1
+34860 Nylon - Leine 110 cm 3,30 € 1
+315-311813 Nylon - Maulkorb Gr. 0 1,85 € 1
+315-311837 Nylon - Maulkorb Gr. 2 2,90 € 1
+315-311875 Nylon - Maulkorb Gr. 6 3,17 € 1
+315-311820 Nylon - Maulkorb Gr. 1 2,27 € 1
+315-311844 Nylon - Maulkorb Gr. 3 2,75 € 1
+315-311851 Nylon Maulkorb Gr. 4 2,90 € 1
+306-114612 Nylon Wurfring 25 cm 1,15 € 1
+642-313442 Nylon-Bürste 235 x 70 mm 3,65 € 1
+313-173671 Nylon-Führleine 10 mm x 2 m 3,25 € 1
+313-173695 Nylon-Führleine geflochten 20mm 5,00 € 1
+313-173725 Nylon-Führleine geflochten 25 mm 5,55 € 1
+313-173688 Nylon-Führleine geflochten 10mm 3,25 € 1
+664-139868 Nylon-Tragetasche mit Napf 31,50 € 1
+3131732 Nylonhalsbd. gefl. 10mm 30cm 0,90 € 1
+3131733 Nylonhalsbd. gefl. 20mm 40cm 1,40 € 1
+315-346778 Nylonmaulkor Netzeinsatz Gr. 3 3,05 € 1
+315-311868 Nylonmaulkorb Gr. 5 3,02 € 1
+315-346792 Nylonmaulkorb m. Netzeinsatz Gr. 5 3,25 € 1
+315-346747 Nylonmaulkorb m. Netzeinsatz Gr.0 2,00 € 1
+315-346754 Nylonmaulkorb m. Netzeinsatz Gr.1 2,50 € 1
+315-346785 Nylonmaulkorb Netzeinsatz Gr. 4 3,12 € 1
+31317342 Nylonwürger gefl. 10mm 30-35cm 0,90 € 1
+31317345 Nylonwürger gefl. 20mm 40-47cm 1,35 € 1
+31317348 Nylonwürger gefl. 20mm 50-57cm 1,50 € 1
+646-400623 O-TOM Plastic Zechenhaken 4,30 € 1
+65409 Olympiaringe 0,50 € 1
+621-137482 P. Ecknapf m. Motiv (Hase) 5,00 € 1
+621-336540 P.-Doppelnapf 180 + 200 ml 3,00 € 1
+621-137420 P.-Napf doppelt ( eckig ) 2,50 € 1
+621-137406 P.-Napf oval 1,35 € 1
+402-122303 Panda Plüschspielzeug 0,59 € 1
+376-347027 Pansen Knochen 14 cm 2 Stck. 2,60 € 2
+376-318317 Pansenknox 17cm 2St. 3,55 € 2
+103-100707 Papageienglocke 70 mm 24cm 1,65 € 1
+371-225349 Parma-Schinkenknochen mini 4 St. 1,50 € 2
+321-314142 Pfeife m. Triller m. Kette 1,35 € 1
+223-103340 Pflanzenanker 15 St. 1,17 € 1
+643-313978 Pflegehandschuh 2,75 € 1
+731-800812 Pflegehandschuh 2 Stck. 2,50 € 1
+631-177853 Pfotenschutzpaste 75g 2,45 € 1
+315-311790 Plastic Maulkorb Gr. 9 3,98 € 1
+315-311752 Plastic - Maulkorb Gr. 5 2,95 € 1
+315-311769 Plastic - Maulkorb Gr. 6 3,20 € 1
+601-134979 Plastic - Napf 250 ml 1,10 € 1
+646-138748 Plastic - Zeckenzange 0,60 € 1
+601-135280 Plastic Napf 1,6 L 2,98 € 1
+646-164846 Plastic Zeckenzange 0,50 € 1
+601-134863 Plastic-Napf 150 ml 0,70 € 1
+601-135013 Plastic-Napf 250ml 1,10 € 1
+601-135075 Plastic-Napf 500 ml 1,50 € 1
+601-135174 Plasticnapf 1000 ml 2,50 € 1
+101-100127 Plasticspiegel m. Glocke 0,95 € 1
+101-100042 Plasticvogel 20 cm 2,23 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+601-134887 Plastiknapf 175 ml 0,80 € 1
+101-100035 Plastikvogel "XL" 1,02 € 1
+101-100011 Plastikvogel "M" 0,80 € 1
+672-145463 Plüsch Höhle 21,96 € 1
+672-323151 Plüsch - Liegebett Gr. 50 cm 18,40 € 1
+304-184103 Plüsch - Rentier 20 cm 3,95 € 1
+304-182574 Plüsch - Teddy 25 cm 3,91 € 1
+672-323410 Plüsch Liegebett 80 cm 24,90 € 1
+402-408278 Plüsch-Spielzeug f. Katzen 1,45 € 1
+402-121535 Plüschball Katze 38 mm 0,45 € 1
+672-145814 Plüschbett 80 cm 30,50 € 1
+672-145623 Plüschbett rund 50cm 17,10 € 1
+672-145685 Plüschbett rund 60cm 20,60 € 1
+304-184226 Plüschfußball 110mm 2,30 € 1
+402-122112 Plüschgesicht am Band 1,42 € 1
+304-182567 Plüschhund 45 cm 6,65 € 1
+304-317549 Plüschspielzeug 4,20 € 1
+304-114025 Plüschspielzeug 22,5 cm 2,06 € 1
+304-218167 Plüschspielzeug (GT) 30 cm 8,35 € 1
+304-218150 Plüschspielzeug (ML) 23 cm 4,50 € 1
+304-113967 Plüschspielzeug 30 cm 3,98 € 1
+304-231432 Plüschspielzeug CRACKLE 5,95 € 1
+304-184080 Plüschspielzeug m. Tau (Zoo) 4,40 € 1
+304-231388 Plüschspielzeug PINGU 20cm 3,23 € 1
+304-231395 Plüschspielzeug PINGU 30 cm 7,48 € 1
+304-231425 Plüschspielzeug PULL-DOWN 4,15 € 1
+304-231418 Plüschspielzeug SHEEP-SKIN 4,92 € 1
+304-231401 Plüschspielzeug SQUIRREL 3,50 € 1
+304-221559 Plüschspielzeug X-Mas 2,95 € 1
+402-122242 Plüschtiere 2er 20mm 0,55 € 1
+402-121757 Plushies 1,30 € 1
+435-147009 Radiator Hängematte 13,99 € 1
+503-132272 Raufe metall 28 x19 2,10 € 1
+382-175798 Reegnmantel Gr. 48 5,00 € 1
+382-175675 Regenmantel 36 cm 4,20 € 1
+382-175743 Regenmantel Gr. 26 10,00 € 1
+382-175835 Regenmantel Gr. 26 10,00 € 1
+382-175750 Regenmantel Gr. 32 5,65 € 1
+382-175842 Regenmantel Gr. 32 10,00 € 1
+382-175668 Regenmantel Gr. 32 3,95 € 1
+382-175859 Regenmantel Gr. 36 10,00 € 1
+382-175767 Regenmantel Gr. 36 5,00 € 1
+382-175774 Regenmantel Gr. 40 10,00 € 1
+382-175866 Regenmantel Gr. 40 10,00 € 1
+382-175873 Regenmantel Gr. 44 10,00 € 1
+382-175781 Regenmantel Gr. 44 5,00 € 1
+382-175705 Regenmantel Gr. 48 8,00 € 1
+382-175880 Regenmantel Gr. 48 10,00 € 1
+382-312759 Regenmantel Gr. 50 10,00 € 1
+382-175804 Regenmantel Gr. 52 5,00 € 1
+382-175897 Regenmantel Gr. 52 10,00 € 1
+382-175729 Regenmantel Gr. 56 10,00 € 1
+382-175903 Regenmantel Gr. 56 10,00 € 1
+382-175811 Regenmantel Gr. 56 cm 9,25 € 1
+382-175736 Regenmantel Gr. 60 10,00 € 1
+382-175910 Regenmantel Gr. 60 10,00 € 1
+382-175682 Regenmantel 40 cm 4,27 € 1
+6288 Reisenapf 1,90 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+564-133958 Salzleckstein 2 Stck. 0,98 € 1
+564-133941 Salzleckstein mit Halter 1 St. 0,69 € 1
+109-101384 Sandstangen 4 Stck. 0,88 € 1
+664-183809 Satteltasche f. Hunde 11,91 € 1
+502-217016 Schaukel - Wippe 20x10,5x1 3,70 € 1
+658-348918 Scherkopf PICCO BELLO 2 mm 33,35 € 1
+371-318966 Schinkenknochen 20cm 1,65 € 2
+371-318997 Schinkenknochen M 16 cm 1,30 € 1
+378-318621 Schoko Drops 250g 1,68 € 2
+378-318614 Schoko Drops 125g 1,10 € 2
+378-318638 Schoko Drops 500 g 3,06 € 2
+388-117958 Schutzhose Gr. 4 4,07 € 1
+386-312865 Schutzkragen 20 - 30 cm 2,54 € 1
+399-121399 Schutzschuh Gr. 1 3,20 € 1
+399-121405 Schutzschuh Gr. 2 4,03 € 1
+399-121412 Schutzschuhe Gr. 3 4,45 € 1
+399-121436 Schutzschuhe Gr. 5 4,65 € 1
+303-410608 Schwimm-Reifen 22cm/4cm 6,65 € 1
+303-113837 Schwimm-Wurfball 2er 4,30 € 1
+306-216903 Schwimmspielzeug 2,50 € 1
+313-179239 Seasen-Club Welpen-Set 4,32 € 1
+846-192405 Set Halsbsand + Leine geflochten 5,00 € 1
+652-401576 Shedder Gr. L 4,98 € 1
+652-401583 Shedder Gr. S 3,88 € 1
+665-305096 Sicherheits - Gurt Gr. L 9,50 € 1
+665-305089 Sicherheits - Gurt Gr. M 8,50 € 1
+665-305072 Sicherheits - Gurt Gr. S 6,80 € 1
+665-305065 Sicherheits - Gurt Gr. XS 6,20 € 1
+665-305102 Sicherheitsgurt XL 10,50 € 1
+403-121900 Sisal-Plüschspielzeug bunt 1,60 € 1
+104-100905 Sisalschaukelringe Gr. L 9,88 € 1
+121-100295 Sittich-Futternapf "S" 0,95 € 1
+102-100486 Sittichleiter 10 Sprossen 1,20 € 1
+699-217450 Snack - Ball 10 cm 3,70 € 1
+699-217443 Snack - Ball 75 mm 1,69 € 1
+699-217436 Snack - Ball XS 50 mm 1,60 € 1
+664-183786 Snack-Tasche 15 x 21 cm 3,32 € 1
+699-196038 Sofa 49 x 30 x 24 cm 14,20 € 1
+699-196069 Sofa 56 x 36 x 34 cm 20,90 € 1
+409-122365 Soft Ball kl. 0,68 € 1
+309-114711 Soft - Ball "L" 1,87 € 1
+309-114698 Soft Ball kl. 1,14 € 1
+309-114704 Softball Gr. M 1,52 € 1
+642-313909 Softbürste 120 x 140 mm 3,30 € 1
+642-313886 Softbürste 65 x 120 mm 2,15 € 1
+642-313893 Softbürste 90 x 130 mm 2,45 € 1
+642-405369 Softbürste Mini 65-120 3,40 € 1
+849-190487 Softline Leder 3,00 € 1
+101-100110 Spiegel m. Rechenschieber 1,05 € 1
+65401 Spiegelampel 0,55 € 1
+408-122082 Spielangel 1,90 € 1
+408-184066 Spielangel 75 cm mit Glocke 2,48 € 1
+408-122099 Spielangel mit Fellmaus 2,03 € 1
+672-140727 Spielnest 53 x 39 cm 11,75 € 1
+672-237076 Spielnest 54 x 40 cm 5,95 € 1
+1352 Spielseil Papagei m. Glocke 4,35 € 1
+305-114384 Spieltau 3 Knoten + Schlaufe 5,30 € 1
+305-408735 Spieltau M 125 g 1,25 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+305-114360 Spieltau 2 Knoten+Schlaufe 2,10 € 1
+305-114469 Spieltau Gr. L 2,46 € 1
+305-114346 Spieltau M mit Schlaufe 2,40 € 1
+305-114322 Spieltau S mit Schlaufe 1,80 € 1
+305-114476 Spieltau XL 40 cm 4,20 € 1
+305-114483 Spieltau XXL mit 2 Knoten 4,10 € 1
+434-216729 Spieltunnel "Cake" 6,30 € 1
+434-216774 Spieltunnel "Cheese" 6,30 € 1
+434-216828 Spieltunnel "Mobile" 9,95 € 1
+434-229934 Spieltunnel 27cm/90 cm 13,30 € 1
+434-130445 Spieltunnel 50 - 100/ 30 cm 21,50 € 1
+304-216095 Spielzeug 26,5 cm 1,75 € 1
+306-215104 Spielzeug "Monkey" 20 cm 2,40 € 1
+303-177976 Stachel Ball 1,45 € 1
+303-177983 Stachel Ball L 90mm 1,85 € 1
+612-136751 Stahl - Napf 2,8 L 2,35 € 1
+612-136744 Stahlnapf 1600 ml / 210mm 1,80 € 1
+611-200049 Stahlnapf 2 x 225 ml 1,65 € 1
+611-136652 Stahlnapf 225 ml 0,87 € 1
+611-136478 Stahlnapf 250ml rutschfest 0,87 € 1
+611-136690 Stahlnapf 2800 ml 3,45 € 1
+611-136553 Stahlnapf 900 ml 2,45 € 1
+613-136782 Stahlnapf 0,15 L (tief) Hänge-Befest. 1,25 € 1
+613-136799 Stahlnapf 0,15L (flach) Hänge-Befest. 1,30 € 1
+613-136805 Stahlnapf 0,25 z. einhängen 1,98 € 1
+613-136812 Stahlnapf 0,55L mit Hänge-Befest. 2,80 € 1
+611-136683 Stahlnapf 1850 ml 2,35 € 1
+611-189368 Stahlnapf 2 x 700 ml 3,30 € 1
+611-136492 Stahlnapf 250 ml rutschfest 0,87 € 1
+611-136539 Stahlnapf 700 ml 1,89 € 1
+611-136706 Stahlnapf 75 ml 0,95 € 1
+613-136829 Stahlnapf m. Hängebefst. 0,8 L 2,93 € 1
+613-136867 Stahlnapf m. Schraubefestg. 1,8l 5,38 € 1
+613-136843 Stahlnapf mit Schraub-Befestig. 0,55 L 2,24 € 1
+402-408582 Stehauf - Maus 1,80 € 1
+442-131381 Streulöffel 0,64 € 1
+442-131466 Streulöffel 0,64 € 1
+442-131268 Streulöffel fein 0,68 € 1
+442-131275 Streulöffel grob 0,68 € 1
+442-131305 Streulöffel Giant 30 cm 1,20 € 1
+533-133484 Strohhaus "ellbogen" 4,24 € 1
+313-173923 Suchleine 10 m 6,40 € 1
+313-173886 Suchleine 10m 2,94 € 1
+313-173916 Suchleine 5 m 3,60 € 1
+313-173879 Suchleine 5 m 2,38 € 1
+313-173930 Suchleine 8mm x 20 m 8,15 € 1
+313-173978 Suchleine Gurt 10m 15mm 9,56 € 1
+313-173961 Suchleine 15mm x 5 m 6,58 € 1
+305-114506 Tau - Ball Gr. M 1,30 € 1
+305-114520 Tau - Ball XL 5,85 € 1
+305-114544 Tau - Stange 20 cm 1,40 € 1
+305-114537 Tau -Ball mit Schnur 1,60 € 1
+305-114490 Tau Ball S 0,85 € 1
+305-408797 Tauball L 300 g 3,30 € 1
+305-236796 Tauknochen 28 cm m. 2 Bällen 2,30 € 1
+305-236789 Tauknochen m. G.-Ball 20 cm 2,45 € 1
+216-102701 Teichkescher 105 cm 3,25 € 1
+303-113776 Tennis - Gummiball 65 mm 0,99 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+409-121542 Tennis Gummiball 4,5 cm 0,20 € 1
+303-113745 Tennis Gummiball 9cm 0,95 € 1
+227-103937 Terrarien Thermometer 1,97 € 1
+125-100745 Teutomat 2,94 € 1
+227-215951 Thermo. & Hygrometer 7,40 € 1
+691-147368 Tischset 560 x 380 mm 1,98 € 1
+501-134061 Toilette mit Einstieg 37 x 27 2,50 € 1
+443-131541 Toilettenbeutel 10 Stck. 1,60 € 1
+443-131589 Toilettenbeutel 20 Stck. 2,70 € 1
+445-181836 Toilettenhaus Set 11,98 € 1
+445-199749 Toilettenhaus - Sortiment 14,50 € 1
+4441316 Toilettenvorlegematte 4,50 € 1
+664-237045 Tragetasche 38 x 17,5 x 29 cm 19,98 € 1
+664-139851 Tragetasche Gr. M 55x30x30 15,95 € 1
+664-139844 Tragetasche Gr.S 11,49 € 1
+124-100073 Tränke Sitt. 0,80 € 1
+124-100134 Tränke 15,5 cm 0,90 € 1
+124-100097 Tränke 16,5 cm 0,70 € 1
+661-190180 Transportbox 2 Türen 15,50 € 1
+661-191279 Transportbox 42x28x29 cm 8,95 € 1
+661-174586 Transportbox Gr. 1 11,65 € 1
+661-139219 Transportbox XL 16,99 € 1
+661-139356 Transportbox 49x32/32cm FD 13,99 € 1
+661-139295 Transportbox TFD XL 19,48 € 1
+661-139455 Transportbox TFD 49x32/32 15,99 € 1
+669-149515 TransportKarton M 0,68 € 1
+667-134122 Travel - Drink 250 ml 1,90 € 1
+667-216491 Travel-Drink 450 ml 1,95 € 1
+475-132067 Trockenfisch 50 g 0,80 € 2
+564-133972 Trolls Hase 1,18 € 1
+223-102954 Tubifex-Futtersieb rund 0,52 € 1
+42284 Vinyl Igel L 1,50 € 1
+42283 Vinyl Igel M 1,40 € 1
+111-100912 Vogel - Spielplatz Gr. M 10,56 € 1
+621-137369 Vogelnapf kl. rund 0,87 € 1
+111-100929 Vogelspielplatz "L" 17,50 € 1
+111-100936 Vogelspielplatz "S" 6,95 € 1
+102-215760 Vogelspielzeug Fun-Stacks 1,85 € 1
+109-216453 Vogelspielzeug Luffa 35 cm 4,95 € 1
+109-216446 Vogelspielzeug Luffa 30 cm 2,90 € 1
+102-215821 Vogelspielzeug "Chime" 2,25 € 1
+101-217153 Vogelspielzeug Acryl 15 cm 3,25 € 1
+101-217160 Vogelspielzeug Acryl 17 cm 5,40 € 1
+101-217146 Vogelspielzeug Acryl 20 cm 5,40 € 1
+102-215791 Vogelspielzeug LA-SEA Senorita 2,40 € 1
+102-215814 Vogelspielzueg LA-SEA Worm 1,90 € 1
+444-131626 Vorlegematte für Katzentoil. 7,95 € 1
+603-236451 Wasserspender f. PET-Flasche 0,90 € 1
+675-146248 Weidenkorb 80 cm 16,50 € 1
+675-146255 Weidenkorb 90 cm 22,40 € 1
+675-321355 Weidenkorbsatz (16 Stck.) 40-120 151,86 € 1
+364-121368 Weihnacht - Kauartikel 1,95 € 1
+401-222089 Weihnachtsmaus 6 St. auf Karte 1,65 € 1
+309-217313 Welpen-Spielzeug 2 Stck. 2,10 € 1
+313-179246 Welpengarnitur 4,30 € 1
+387-176207 Welpenmantel 29 cm 7,44 € 1
+309-217306 Welpenspielzeug Latex & Spieltau 1,95 € 1
+309-216101 Welpenspielzeug Luffa 2 St. 2,50 € 1
+Preisliste EUROPET-BERNINA Zoobedarf Brodersen
+309-217108 Welpenspielzeug Plüsch 2,85 € 1
+309-217115 Welpenspielzeug Plüsch "Flower" 2,40 € 1
+309-188002 Welpenspielzeug Set 3 St. 2,93 € 1
+128-191880 Winterfutterhaus Gr. 1 7,10 € 1
+128-191897 Winterfutterhaus Gr. 2 10,50 € 1
+381176054 Wintermantel 60cm 11,70 € 1
+502-217009 Wippe 30x9,5x12cm 4,88 € 1
+281-112328 Wochenend-Fischfutter 0,85 € 2
+303-178003 Wurfball hart 2,55 € 1
+309-216507 Wurfstange Flying Duck 4,60 € 1
+646-199985 Zeckenhaken 2 St. 3,35 € 1
+642-137918 Zupbürste 9 cm 3,65 € 1
+40910 Zupfbürste "Classic" 2,81 € 1
+642-137925 Zupfbürste 12cm 4,25 € 1
+642-137901 Zupfbürste 6 cm 2,50 € 1
+Preisliste Feline Porta Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+4553 STINKIES Katzenspielzeug 1,75 € 1
+59818 Clicker 1,90 € 1
+75061 Deko - Hund 33,50 € 1
+59810 Easy Glider ca. 23cm 4,75 € 1
+59811 Easy Glider ca. 28 cm 5,90 € 1
+4615 Extreme Classic 15 kg Katzenstreu 10,80 € 1
+4614 Extreme Classic 7 kg Katzenstreu 5,15 € 1
+4709 Feline Porta 24 x 156g 26,88 € 2
+4700 Feline Porta 24 x 90g 18,00 € 2
+4735 Feline Porta 24x400g 49,20 € 2
+32311 Feline Porta "All in One" 2 Kg 7,13 € 2
+32312 Feline Porta "All in One" 500g 1,92 € 2
+32363 Feline Porta "Cats Heaven" 2 Kg 7,05 € 2
+32364 Feline Porta "Cats Heaven" 500g 1,92 € 2
+32289 Feline Porta Finest 2 Kg 8,20 € 2
+32285 Feline Porta Finest 500 g 2,05 € 2
+59812 Foam Ball large 2,95 € 1
+59813 Foam Ball medium 2,30 € 1
+90402 Go-Frrr Expanderball L 5,10 € 1
+90400 Go-Frrr Expanderball S 4,50 € 1
+4610 Golden Grey Puder 14 kg 7,65 € 1
+4582 Katzenspielzeug "Pillows" 24 St. 54,95 € 1
+1900 Kitty Boinks 0,40 € 1
+9069 Pentapull Plüsch 8,95 € 1
+6100 Pet Fountain 2 L 29,70 € 1
+9075 Plush Bottle Tier 6,95 € 1
+4613 Professional Classic 15 kg 8,05 € 1
+6041 Tri Pull groß 75 cm 8,30 € 1
+6040 Tri Pull klein 50 cm 4,50 € 1
+4450 Tug-n-toss Jolly Ball 4,5 5,30 € 1
+59822 Wurfstab m. Foamball 6,00 € 1
+Preisliste EXTREME CLASSIC;
+FELINE PORTA
+Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+6115 Aqua Garden Zubehör 5,40 € 1
+75051 Deko Katze 59 cm 13,13 € 1
+75050 Deko Katze 62 cm 11,88 € 1
+7044 Doggles Katze schwarz 7,56 € 1
+4615 Extreme Classic 15 kg Katzenstreu 10,05 € 1
+4614 Extreme Classic 7 kg Katzenstreu 4,85 € 1
+4709 Feline Porta 24 x 156g 19,68 € 2
+4700 Feline Porta 24 x 90g 13,92 € 2
+4735 Feline Porta 21 400gx24 38,40 € 2
+49000 Feline Porta 21 Struvit 2kg 7,02 € 2
+4725 Feline Porta Pouchbeutel 20St. 11,60 € 2
+76101 Green-Snack Zahnplege 3 St. 2,40 € 2
+5708 Hundeweste schwarz 8,95 € 1
+81446 Nutri Dent 3 St. 4,14 € 2
+81443 Nutri Dent 12ST. 4,14 € 2
+81445 Nutrident Zahnpflege L 4St. 4,14 € 2
+81444 Nutrident Zahnpflege M 8St. 4,14 € 2
+6801 Panic Maus Garfield 14,95 € 1
+6100 Pet Fountain 2 L 29,70 € 1
+6102 Pet Fountain Filter 3,50 € 1
+32248 Porta21 2kg Ente&Reis 7,70 € 2
+32256 Porta21 2kg Fisch&Hafer 7,86 € 2
+32218 Porta21 2kg Huhn&Reis 6,96 € 2
+4613 Professional Classic 15 kg 7,50 € 1
+6085 Rüschenkragen 2,90 € 1
+5471 Sonnenbrille f. Hunde 12,46 € 1
+59801 Triple Crown TCEFBM 3,63 € 2
+59803 Triple Crown TCETBM1 6,20 € 1
+59804 Triple Crown TCETBS1 3,78 € 1
+59807 Trple CrowmTCETCSC 1,40 € 2
+59806 Trple Crown TCETSC 2,02 € 2
+Preisliste FERPLAST Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+540523 Aida weiß 48,71 € 1
+840970 ANI 4097 Holzspielzeug 2,56 € 1
+840910 ANI 4091 Holzspielzeug 2,97 € 1
+840960 ANI 4096 Holzspielzeug 3,78 € 1
+840980 ANI 4098 Holzspielzeug 2,04 € 1
+730078 Atlas 10 m. Kissen 11,87 € 1
+730500 Atlas 50 ( Transportbox ) 97,06 € 1
+730071 Atlas 10 EL 8,95 € 1
+730408 Atlas 20 de Luxe open 22,50 € 1
+730081 Atlas 20 EL 11,75 € 1
+730088 Atlas 20 mit Kissen 15,28 € 1
+730600 Atlas 60 ( Transportbox ) 116,17 € 1
+730700 Atlas 70 ( Transportbox ) 151,15 € 1
+731100 Atlas Car Maxi 109,95 € 1
+51018802 Bali messing 57,86 € 1
+550095 Beta chrom 61,32 € 1
+570734 Briciola Mauskäfig 26,19 € 1
+561105 Brio Voliere 164,52 € 1
+561125 Brio Maxi Voliere 197,50 € 1
+561095 Brio mini Voliere 139,00 € 1
+525012 Canto messing 73,80 € 1
+570651 Casita 80 Käfig 36,25 € 1
+850207 Catnip - Sack 0,75 € 1
+57037401 Chinchilla "Super" crom 93,71 € 1
+752559 Club C15/44 Halsband 1,30 € 1
+752509 Club C10/32 Halsband 0,95 € 1
+841727 Comfort 1 2,10 € 1
+841747 Comfort 2 2 Stck. 3,05 € 1
+757609 CR 5626 3,68 € 1
+570114 Criceti 11 Hamsterkäfig 17,00 € 1
+570094 Criceti 9 (Hamsterheim) 14,76 € 1
+829460 Dandy 110 39,95 € 1
+829430 Dandy 65 Hundebett 15,12 € 1
+829440 Dandy 80 Hundebett 24,35 € 1
+753549 Daytona GA 20 Leine 8,24 € 1
+752399 Daytona Würger 20/55 2,15 € 1
+755789 Daytona PEL Geschirr 9,72 € 1
+755779 Daytona PEM Geschirr 7,69 € 1
+755769 Daytona PES Geschirr 6,31 € 1
+510568 Diva messing 36,75 € 1
+51056811 Diva weiß 33,88 € 1
+934830 Drinky large 2,30 € 1
+846637 Drinky large 600 ml 3,10 € 1
+934820 Drinky medium 2,00 € 1
+846627 Drinky medium 300 ml 2,45 € 1
+934800 Drinky mini 1,47 € 1
+846607 Drinky mini 75 ml 1,80 € 1
+934810 Drinky small 1,58 € 1
+846617 Drinky small 150 ml 2,45 € 1
+570294 Duna Hamster 36,76 € 1
+931390 Duna Klammer 0,35 € 1
+570334 Duna maxi 50,35 € 1
+570284 Duna MS. 30,90 € 1
+755709 Easy Large Geschirr 4,95 € 1
+755589 Easy P EX. Small - Geschirr 2,50 € 1
+755659 Easy PEM Geschirr 3,50 € 1
+755609 Easy PES Geschirr 2,90 € 1
+Preisliste FERPLAST Zoobedarf Brodersen
+2
+755759 Easy Pexl Geschirr 6,48 € 1
+853567 Edelstahl Streulöffel PA 5356 3,10 € 1
+932450 Etage L 373 4,65 € 1
+550488 Exotica 3 open chrom neu 365,88 € 1
+55046502 Exotica 1 open messing 230,15 € 1
+550478 Exotica 2 open 281,41 € 1
+900010 F 1 Ständer 10,95 € 1
+90054002 F 54 messing Ständer 19,31 € 1
+900809 F 80 Ständer 31,99 € 1
+934310 Filter f. Clear Cat 1,25 € 1
+855028 Flaschenset 1,90 € 1
+841907 Flex 1 variable Stangen 7,50 € 1
+841927 Flex 2 varable Stangen 7,90 € 1
+579224 Flipper Hamsterkäfig 46,24 € 1
+858388 Flohkamm GRO 5838 2,15 € 1
+841827 FPI 4182 Sitzstange 1/2 groß 1,95 € 1
+845037 FPI 4503 Napf 2,05 € 1
+84556799 FPI 4556Tränke 1,50 € 1
+845647 FPI 4564 Futtertränke 3,15 € 1
+841807 FPI 4180 Sitzstange 1/2 2 St. 1,05 € 1
+843227 FPI 4322 Futternapf 0,92 € 1
+843247 FPI 4324 Futternapf 0,97 € 1
+845087 FPI 4508 Napf 2,45 € 1
+845127 FPI 4512 Napf L 98 2,85 € 1
+845187 FPI 4518 Napf 5,10 € 1
+845627 FPI 4562 Futtertränke 2,37 € 1
+848440 FPI 4844 Röhre 4,30 € 1
+900170 Freisitz Charly 7 142,60 € 1
+570624 Furet X L Käfig 98,98 € 1
+570598 Furet plus 89,01 € 1
+845240 Futtersäule 4,05 € 1
+52014802 Gaia messing 30,39 € 1
+52014811 Gaia weiß 28,45 € 1
+600230 Geo extra large 7,30 € 1
+600430 Geo flat large 10,90 € 1
+600400 Geo flat small 5,90 € 1
+600220 Geo large 5,97 € 1
+600240 Geo Maxi 12,15 € 1
+600210 Geo medium 3,75 € 1
+600200 Geo small 2,45 € 1
+755559 Geschirr XL 7,60 € 1
+939090 Gitter L 30 3,60 € 1
+550088 Greta m. Zubehör 91,29 € 1
+570064 Hamster Country 13,76 € 1
+570184 Hamster Tris 31,30 € 1
+846337 Hamsterhaus Dacia 2,43 € 1
+846068 Hamsterrad Plastik mit Ständer 3,03 € 1
+84802799 Hamsterrad geschlossen 2,10 € 1
+848900 Hängematte f. Frettchen 4,00 € 1
+915140 Haube N 14 8,20 € 1
+840027 Holz-Leiter PA 4002 1,10 € 1
+840047 Holz-Leiter PA 4004 1,65 € 1
+840067 Holz-Leiter PA 4006 2,15 € 1
+84006700 Holzleiter 11 Sproßen 2,05 € 1
+520218 Ibiza open weiß 51,95 € 1
+570588 Jenny Nagerkäfig 84,58 € 1
+561075 Jolly Käfig 142,35 € 1
+850027 Katzenangel 70 cm TER 5002 1,15 € 1
+Preisliste FERPLAST Zoobedarf Brodersen
+3
+852087 Katzenball 3 St. 1,35 € 1
+720590 Katzentoilette Magix 31,43 € 1
+720537 Katzentoilette Prima 11,00 € 1
+931850 L 110 Tränke eckig 0,60 € 1
+933810 L 140 Rad 1,50 € 1
+938040 L 289 Schutz f. Futternapf 4,60 € 1
+950020 L 302 Sirio 2,30 € 1
+933950 L 388 /Räder f. 50/60/70 25,77 € 1
+845607 L 62 S Spezial 4560 Futternapf 1,99 € 1
+931220 L 101 Badehaus Papagei 5,95 € 1
+950000 L 300 Sirio 1,65 € 1
+939710 L 451 Klammer 0,30 € 1
+842047 LAM 4204 Spiegel mit Fütterung 1,80 € 1
+848060 LAM 4806 2,13 € 1
+848080 LAM 4808 Space Tunnel 2,15 € 1
+848100 LAM 4810 1,43 € 1
+855807 Latexspielzeug L 1,80 € 1
+855658 Latexspielzeug M 1,35 € 1
+855407 Latexspielzeug S 1,10 € 1
+85540799 Latexspielzeug S 6 St. 5,70 € 1
+848980 Leiter FPI 4898 1,65 € 1
+840267 Leiterspielplatz 3,30 € 1
+520107 Linda crom 19,70 € 1
+719100 Lindo (Tablett m. 2 Näpfen) 6,11 € 1
+550385 Loreto messing 251,27 € 1
+55038501 Loretto chrom 245,00 € 1
+910200 M 20 Schale 22,25 € 1
+910510 M 51 Schublade 13,50 € 1
+540363 Maina chrom 78,82 € 1
+520178 Manila messing 57,95 € 1
+52017811 Manila weiß 50,10 € 1
+755859 Maulkorb "Kurzschnauze" 7,55 € 1
+755866 Maulkorb Muzzle 11 6,85 € 1
+755867 Maulkorb Muzzle 13 7,60 € 1
+755862 Maulkorb Muzzle 3 4,95 € 1
+755863 Maulkorb Muzzle 5 5,30 € 1
+755864 Maulkorb Muzzle 7 5,85 € 1
+755865 Maulkorb Muzzle 9 6,30 € 1
+755819 Maulkorb Small 5,10 € 1
+755849 Maulkorb Extra Large 8,10 € 1
+755839 Maulkorb Large 7,15 € 1
+755829 Maulkorb Medium 6,30 € 1
+755809 Maulkorb Mini 4,60 € 1
+550135 Max 11 messing 78,95 € 1
+550255 Max 6 118,69 € 1
+916140 MC 14 Schublade 3,90 € 1
+570754 Mini Duna complett 20,57 € 1
+570744 Mini Duna leer 13,06 € 1
+561205 Mito Voliere 241,97 € 1
+91515024 N 15 Haube f. Duna 14,95 € 1
+845057 Napf L 94 (FPI 4505) 1,00 € 1
+845107 Napf FPI 4510 1,40 € 1
+931810 Napf L 24 0,49 € 1
+931820 Napf L 62 0,77 € 1
+845147 Napf L 99 3,05 € 1
+711100 Napf Party 10 2,70 € 1
+711120 Napf Party 12 3,80 € 1
+711140 Napf Party 14 1,71 € 1
+Preisliste FERPLAST Zoobedarf Brodersen
+4
+711160 Napf Party 16 1,38 € 1
+711020 Napf Party 2 0,83 € 1
+711040 Napf Party 4 0,92 € 1
+711060 Napf Party 6 1,21 € 1
+711080 Napf Party 8 1,53 € 1
+950040 Napf Sirio L 304 2,95 € 1
+92245099 Natura F4 Futterhaus 6,40 € 1
+92248099 Natura F5 Futterhaus 5,80 € 1
+920040 Nesteier 0,25 € 1
+921090 Nido XL Nistkasten G.S. 9,95 € 1
+722200 Nippy 2,94 € 1
+936010 Nippy Beutel 1,30 € 1
+921010 Nistkasten Nido ZG 1 1,80 € 1
+921030 Nistkasten Nido ZG 3 2,50 € 1
+921070 Nistkasten Nido ZG 7 4,80 € 1
+921050 Nistkasten Sittich 3,95 € 1
+52037802 Nuvola Käfig 73,45 € 1
+753319 NY 15 TWIN 2,15 € 1
+753309 NY 10 TWIN 10 1,51 € 1
+75260955 NY C 20 bunt 2,48 € 1
+75350922 NY G 20 Leine 1 m 2,40 € 1
+75360922 NY G 25 Leine 1 m 2,91 € 1
+75365922 NY GA 25 Leine 2m 6,75 € 1
+864427 PA 6442 Hundespielzeug 7,60 € 1
+840827 PA 4082 Schaukel 0,76 € 1
+842848 PA 4284 Spielzeug 5,31 € 1
+842689 PA 4286 Spielzeug 7,56 € 1
+842918 PA 4291 Spielzeug 12,77 € 1
+842928 PA 4292 Spielzeug 3,59 € 1
+855228 PA 5522 Hundespielzeug 5,20 € 1
+855388 PA 5538 Spielz. - Hd. - Kt. 2,35 € 1
+864407 PA 6440 Hundespielzeug 5,70 € 1
+864707 PA 6470 Spielzeug 5,35 € 1
+52024811 Pagoda P weiß 34,95 € 1
+52024802 Pagoda P messing 41,95 € 1
+520598 Palladino 4 Käfig 45,90 € 1
+840887 Papageienschaukel TER 4088 3,79 € 1
+842447 Papageienspiegel mit Glocke 3,05 € 1
+570454 Park (Hasengehege) 62,71 € 1
+711118 Party 18 Doppelnapf 1,96 € 1
+75550922 PEL Geschirr L 5,99 € 1
+75545922 PEM Geschirr M 4,83 € 1
+75540922 PES Geschirr S 4,14 € 1
+520568 Piano 3 Käfig 29,95 € 1
+520588 Piano 4 Käfig 37,85 € 1
+520628 Piano 5 Käfig 68,30 € 1
+520648 Piano 6 Käfig 87,50 € 1
+866040 Plüsch Ball ANI 6604 2,40 € 1
+866100 Plüsch Frisbee ANI 6610 2,96 € 1
+866060 Plüsch Stern ANI 6606 4,05 € 1
+866020 Plüschhantel ANI 6602 2,30 € 1
+845227 Pretty 4522 Futternapf 1,95 € 1
+932440 PUB Rabbit 100 5,35 € 1
+570534 Rabbit 120 58,47 € 1
+57049499 Rabbit 100 Deluxe 48,72 € 1
+570523EL Rabbit 100 EL 22,50 € 1
+570523 Rabbit 100 Neue farben 35,82 € 1
+570514 Rabbit 140 96,42 € 1
+Preisliste FERPLAST Zoobedarf Brodersen
+5
+570384 Rainbow Hamster 34,76 € 1
+847027 Raufe ROGER 1,82 € 1
+51049802 Regina messing Käfig 27,87 € 1
+510498 Regina weiß Käfig 18,00 € 1
+52007801 Rekord 2 chrom 17,49 € 1
+52007811 Rekord 2 hellblau 14,70 € 1
+520078 Rekord 2 messing 20,47 € 1
+520079 Rekord 2 P weiß 19,87 € 1
+520411 Rekord 5 KD weiß 64,42 € 1
+540465 Rekord 6 spezial weiß 67,70 € 1
+520061 Rekord 1 12,00 € 1
+52009801 Rekord 3 chrom 29,50 € 1
+52009802 Rekord 3 messing 36,74 € 1
+520097 Rekord 3 P messing 38,26 € 1
+52009711 Rekord 3P weiß 31,90 € 1
+520038 Rekord 4 blau m. Zubehör 40,01 € 1
+52003802 Rekord 4 messing 48,50 € 1
+520398 Rekord 5P Vogelkäfig 61,95 € 1
+52046814 Rekord 6 74,55 € 1
+848400 Röhre F P I 4840 4,60 € 1
+52015802 Rosa messing 34,06 € 1
+52015817 Rosa schwarz 31,79 € 1
+910260 Schale M 26 23,50 € 1
+910190 Schale M 19 11,50 € 1
+910240 Schale M 24 13,95 € 1
+910500 Schale M 50 13,60 € 1
+910640 Schale M 64 23,95 € 1
+910140 Schale M 14 16,50 € 1
+910150 Schale M 15 7,64 € 1
+910250 Schale M 25 6,20 € 1
+910060 Schale M 6 9,50 € 1
+91060017 Schale M 60 17,50 € 1
+570148 Scoiattoli Maxi zink 103,71 € 1
+702129 Siesta Deluxe 12 19,90 € 1
+702089 Siesta Deluxe 8 10,30 € 1
+702109 SiestaDeluxe 10 13,65 € 1
+846740 Sippy 4674 medium 3,45 € 1
+846760 Sippy large 600 ml 4,30 € 1
+846720 Sippy small 2,90 € 1
+856027 Sisalspielzeug 1,15 € 1
+842017 Sitzstange m. Spielzeug 1,60 € 1
+54015301 Sonia crom 38,14 € 1
+54015302 Sonia messing 45,53 € 1
+865300 Spieltau " 8 " 3,15 € 1
+865280 Spieltau - Ring 3,70 € 1
+90007902 Ständer F 7 messing 15,90 € 1
+900700 Ständer F 70 16,81 € 1
+900710 Ständer F 71 17,95 € 1
+900720 Ständer F 72 29,70 € 1
+900079 Ständer F7 weiß o. braun 11,55 € 1
+900360 Ständer Summet 80 schw. 50,92 € 1
+72108012 Swing 15 T 32,12 € 1
+840847 TER 4084 Vogelschaukel 1,25 € 1
+865240 TER 6524 Spieltau 4 Knoten 4,30 € 1
+865220 TER 6522 Spieltau 3 Knoten 2,50 € 1
+844057 TREVI 4405 Badewanne 2,50 € 1
+931840 Trinkautomat L 66 1,00 € 1
+931860 Trinkautomat L 68 1,51 € 1
+Preisliste FERPLAST Zoobedarf Brodersen
+6
+938020 Tür f. Napf L2 0,25 € 1
+871040 Tür für Hundehütte 12,50 € 1
+570014 Vario Hamsterheim 21,02 € 1
+520028 Victoria messing 137,50 € 1
+520188 Villa messing 48,56 € 1
+52018817 Villa schwarz 44,35 € 1
+860127 Vinalball MAG 6012 1,35 € 1
+860107 Vinylball MAG 6010 1,00 € 1
+860147 Vinylball MAG 6014 2,25 € 1
+540568 Viola G.S. Käfig 70,72 € 1
+840950 Vogelspielzeug Holz 3,35 € 1
+840990 Vogelspielzeug Ringe + Glocke 2,22 € 1
+840920 Vogelspielzeug Holz 2,96 € 1
+840940 Vogelspiezeug Holz 1,51 € 1
+561145 Voliere Aria 131,55 € 1
+561325 Voliere Duetto 291,96 € 1
+561005 Voliere Rondo 260,00 € 1
+Preisliste FINNERN Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+91312 Beef-Pommes 8 x 100g 10,40 € 2
+91212 Biskuit 5-Sorten 750g 1,69 € 2
+91242 Biskuit 5-Sorten 10kg 17,95 € 2
+91333 Bittiies 175 g 6 St. 15,90 € 2
+91366 Chicko XXL 900g 42,80 € 2
+91325 Chicko 12 x 9 St. 15,60 € 2
+91345 Chicko 9 x 250 g 28,53 € 2
+91351 Chicko Ente 250 g 29,07 € 2
+91331 Chicko Ente 90 g 15,60 € 2
+91365 Chicko Huhn Megapack 5 x 500g 30,50 € 2
+91327 Chicko Huhn&Käse 11x85g 14,30 € 2
+91328 Chicko Kaninchen 12 16,20 € 2
+91348 Chicko Kaninchen 170 g 30,15 € 2
+91322 Chicko Lamm 60 g 16,20 € 2
+91340 Chicko Maxi 150 g 24,36 € 2
+91330 Chicko Mini 90 g 14,30 € 2
+91305 Chicko Puppy 16 St. 21,60 € 2
+91343 Chicko Rind 170 g 30,15 € 2
+91323 Chicko Rind 60 g 16,20 € 2
+91324 Chicko Schinken 16,20 € 2
+91311 Filetto 8 x 5 St. 10,40 € 2
+91320 Filetto Huhn 11 St. 14,30 € 2
+91112 Green Mix 1 kg 1,83 € 2
+91132 Green Mix 5kg 7,05 € 2
+91246 Karottenbiskuit 10kg 17,95 € 2
+91334 Käsos 175g 6 St. 15,90 € 2
+77066 Kattovit 12 x 400 g 12,36 € 2
+77112/ Kattovit 200g 1,12 € 2
+77156 Kattovit Low Protein 3kg 11,96 € 2
+77045 Kattovit 12 x 175 g 7,92 € 2
+77001 Kattovit 24 x 85g 9,60 € 2
+77138 Kattovit Gastro 1kg 5,05 € 2
+77136 Kattovit Low Protein 1 kg 5,05 € 2
+77132 Kattovit Low Calorie 1kg 5,05 € 2
+77134 Kattovit Sensitiv Protein 1kg 5,05 € 2
+77135 Kattovit Urinary 1 kg 5,05 € 2
+77155 Kattovit Urinary 3 kg 11,96 € 2
+91244 Knoblauch -Ecken 10kg 17,95 € 2
+91214 Knoblauchecken 750 g 1,69 € 2
+91215 Lamm&Reis Knochen 750g 1,69 € 2
+74031 Miamor Milde Mahlzeit 16,54 € 2
+75044 Miamor Balance 16x100 g 6,72 € 2
+74091 Miamor Bio 16x100g 8,42 € 2
+74310 Miamor Confect 75 g 1,15 € 2
+74075 Miamor F.F. Pouchbeutel 100 g x 24 13,92 € 2
+74041 Miamor Feine Filets 24x100 g 14,32 € 2
+74122 Miamor Indoor Care 200 g 0,90 € 7
+74028 Miamor Kitt. Gefl. AS 100 g 8,16 € 2
+74088 Miamor Naturel 12 x 75 g 6,48 € 2
+74081 Miamor naturell 24x70g 15,12 € 2
+74005 Miamor Pastete 24x85g 8,88 € 2
+74051 Miamor Ragout (Standbeutel)l 8,14 € 2
+74071 Miamor RR 22 x 100 g 7,59 € 2
+74070 Miamor RR Multimix 12 x 100 3,75 € 2
+74060 Miamor RR Multimix 100 g 3,75 € 2
+74061 Miamor sensible 24 x 170g 11,52 € 2
+74321 Miamor Sticks 50 g 1,15 € 2
+Preisliste FINNERN Zoobedarf Brodersen
+2
+75041 Miamor V.Bal.Kitt.Ge 100g 6,72 € 2
+91332 Mini Bits 100 g x12 15,60 € 2
+91336 Mini Bits Tomate 12 St. 15,60 € 2
+56155 Nutro adult large 15 kg 39,95 € 2
+56195 Nutro Senior 13,5 kg 36,95 € 2
+99164 Reddy 5 kg 16,90 € 2
+99134/ Reddy 1 kg 4,05 € 2
+99041 Reddy 400g x 12 12,36 € 2
+99183 Reddy Intestinal 14 kg 34,41 € 2
+91021 Rinti 150 g x 22 14,08 € 2
+92041 Rinti 300 g x 9 6,57 € 2
+91041 Rinti 300g x 9 6,57 € 2
+91051 Rinti 400 g x 24 19,68 € 2
+91071 Rinti 800 g x 12 17,10 € 2
+93051 Rinti Nat. Balance 400g 11,88 € 2
+91319 Rinti Beef Lamm Mini Salam. 16,20 € 2
+91318 Rinti Beef Rind Mini Salam. 16,20 € 2
+92001 Rinti Bio 11 x 150 g 6,60 € 2
+91379 Rinti Extra Snack Display 41,80 € 2
+91016 Rinti Filet 18x150g 13,14 € 2
+91031 Rinti gold 185g x 12 7,20 € 2
+93029 Rinti Nat - Balance 185 g 8,40 € 2
+93083 Rinti Nat - Balance 800 g 20,40 € 2
+92052 Rinti sensible 400 g x 24 20,95 € 2
+91061 Rinti Sensible 700 g x 12 17,11 € 2
+92031 Rinti sensible 185 g x 12 7,80 € 2
+71021 Schmusy 100 g x 24 9,00 € 2
+71041 Schmusy 185g x 24 10,20 € 2
+71061 Schmusy Fisch 400g x 12 9,00 € 2
+70021 Schmusy Flakes 100g x 20 7,20 € 2
+70061 Schmusy Fleisch 400g x 24 19,92 € 2
+70029 Schmusy MP 100g x 12 3,75 € 2
+71011 Schmusy ST 100g x 24 9,00 € 2
+Preisliste GIMBORN Zoobedarf Brodersen
+Artikelnummer Artikelbezeichnung Preis UstArt
+408552 Baby - Flocken 150 g 3,11 € 2
+449203 Baby Katzentoilette 1,85 € 1
+408729 Beauty - Kiss 50 g 1,46 € 2
+617015 Bio Doggy 4,85 € 1
+405247 Biocat Refresher 3,73 € 2
+614373 Biokat`s compact 10 L 4,60 € 1
+616797 Biokat`s compact fresh 7L 3,20 € 1
+615363 Biokat`s Medium White 10 Kg 5,20 € 1
+616131 Biokat`s Medium White 20 Kg 8,96 € 1
+615417 Biokat`s MEN 15 L 5,69 € 1
+616735 Biokat`s Micro 7 Kg 3,80 € 1
+616018 Biokat´s Classic 10 kg 4,59 € 1
+616001 Biokat´s Classic 20 kg 8,15 € 1
+616094 Biokat´s compact neu 10 L 4,40 € 1
+616049 Biokat´s Fresh 10 kg 4,64 € 1
+616032 Biokat´s Fresh 20 kg 8,50 € 1
+616674 Biokat´s Micro 15 L 5,06 € 1
+616667 Biokat´s Micro fresh 15 L 5,47 € 1
+616469 Biokat´s Premium 14 kg 8,74 € 1
+500508 Biskuit - Drops 1,96 € 2
+406299 Cat-Milk 2 Kg 33,02 € 2
+406282 Cat-milk + Taurin 5,14 € 2
+400402 Catnip 20 g 2,19 € 1
+400303 Denta - Kiss 50 g 1,46 € 2
+405353 Deo - Fresh Orange 375g 3,73 € 1
+405230 Deo-Frisch f. Katzentoiletten 3,73 € 1
+408248 Die Besten von Gimpet 1,14 € 2
+488820 Display Hello Kitty 165,00 € 2
+616117 Eurokats 20 kg 5,23 € 1
+616544 Eurokats orange 20 L 5,54 € 1
+400280 Fischhäppchen 100 g 1,34 € 2
+511115 Fleck-Entferner 500ml 3,58 € 1
+400259 Fleischbällchen 1,34 € 2
+400341 Geflügelhäppchen 1,34 € 2
+405186 Geruchbinder Pumpspray 3,85 € 1
+511122 Geruchs-Deodorant 500ml 5,70 € 1
+400181 Heartbits m. Geflügel 100 g 0,97 € 2
+200194 Heuglocke 1,97 € 2
+407296 HY - Gras 1,92 € 2
+408750 Jokies 120 St. 3,27 € 2
+408743 Jokies 40 St. 1,40 € 2
+408767 Jokies 400 St. 6,99 € 2
+408736 Jokies mit Spielball 4,01 € 2
+408125 Käse - Flocken 200 g 3,11 € 2
+401010 Käse - Paste 100g 4,96 € 2
+401034 Käse - Paste 220 g 7,50 € 2
+401065 Käse - Paste 50 g 2,55 € 2
+409443 Käse - Rollies 100 St. 2,37 € 2
+409801 Käse - Rollies 400 St. 6,21 € 2
+409795 Käse - Rollis 850 St. 13,91 € 2
+409436 Käse-Rollis 50g 1,46 € 2
+455327 Katsy - Filter 2,82 € 1
+455051 Katsy - Schwingtür 2,63 € 1
+455075 Katsy - Toilettenhaus 14,91 € 1
+456065 Katsy de Luxe 22,10 € 1
+455709 Katsy Oberteil 8,80 € 1
+455518 Katsy Toilette mit Rand 10,10 € 1
+Preisliste GIMBORN Zoobedarf Brodersen
+455716 Katsy Unterteil 6,15 € 1
+408484 Katzen-Vitamin-Flocken 200 g 3,11 € 2
+409658 Katzen-Vitaminflocken 100 g 1,99 € 2
+411200 Katzenfernhalte Pumpspray 3,85 € 1
+407289 Katzengras im Schnellkeimbeutel 1,11 € 2
+407005 Katzengras m. Wiesenduft 1,49 € 2
+406268 Katzenmilch 200 ml 0,71 € 2
+408149 Katzentabs Light 180 St. 2,94 € 2
+409139 Katzentabs m. Algobiotin 710 st. 7,44 € 2
+409146 Katzentabs m. Fisch 710 St. 7,44 € 2
+408804 Katzentabs m. Wild 710 St. 7,44 € 2
+408002 Katzentabs Mascarpone 180 2,94 € 2
+408064 Katzentabs Mascarpone 710 7,44 € 2
+408842 Knusper Fit 50g 1,17 € 2
+407548 Malt - Fit 50g 1,17 € 2
+407494 Malt - Kiss 50 g 1,46 € 2
+407012 Malt - Soft 100g 4,96 € 2
+407531 Malt - Soft - Extra 100g 4,96 € 2
+407357 Malt - Soft 220g 7,50 € 2
+407029 Malt - Soft extra 220 g 7,50 € 2
+407364 Malt - Soft-Extra 50g 2,55 € 2
+508757 Milch - Drops 400 g 4,73 € 2
+508900 Milch - Drops ohne Zucker 200g 3,23 € 2
+506074 Milchflasche 5,34 € 1
+200316 Mini - Glocken 3 St. 3,18 € 2
+200460 Mini - Pyramiden 3 St. 3,18 € 2
+401027 Multi - Vitamin 100 g 4,96 € 2
+401423 Multi - Vitamin 50 g 2,55 € 2
+401300 Multi - Vitamin - Extra 50 g 2,55 € 2
+401324 Multi - Vitamin Extra 100 g 4,96 € 2
+401331 Multi - Vitamin Extra 220 g 7,50 € 2
+401522 Multi- -Kiss 50 g 1,46 € 2
+401409 Multi-Vitamin 220 g 7,50 € 2
+207001 Nagermalt 50 g 3,05 € 2
+403496 Neem Hygiene Spray 4,17 € 1
+406527 Pudding für Katzen 150 g 0,97 € 2
+409344 Schnurries Hühnchen 220 St. 3,71 € 2
+409337 Schnurries Hühnchen 85 St. 1,85 € 2
+409375 Schnurries Lachs 220 St. 3,71 € 2
+409368 Schnurries Lachs 85 St. 1,85 € 2
+409313 Schnurries Taurin 220 St. 3,71 € 2
+409306 Schnurries Taurin 85 St. 1,85 € 2
+508733 Schoko - Drops 400g 4,73 € 2
+509105 Schoko - Drops ohne Zucker 200g 3,23 € 2
+400200 Shiny Cat 1,26 € 2
+411866 Shiny-Cat 85 g 0,80 € 2
+510088 Shinydog 2 x 85g 1,32 € 2
+407128 Softgras 100g 1,85 € 2
+406091 Spezial Milchflasche 8,65 € 1
+500126 Sport-Snacks Mini-knochen Lamm 0,71 € 2
+509280 Sportsnacks Käseknochen 50g 0,97 € 2
+500966 Sportsnacks Las Vegas 0,71 € 2
+500669 Sportsnacks Mini-Knochen 0,71 € 2
+500119 Sportsnacks Mini-Knochen Hähnchen 0,71 € 2
+500188 Sportsnacks Mini-Knochen Lachs 0,71 € 2
+400167 Sticks Geflügel + Leber 0,84 € 2
+400174 Sticks Lachs + Forelle 0,84 € 2
+400099 Sticks Lamm + Reis 4 St. 0,84 € 2
+Preisliste GIMBORN Zoobedarf Brodersen
+400082 Sticks Truthahn + Hefe 4 St. 0,84 € 2
+455808 Streulöffel compact 1,05 € 1
+402000 Taurin Tabletten 90 St. 4,07 € 2
+449425 Toilettenbeutel Gimpet 12 St. 2,04 € 1
+409726 Topinis mit Forelle 75 St. 2,27 € 2
+400372 Zahn Fit 50 g 1,17 € 2
+Preisliste HAPPY DOG Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+HD60005 Fit & Well Adult mini 300 g 0,99 € 2
+HD60007 Fit&Well Adult med. 12,5 Kg 26,57 € 2
+HD60019 Fit&Well Adult Light 12,5 Kg 26,57 € 2
+HD03429 H.D. Maxi Junior 15 kg 32,74 € 2
+HD02378 H.Dog Balance 1,5kg 2,32 € 2
+HD02640 H.Dog Balance 15 kg 21,59 € 2
+HD02379 H.Dog Balance 4 kg 6,40 € 2
+HD03020 H.Dog Favorit Brocken 15k 10,10 € 2
+HD03580 H.Dog Junior GR 23 1,5 kg 4,53 € 2
+HD03570 H.Dog Junior GR 23 15 kg 32,10 € 2
+HD02853 H.Dog Junior GR 23 400 gr 0,99 € 2
+HD03571 H.Dog Junior GR 23 5 kg 12,39 € 2
+HD03340 H.Dog JuniorCroq 1,5kg 4,53 € 2
+HD03400 H.Dog JuniorCroq 15 kg 32,10 € 2
+HD02851 H.Dog JuniorCroq 400 gr 0,99 € 2
+HD03410 H.Dog JuniorCroq 5 kg 12,39 € 2
+HD02510 H.Dog Leich.Flocken 10kg 15,82 € 2
+HD02530 H.Dog Leich.Flocken 2,5kg 5,23 € 2
+HD03350 H.Dog LeichtCroq 1,5 kg 4,13 € 2
+HD03440 H.Dog LeichtCroq 15 kg 29,95 € 2
+HD02857 H.Dog LeichtCroq 400 gr 0,99 € 2
+HD03450 H.Dog LeichtCroq 5 kg 11,96 € 2
+HD02511 H.Dog Leichte Flocken 2 Kg 6,30 € 2
+HD03595 H.Dog Maxi JuniorCroq 1.5 4,40 € 2
+HD03401 H.Dog Maxi JuniorCroq 15k 32,10 € 2
+HD03411 H.Dog Mini Baby-Junior 1 kg 2,95 € 2
+HD03516 H.Dog MiniCroq 1,5 kg 4,13 € 2
+HD02862 H.Dog MiniCroq 400 gr 0,99 € 2
+HD03515 H.Dog MiniCroq 5 kg 11,96 € 2
+HD02565 H.Dog NatCroq Senior 15kg 19,50 € 2
+HD02387 H.Dog NatCroq Senior 4 kg 6,74 € 2
+HD02386 H.Dog NatCroq Senior1,5kg 2,32 € 2
+HD02368 H.Dog NaturCroq 1,5 kg 2,05 € 2
+HD02560 H.Dog NaturCroq 15 kg 18,65 € 2
+HD02369 H.Dog NaturCroq 4 kg 5,30 € 2
+HD02371 H.Dog NaturCroq L&R 1,5kg 2,32 € 2
+HD02563 H.Dog NaturCroq L&R 15 kg 20,50 € 2
+HD02372 H.Dog NaturCroq L&R 4 kg 6,40 € 2
+HD02374 H.Dog NaturCroq Plus 1,5k 2,32 € 2
+HD02593 H.Dog NaturCroq plus 15kg 19,50 € 2
+HD02383 H.Dog NaturCroq Welpe 1,5 2,42 € 2
+HD02384 H.Dog NaturCroq Welpe 4kg 6,86 € 2
+HD02558 H.Dog NaturCroq Welpe15kg 23,74 € 2
+HD02376 H.Dog NaturCroq XXL 1,5kg 2,32 € 2
+HD02567 H.Dog NaturCroq XXL 15 kg 21,59 € 2
+HD02380 H.Dog Naturkost 15 kg 18,65 € 2
+HD02366 H.Dog Naturkost 4 kg 5,30 € 2
+HD03360 H.Dog PremiumCroq 1,5 kg 4,13 € 2
+HD03480 H.Dog PremiumCroq 15 kg 29,95 € 2
+HD02855 H.Dog PremiumCroq 400 gr 0,99 € 2
+HD03490 H.Dog PremiumCroq 5 kg 11,96 € 2
+HD60025 H.Dog Senior 12,5 kg 27,24 € 2
+HD03536 H.Dog Supr Irland 1 Kg 3,19 € 2
+HD03541 H.Dog Supr Toskana 4 kg 11,20 € 2
+HD03474 H.Dog Supreme Irland 1,5k 4,70 € 2
+HD03472 H.Dog Supreme Irland 15kg 33,39 € 2
+HD02864 H.Dog Supreme Irland 400g 0,96 € 2
+Preisliste HAPPY DOG Zoobedarf Brodersen
+2
+HD03473 H.Dog Supreme Irland 5 kg 12,99 € 2
+HD02866 H.Dog Supreme Neusee 400g 0,96 € 2
+HD03457 H.Dog Supreme Neuseel 1.5 4,70 € 2
+HD03459 H.Dog Supreme Neuseel 15k 33,39 € 2
+HD03460 H.Dog Supreme Toskana 15k 33,39 € 2
+HD03464 H.Dog Supreme Toskana 400 0,96 € 2
+HD03461 H.Dog Supreme Toskana 5kg 12,99 € 2
+HD02960 H.Dog Welpenmilch 1,5 kg 10,53 € 2
+HD02931 H.Dog Welpenmilch 2,5 kg 21,50 € 2
+HD70012 Happy Cat 1 kg Lachs 4,21 € 2
+HD70020 Happy Cat 1 kg Light 4,21 € 2
+HD02150 HD Classic 10 Kg 15,82 € 2
+HD03420 HD Medium Junior 4 Kg 10,52 € 2
+HD08000 Knabber-Mix 10 kg 11,36 € 2
+HD05900 Koi-fit 2 mm 10 kg 22,60 € 2
+HD06020 Koi-fit 5 mm 10 kg 22,35 € 2
+HD06470 Maiskroketten gelb 10kg 8,19 € 2
+HD06490 Maiskroketten grün 10kg 9,69 € 2
+HD06480 Maiskroketten rot 10kg 8,50 € 2
+MD015004 MD Junior 1 High Prem. 4 Kg 9,78 € 2
+MD043710 MD Lamm & Reistaler 10 Kg 100,00 € 2
+MD015912 MD Pure L&R Hi. Prem 12,5 Kg 26,91 € 2
+MD010515 MD Soft Dinner 15 kg 16,99 € 2
+HD06770 Nagerringe gemischt 15kg 14,34 € 2
+HD06910 Teich-Mix Premium 5 l 3,90 € 2
+HD05980 Teichsticks PremCol. 5kg 8,05 € 2
+HD05960 Teichsticks Premium 5kg 7,50 € 2
+HD06830 Teichsticks Premium 5 l 3,07 € 2
+Preisliste Josera Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+J1006281 Display 400g Katze 125,00 € 2
+J1002477 Display Hund 130,00 € 2
+J1005953 Display Hund 3 kg 125,00 € 2
+J1002475 Display Katze 110,00 € 2
+J1005096 Display Katze Neu 100,00 € 2
+J1006733 FlexiDog 73 15 Kg 25,00 € 2
+J1006712 FlexiDog 87 15 Kg 29,50 € 2
+J21030 Josera Agilo 15 kg 21,00 € 2
+J1005186 Josera Balance 1,5 Kg 4,30 € 2
+J21160 Josera Balance 15 kg 28,20 € 2
+J21161 Josera Balance 4kg 10,75 € 2
+J1000647 Josera Basic Plus 20 kg 16,40 € 2
+J1005037 Josera Carismo 2 Kg 7,90 € 2
+J1005076 Josera Carismo 400 g 2,05 € 2
+J1004656 Josera Carismo 10 Kg 27,70 € 2
+J1004655 Josera Catelux 10 Kg 26,90 € 2
+J1005038 Josera Catelux 2 kg 7,60 € 2
+J1005077 Josera Catelux 400 g 2,05 € 2
+J23050 Josera Classic 10 kg 16,40 € 2
+J23051 Josera Classic 4 kg 7,60 € 2
+J1004934 Josera Culinesse 10 Kg 26,00 € 2
+J1005035 Josera Culinesse 2 kg 7,40 € 2
+J1004941 Josera Culinesse 400 g 2,05 € 2
+J21111 Josera Economy 20 kg 14,65 € 2
+J1005350 Josera Ente&Kartoffel 15 Kg 33,00 € 2
+J1005582 Josera Ente&Kartoffel 3 kg 9,70 € 2
+J21514 Josera Family 15 Kg 27,30 € 2
+J1005183 Josera Festival 1,5 Kg 4,30 € 2
+J21180 Josera Festival 15 kg 31,00 € 2
+J21181 Josera Festival 4 kg 11,25 € 2
+J21060 Josera Fitness 15 kg 22,10 € 2
+J1005422 Josera Fleisch&Reis 15 Kg 30,00 € 2
+J1005590 Josera Fleisch&Reis 3 kg 9,50 € 2
+J1005616 Josera Freizeit-Aktiv 20 kg 14,40 € 2
+J1006271 Josera Geflügel-Menü 15 kg 21,50 € 2
+J1006272 Josera Geflügel-Menü 3 kg 6,70 € 2
+J21190 Josera High Energy 15 kg 29,10 € 2
+J1000851 Josera Hundespielzeug mit Seil 1,80 € 1
+J1005991 Josera Joker-Mineral 15 Kg 19,95 € 2
+J23060 Josera Josi Cat 10 kg 13,55 € 2
+J1000667 Josera Josi Cat 4kg 5,80 € 2
+J1005180 Josera Kids 1,5 Kg 4,30 € 2
+J21150 Josera Kids 15 kg 28,60 € 2
+J21151 Josera Kids 4 kg 10,75 € 2
+J21104 Josera Knuspies 1,5 kg 4,25 € 2
+J1000528 Josera Knuspies 10 Kg 17,90 € 2
+J1003722 Josera Lamb&Rice 15 kg 28,90 € 2
+J1005832 Josera Lamb&Rice 3 kg 8,00 € 2
+J1005348 Josera Large Breed 15 kg 27,90 € 2
+J1003542 Josera Leger 10 Kg 26,00 € 2
+J1005036 Josera Leger 2 Kg 7,40 € 2
+J1004943 Josera Leger 400 g 2,05 € 2
+J1005992 Josera Mash Rapid 15 Kg 13,40 € 2
+J1000653 Josera Mash Rapide 15 kg 14,10 € 2
+J21040 Josera Master 15 kg 19,00 € 2
+J1004933 Josera Minette 10 Kg 28,50 € 2
+J1005034 Josera Minette 2 Kg 7,90 € 2
+Preisliste Josera Zoobedarf Brodersen
+2
+J1004940 Josera Minette 400 g 2,05 € 2
+J1005187 Josera Mini`s Best 1,5 Kg 5,40 € 2
+J1005188 Josera Mini`s Best 4 Kg 11,25 € 2
+J1003050 Josera Miniwell 1,5 Kg 5,40 € 2
+J1004756 Josera Miniwell 15 Kg 31,00 € 2
+J1003049 Josera Miniwell 4 Kg 11,25 € 2
+J1005182 Josera Optiness 1,5 Kg 4,30 € 2
+J21530 Josera Optiness 15 kg 29,20 € 2
+J1003264 Josera Optiness 4 Kg 10,75 € 2
+J1006269 Josera Sensi Junior 3 kg 9,50 € 2
+J1005185 Josera Sensi Plus 1,5 Kg 4,30 € 2
+J21170 Josera Sensi Plus 15 kg 28,70 € 2
+J21171 Josera Sensi Plus 4 kg 10,75 € 2
+J1004935 Josera Sensicat 10 Kg 26,00 € 2
+J1005033 Josera Sensicat 2 Kg 7,40 € 2
+J1004942 Josera Sensicat 400 g 2,05 € 2
+J1006192 Josera SensiJunior 15 kg 30,00 € 2
+J1000527 Josera Snaxx 10 Kg 18,00 € 2
+J21080 Josera Solido 15 kg 16,70 € 2
+J1005598 Josera Sport Plus 20 kg 17,70 € 2
+J1000581 Josera Welpenstarter 2,5 kg 16,45 € 2
+J1006955 Josera Green Petfood Paket 109,00 € 2
+J1005574 Josera Weide-Mineralcobs 5 x 3kg 31,90 € 2
+1000628 Proben Hund 5,00 € 2
+1000687 Proben Katze 4,00 € 2
+Preisliste JR-Farm Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+JR405 Apfel Chips 100 g 1,23 € 2
+JR08524 Apfel Drops 75 g 0,72 € 2
+JR862 Baby-Zwergkaninchen 1 kg 1,78 € 2
+JR10931 Bäck. Tafel. Erdbeer 135 g 1,63 € 2
+JR414 Bananen Chips 150 g 1,00 € 2
+JR08233 Beeren - Blätter 100 g 1,14 € 2
+JR10871 Birds Weiden-Hirseball 2,09 € 2
+JR08439 Biskuits Papr&Apr 2 St. 1,00 € 2
+JR08438 Bisquits Chi&Kiwi 2 St. 1,05 € 2
+JR08437 Bisquits Ei & Honig 2 St. 1,05 € 2
+JR07330 Blaubeercookies 80g 1,26 € 2
+JR07097 Blütenwiese 100 g 1,14 € 2
+JR08234 Breifutter 500 g 3,00 € 2
+JR07098 Brennessel 80g 1,14 € 2
+JR06971 Brennnesselwiese 500g 1,02 € 2
+JR720 Chinchilla - Pellets 1 Kg 1,30 € 2
+JR461 Chinchilla Fruchtsalat 125g 0,95 € 2
+JR04851 Chinchilla Schmaus 1 kg 1,91 € 2
+JR851 Chinchilla Spezial 500 g 1,96 € 2
+JR479 Chinchilla-Blütengarten 50g 1,11 € 2
+JR422 Chinchilla-Müsli 500g 1,34 € 2
+JR791 Chinchilla-Traum 75 g 0,88 € 2
+JR04794 Chinchillasand 1 kg 1,42 € 1
+JR08395 Class.Wellensittich 1kg 2,34 € 2
+JR08400 Classic Papagei 1 kg 2,34 € 2
+JR08429 Dari 1,00 € 2
+JR08154 Dari-Kolben Nager 1 St. 0,80 € 2
+JR04846 Degu Premium 2 Kg 4,75 € 2
+JR04771 Degu Premium 750 g 2,27 € 2
+JR05579 Degu Snack 75 g 1,04 € 2
+JR901 Degu Spezial 500 g 1,78 € 2
+JR04845 Degu Spezial 1,5 kg 4,30 € 2
+JR833 Drops - Display gem 35 x 50g 14,64 € 2
+JR08386 Drops - Mix 75 g 0,72 € 2
+JR08528 Drops Waldbeere 75 g 0,72 € 2
+JR07030 Eiweiß-Cocktail 0,82 € 2
+JR02406 Erbsenflocken 1 kg 2,20 € 2
+JR04625 Erbsenflocken 25 kg 46,50 € 2
+JR07031 Erbsenpflanze 80 g 1,07 € 2
+JR08396 Exoten Classic 1 kg 2,34 € 2
+JR06267 Farmy`s Pfeff.Minze 1,35 € 2
+JR06264 Farmy`s Erdbeere 1,53 € 2
+JR08157 FARMY`S lig. Gän-KB 140 g 1,55 € 2
+JR06268 Farmy`s Löwenzahn 1,35 € 2
+JR07342 Farmy´s Banane-Blaubeere 120g 1,49 € 2
+JR07343 Farmys Apfel 1,35 € 2
+JR07341 Farmys Himbeere 120 g 1,49 € 2
+JR06265 Farmys Karo&Fench 120 g 1,40 € 2
+JR07566 Farmys Kräutergarten 150 g 1,53 € 2
+JR08156 Farmys lig. Sbl.-Ka 140 g 1,55 € 2
+JR08158 Farmys lt Wildsamen 140g 1,55 € 2
+JR07346 Farmys Papr.-Peters.120 g 1,35 € 2
+JR08155 Farmys Ringelbl.140 g 1,55 € 2
+JR07565 Farmys Traube-Nuß 150 g 1,39 € 2
+JR07106 Feldkräuter 200 g 1,30 € 2
+JR06292 Flachsmatte XXL 3,57 € 1
+JR08239 Flower Tower 4,78 € 2
+Preisliste JR-Farm Zoobedarf Brodersen
+2
+JR939 Früchtchen 150 g 0,73 € 2
+JR882 Früchte Traum 200g 0,95 € 2
+JR08921 Fruchtwolke 2,70 € 2
+JR09908 Frühlingsrolle klein 1,60 € 2
+JR09910 Frühlingsrolle L 4,85 € 2
+JR09909 Frühlingsrolle M 3,29 € 2
+JR08425 Fruitana Snack 100 g 1,75 € 2
+JR521 Gemüse - Ringe 200g 0,81 € 2
+JR938 Gemüse-Knabberstangen 125 g 0,85 € 2
+JR05593 Gemüseecken 100 g 1,26 € 2
+JR10112 Grainless Co. MS 1,35 Kg 2,65 € 2
+JR10111 Grainless Co. ZK 1,35 KG 2,75 € 2
+JR10113 Grainless Herb ZK 400 g 2,17 € 2
+JR10110 Grainless Mix MS 650 2,37 € 2
+JR10109 Grainless Mix ZK 650g 2,44 € 2
+JR08398 Großsittich Classic 1 kg 2,45 € 2
+JR04886 Grün-Rollers 500g 1,35 € 2
+JR07099 Grüner Hafer 100 g 1,15 € 2
+JR07032 Grüner Mais 80 g 1,15 € 2
+JR469 Haferecken 100 g 1,25 € 2
+JR257 Hamster - Schmaus 500g 1,25 € 2
+JR07710 Heu - Tunnel klein 1,48 € 2
+JR07712 Heu - Tunnel groß 4,45 € 2
+JR07711 Heu - Tunnel mittel 2,99 € 2
+JR10787 Heu-Schl. Tunnel Karotte 1,58 € 2
+JR08149 Heuglocke Blüten 1,61 € 2
+JR08147 Heuglocke Karotten 1 St. 1,61 € 2
+JR08150 Heuglocke Löwenzahn 1 St. 1,61 € 2
+JR05304 Himalaya Salzleckstein 1,05 € 2
+JR584 Johannisbr. Schoten 75 g 0,88 € 2
+JR10063 JR Birds Weid.Frü.Ball 1 St. 4,38 € 2
+JR08397 Kanarien Classic 1 kg 2,34 € 2
+JR858 Kanarienfutter 500g 0,74 € 2
+JR404 Karotten Chips 125 g 0,87 € 2
+Jr04806 Käse-Snack 50 g 0,76 € 2
+JR08415 Keimfutter Papag. 1 Kg 2,21 € 2
+JR08224 Kirschen 20 g 1,65 € 2
+JR05598 Kleesamen-Taler 200 g 0,99 € 2
+JR06974 Kleewiese 500g 1,02 € 2
+JR11751 Kleinnager - Spezi 600g 1,99 € 2
+JR07720 Kleintier Toilette 1kg 1,08 € 2
+JR04849 Knabber Potpourri g50g 1,44 € 2
+JR688 Knabber- Sträußchen 25g 0,88 € 2
+JR02352 Knabber-Holzrolle 2,61 € 2
+JR05698 Knabber-Holzrolle 2,61 € 2
+JR04868 Knusper-Tüte 150g 0,88 € 2
+JR08416 Kochfutter GS 6 Papag. 1 kg 2,78 € 2
+JR507 Kolbenhirse rot 250g 1,15 € 2
+JR506 Kolbenhirse rot 500g 1,74 € 2
+JR07029 Kornfeld 100g 1,11 € 2
+JR06293 Kratzpyramide 2,39 € 2
+JR04785 Kräuter Spezial 500 g 1,94 € 2
+JR08237 Kräutergarten 250 g 2,08 € 2
+JR07100 Kräutergarten 100g 1,14 € 2
+JR08446 Lehm Min Pickstein 1,50 € 2
+JR08254 Lehmstein Gemüse 1,35 € 2
+JR06943 Lemmingfutter 400 g 1,11 € 2
+JR07101 Löwenzahn 100 g 1,28 € 2
+Preisliste JR-Farm Zoobedarf Brodersen
+3
+JR08527 Löwenzahndrops 75 g 0,70 € 2
+JR06970 Löwenzahnwiese 500 g 1,02 € 2
+JR08229 Löwenzahnwurzeln 100 g 1,32 € 2
+JR401 Maiskolben 2 St. 0,88 € 2
+JR06975 Mariendistelwiese 500 g 1,02 € 2
+JR12150 Marienkäfer 1 St. 1,36 € 2
+JR08226 Maulbeeren 75 g 1,81 € 2
+JR258 Mäuse - Schmaus 500 g 1,24 € 2
+JR04800 Mausfutter 400g 1,16 € 2
+JR859 Meerschw.Premium 1kg 1,67 € 2
+JR11370 Meerschwein classic 15 kg 16,27 € 2
+JR04847 Meerschwein light 1kg 2,07 € 2
+JR927 Meerschwein Premium 2,5kg 3,42 € 2
+JR902 Melisse 100g 0,97 € 1
+JR940 Möhrchen 200 g 1,16 € 2
+JR07105 Möhrenkraut 100 g 1,11 € 2
+JR10864 Mr. Woodfield Löwenzahn 2,15 € 2
+JR05570 Nager Murmeln 70g 0,74 € 2
+JR818 Nager - Krokant 1 kg 1,96 € 2
+JR107 Nagereintopf 150 g 0,96 € 2
+JR415 Nagerkörbchen 150 g 1,64 € 2
+JR04844 Nagerperlen 150g 0,70 € 2
+JR07708 Nat. Mineral - Knabbersp. 3,55 € 2
+JR04914 Obstsalat 200g 0,94 € 2
+JR12149 Osternest 1 St. 1,38 € 2
+JR07102 Petersilienstiele 150 g 1,14 € 2
+JR08865 Pick & Fly 130 g 1,55 € 2
+JR08430 Pick-Glocke GS 1,81 € 2
+JR08431 Pickglocke WS 1,76 € 2
+JR08403 Premium G.S. 1 Kg 2,94 € 2
+JR08220 Pure Kleeblüten 20 g 0,92 € 2
+JR08249 Ratatouille 100g 1,40 € 2
+JR930 Rattenfutter 1 kg 1,55 € 2
+JR04901 Rattenschmaus 2,5kg 4,24 € 2
+JR478 Rattenschmaus 600g 1,35 € 2
+JR03766 Rennmausfutter 20 kg 39,40 € 2
+JR861 Rennmausfutter 600g 1,50 € 2
+JR08866 Rispenhirse 100 g 1,28 € 2
+JR07092 Rucola & Tomate 100 g 1,40 € 1
+JR05705 Salzleckstein m. Halter 0,61 € 2
+JR03732 Schildkrötensticks 150g 2,80 € 2
+JR07037 Schlemmerzapfen GS 2,98 € 2
+JR08868 Schlemmerzapfen WS 2,60 € 2
+JR07344 Shrimps & Garnelen 120 g 1,35 € 2
+JR03799 Sittichkräcker Frucht 0,73 € 2
+JR04347 Sittichkräcker Kiwi 0,73 € 2
+JR11835 Sommerfeld 100 g 1,35 € 2
+JR06973 Sommerwiese 500 g 1,02 € 2
+JR08867 Sonnenblume 1 St. 1,50 € 2
+JR07028 Sonnengemüse 80g 1,25 € 2
+JR07087 Sonnenhut & Klee 100g 1,14 € 2
+JR07103 Spitzwegerich 100g 1,14 € 2
+JR11365 Super Nagerfutter 15 Kg 22,75 € 2
+JR05696 Super Nagerfutter 5 L 4,83 € 2
+JR424 Super Nagerfutter 1 kg 1,71 € 2
+JR10829 Terra Grashopper 15g 1,90 € 2
+JR10830 Terra Mealworm 20g 1,90 € 2
+JR10820 Terra Tort.Landsch. 250 g 1,63 € 2
+Preisliste JR-Farm Zoobedarf Brodersen
+4
+JR949 Toasties 200 g 1,35 € 2
+JR08469 Tontöpfchen WS&Kananri 1,67 € 2
+Jr06281 Topinamburkraut 150 g 1,76 € 2
+JR471 Tropica - Snacks 200 g 1,38 € 2
+JR662 Waldbeeren-Müsli 250 g 0,96 € 2
+JR07104 Waldgeheimnis 100g 1,28 € 2
+JR07709 Weiden Heuball 2,98 € 2
+JR08653 Weihnachtsbaum Nager 1,55 € 2
+JR09581 Weihnachtssäckchen 1 St. 2,77 € 2
+JR11661 Weihnachtsstern Vogel 0,86 € 2
+JR04797 Wellness - Futter MS 600g 2,21 € 2
+JR04799 Wellness-Food Ham. 400g 1,38 € 2
+JR04798 Wellness-Food Ratte 600g 2,15 € 2
+JR04802 Wellness-Food WS 500 g 1,30 € 2
+JR05569 Wellness-Gemüse 600 g 2,26 € 2
+JR08228 Wiesenkräuter 150g 1,51 € 2
+JR10314 Winter Bratapfel 1 St. 1,22 € 2
+JR10393 Winterfutterkrippe S 2,73 € 2
+JR10786 Zähne Obst - Mix 1,58 € 2
+JR04803 Zwerghamster - Schmaus 500g 1,34 € 2
+JR932 Zwergkaninchen Classic 1 Kg 1,36 € 2
+JR11367 Zwergkaninchen classic 15 kg 16,69 € 2
+JR1038 Zwergkaninchen light 1 kg 1,97 € 2
+JR860 Zwergkaninchenfutter premium 1 kg 1,67 € 2
+Preisliste JUWEL; HOBBY Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+AQ-T120-405 Terrarium 120x40x50 89,90 € 1
+AQ-T120-608 Terrarium 120 x 60 x 80 107,50 € 1
+AQ-T20-20-3 Insektarium 20 x 20 x 30 13,45 € 1
+AQ-T20-30-2 Insektariumm 20 x 30 x 20 13,90 € 1
+AQ-T30-30-2 Insektarium 30 x 30 x 20 14,55 € 1
+AQ-T40-30-3 Terrarium 40x30x30 26,65 € 1
+AQ_T150_505 Terrarium 150x50x50 121,20 € 1
+AQ_T20_30_30 Insektarium 20x30x30 17,50 € 1
+AQ_T80_40_5 Terrarium 80x40x50 58,50 € 1
+AQ1295 Glasbecken 60x30x30 12,95 € 1
+AQ1300 Glasbecken 80-35-40 25,95 € 1
+AQ1300A Glasbecken 80x40x40 31,70 € 1
+AQ1302 Glasbecken 100 - 40 - 50 55,00 € 1
+AQ1303 Glasbecken 120x40x50 69,50 € 1
+EH261548 Filterparone zu 2048 3,20 € 1
+EH261622 Set Filtervlies 2222/24 4,30 € 1
+EH7343118 Verriegelungshebel 2222/4 1,95 € 1
+FF_WE35911 Desi - Tropfen 30 ml 1,10 € 1
+HOB11860 Mulmglocke Jumbo 3,87 € 1
+HOB11950 Silikon 75 g transparent 3,15 € 1
+HOB11960 Silikon schwarz 3,10 € 1
+HOB35120 Kokos Rückwand 50x50 4St. 11,10 € 1
+HOB36200 Hygrometer 2,50 € 1
+HOB36250 Terrarienthermometer 2,50 € 1
+HOB37064 Keramikfassung Messinggew. 6,65 € 1
+HOB37085 Elstein Strahler 100 w 13,13 € 1
+HOB37150 Heizmatte Thermica 12 Watt 16,83 € 1
+HOB37200 Heizmatte Thermica 24 Watt 19,33 € 1
+HOB37335 UV-B compact-Lampe 23 W 18,87 € 1
+HOB37340 Sunlight 50 W 5,20 € 1
+HOB37342 Sunlight 75 W 5,20 € 1
+HOB40900 Torfplatten 3er 2,09 € 1
+HOB53015 Rabomed forte 25 ml 3,42 € 1
+HOB70300 Fischbeutel 24 x 45 cm 0,11 € 1
+JUW01300 AQ-RIO 125 schwarz 170,00 € 1
+JUW01550 AQ-RIO 125 buche 170,00 € 1
+JUW01700 AQ-RIO 125 dunkelbraun 170,00 € 1
+JUW03300 AQ-RIO 240 schwarz 284,00 € 1
+JUW03550 AQ-RIO 240 buche 2,84 € 1
+JUW03700 AQ-RIO 240 dunkelbraun 284,00 € 1
+JUW04300 AQ-RIO 180 schwarz 203,00 € 1
+JUW04550 AQ-RIO 180 buche 204,00 € 1
+JUW04700 AQ-RIO 180 dunkelbraun 204,00 € 1
+JUW05300 AQ-RIO 400 schwarz 560,00 € 1
+JUW05550 AQ-RIO 400 buche 560,00 € 1
+JUW06550 AQ-VISION 260 buche 386,00 € 1
+JUW06700 AQ-VISION 260 dunkelbraun 386,00 € 1
+JUW06800 AQ-VISION 260 schwarz 386,00 € 1
+JUW07300 AQ-RIO 300 schwarz 410,00 € 1
+JUW07550 AQ-RIO 300 buche 410,00 € 1
+JUW09300 AQ-VISION 180 schwarz 292,00 € 1
+JUW09550 AQ-VISION 180 buche 292,00 € 1
+JUW09700 AQ-VISION 180 dunkelbraun 292,00 € 1
+JUW10300 AQ-VISION 450 schwarz 730,00 € 1
+JUW10550 AQ-VISION 450 buche 730,00 € 1
+JUW10700 AQ-VISION 450 dunkelbraun 730,00 € 1
+JUW11300 AQ-LIDO 120 schwarz 170,00 € 1
+Preisliste JUWEL; HOBBY Zoobedarf Brodersen
+2
+JUW11550 AQ-LIDO 120 buche 170,00 € 1
+JUW11700 AQ-LIDO 120 dunkelbraun 170,00 € 1
+JUW15300 AQ-TRIGON 350 schwarz 720,00 € 1
+JUW15550 AQ-TRIGON 350 buche 720,00 € 1
+JUW15700 AQ-TRIGON 350 dunkelbraun 720,00 € 1
+JUW16300 AQ-TRIGON 190 schwarz 352,00 € 1
+JUW16550 AQ-TRIGON 190 buche 352,00 € 1
+JUW16700 AQ-TRIGON 190 dunkelbraun 352,00 € 1
+JUW21054 REKORD 60 schwarz 66,00 € 1
+JUW21070 REKORD 70 schwarz 92,00 € 1
+JUW21110 REKORD 110 schwarz 128,00 € 1
+JUW21160 REKORD 160 schwarz 162,00 € 1
+JUW30100 MONOLUX 100 schwarz 39,00 € 1
+JUW31060 MONOLUX 60, 1x15 W 36,00 € 1
+JUW31080 MONOLUX 80 schwarz 34,00 € 1
+JUW34080 DUOLUX 80, 2x18 W 52,00 € 1
+JUW34100 DUOLUX 100, 2x30 W 78,00 € 1
+JUW38300 GBA II 80¨35 schwarz 99,00 € 1
+JUW38550 GBA II 80¨35 buche 99,00 € 1
+JUW39300 GBA II 100¨40 schwarz 139,00 € 1
+JUW39550 GBA II 100¨40 buche 139,00 € 1
+JUW40200 GBA II 120¨40 eiche 139,00 € 1
+JUW40300 GBA II 120¨40 schwarz 139,00 € 1
+JUW40550 GBA II 120¨40 buche 139,00 € 1
+JUW43125 GBA II 120¨50 2x38 schw 150,00 € 1
+JUW43155 GBA II 150¨50 2x36 schw 180,00 € 1
+JUW43550 GBA II 120·50 2x38 buche 150,00 € 1
+JUW43555 GBA II 150·50 2x36 buche 180,00 € 1
+JUW46055 Einbauleuchte 55cm 2x15 W 56,00 € 1
+JUW46060 Einbauleuchte 60cm 2x15 W 56,00 € 1
+JUW46070 Einbauleuchte 70cm 2x18 W 58,00 € 1
+JUW46080 Einbauleuchte 80cm 2x18 W 58,00 € 1
+JUW46092 Einbauleuchte 92cm 2x25 W 65,00 € 1
+JUW46100 Einbauleuchte 100cm 2x30W 65,00 € 1
+JUW46120 Einbauleuchte 120cm 2x38W 76,00 € 1
+JUW46122 Einbauleuchte 122cm 2x38W 85,00 € 1
+JUW46129 Leuchtenaufrüsts. RIO 300 77,00 € 1
+JUW46150 Einbauleuchte 150cm 2x36W 91,00 € 1
+JUW46355 Einbauleuchte 55cm 2x24W T5 66,00 € 1
+Juw46360 Einbauleuchte T5 60cm 2x24W 66,00 € 1
+JUW46370 Einsatzleuchte T 5 70 cm 68,00 € 1
+JUW46380 Einbauleuchte T5 80cm 68,00 € 1
+JUW46392 Einbauleuchte T5 92cm 2x35W 75,00 € 1
+JUW46400 Einbauleuchte T5 100cm 75,00 € 1
+JUW46420 Einbauleuchte 120cm, T5 ,2 x 54W 81,00 € 1
+JUW46450 Einbauleuchte 150cm,T5 ,2x54W 101,00 € 1
+JUW50600 SB Präsentationssockel 55,00 € 1
+JUW52300 SB REKORD 110 schwarz 68,00 € 1
+JUW53300 SB REKORD 160 schwarz 89,00 € 1
+JUW54300 SB LIDO 120 schwarz 85,00 € 1
+JUW54550 SB LIDO 120 buche 85,00 € 1
+JUW54700 SB LIDO 120 dunkelbraun 85,00 € 1
+JUW55300 SB Rekord 60/70 schwarz 59,00 € 1
+JUW55550 SB Rekord 60/70 buche 59,00 € 1
+JUW58300 SB 835 schwarz 47,00 € 1
+JUW60300 SB 60/50 schwarz 34,00 € 1
+JUW60550 SB 60/50 buche 34,00 € 1
+JUW66300 SB 80 schwarz 85,00 € 1
+Preisliste JUWEL; HOBBY Zoobedarf Brodersen
+3
+JUW66550 SB 80 buche 85,00 € 1
+JUW66700 SB 80 dunkelbraun 85,00 € 1
+JUW67300 SB 100 schwarz 108,00 € 1
+JUW67550 SB 100 buche 108,00 € 1
+JUW67700 SB 100 dunkelbraun 108,00 € 1
+JUW70300 SB 121 schwarz 130,00 € 1
+JUW70550 SB 121 buche 130,00 € 1
+JUW70700 SB 121 dunkelbraun 130,00 € 1
+JUW71030 SB VISION 180 schwarz 114,00 € 1
+JUW71055 SB VISION 180 buche 114,00 € 1
+JUW71070 SB VISION 180 dunkelbraun 14,00 € 1
+JUW71550 SB VISION 260 buche 140,00 € 1
+JUW71700 SB VISION 260 dunkelbraun 140,00 € 1
+JUW71800 SB VISION 260 schwarz 140,00 € 1
+JUW73300 SB TRIGON 350 schwarz 190,00 € 1
+JUW73550 SB TRIGON 350 buche 190,00 € 1
+JUW73700 SB TRIGON 350 dunkelbraun 190,00 € 1
+JUW80004 Impeller 800 10,75 € 1
+JUW82300 SB 125 schwarz 164,00 € 1
+JUW82550 SB 125 buche 164,00 € 1
+JUW83300 SB 155 schwarz 180,00 € 1
+JUW83550 SB 155 buche 180,00 € 1
+JUW85051 Impeller Set 301 K 7,90 € 1
+JUW85053 Impeller Set 802 9,20 € 1
+JUW85054 Impeller Set 204 6,00 € 1
+JUW85070 Impeller 280 / 400 6,00 € 1
+JUW85072 Impeller 600 6,00 € 1
+JUW85074 Impeller 1000 9,60 € 1
+JUW85076 Impeller 1500 10,50 € 1
+JUW85110 Pumpe 101 Service-Set 7,90 € 1
+JUW85130 Pumpenhalterung 4,95 € 1
+JUW85136 Pumpenadapter 4,25 € 1
+JUW85137 Pumpengehäuse 280 4,00 € 1
+JUW85138 Pumpengehäuse 400/6./1000 4,00 € 1
+JUW85145 O2-Diffusor 5,00 € 1
+JUW85160 Filtereins.Set Compact 4,00 € 1
+JUW85162 Filtereins.Set Compact H 4,00 € 1
+JUW85164 Filtereins.Set Standart H 4,50 € 1
+JUW85166 Filtereinssatz-Set Jumbo 5,00 € 1
+JUW85300 SB TRIGON 190 schwarz 142,00 € 1
+JUW85500 Pumpe 280 L/h 15,00 € 1
+JUW85502 Pumpe 400 L/h 20,00 € 1
+JUW85505 Pumpe 600 L/h 22,00 € 1
+JUW85510 Pumpe 1000 L/h 28,00 € 1
+JUW85520 Pumpe 1500 L/h 36,00 € 1
+JUW85550 SB TRIGON 190 buche 142,00 € 1
+JUW85600 Juwel-Heizer 50 W 13,50 € 1
+JUW85605 Juwel-Heizer 100 W 14,00 € 1
+JUW85610 Juwel-Heizer 200 W 16,00 € 1
+JUW85615 Juwel-Heizer 300 W 17,00 € 1
+JUW85770 SB TRIGON 190 dunkelbraun 142,00 € 1
+JUW86050 Spezialreflektor 15 W 4,90 € 1
+JUW86055 Spezialreflektor 18 W 5,40 € 1
+JUW86058 Spezialreflektor 25 W 5,60 € 1
+JUW86060 Spezialreflektor 30 W 6,20 € 1
+JUW86065 Spezialreflektor 38 W 6,70 € 1
+JUW86070 Spezialreflektor 36 W 7,20 € 1
+JUW86075 Spezialreflektor 58 W 7,60 € 1
+Preisliste JUWEL; HOBBY Zoobedarf Brodersen
+4
+JUW86115 Day-Lite 15 W 4,20 € 1
+JUW86118 Day-Lite 18 W 4,50 € 1
+JUW86125 Day-Lite 25 W 6,10 € 1
+JUW86130 Day-Lite 30 W 6,10 € 1
+JUW86136 Day-Lite 36 W 7,10 € 1
+JUW86138 Day-Lite 38 W 7,10 € 1
+JUW86215 Warm-Lite 15 W 4,20 € 1
+JUW86218 Warm-Lite 18 W 4,50 € 1
+JUW86225 Warm-Lite 25 W 6,10 € 1
+JUW86230 Warm-Lite 30 W 6,10 € 1
+JUW86236 Warm-Lite 36 W 7,10 € 1
+JUW86238 Warm-Lite 38 W 7,10 € 1
+JUW86250 Poster S 60x30 cm 2,15 € 1
+JUW86260 Poster L 100x50 cm 3,15 € 1
+JUW86270 Poster XL 150x60 cm 4,15 € 1
+JUW86300 SB VISION 450 schwarz 200,00 € 1
+JUW86324 High - Lite Day 24 W 11,98 € 1
+JUW86328 High Lite Day 28 W 11,98 € 1
+JUW86335 Hihg-Lite Day 35W 13,48 € 1
+JUW86345 High-Lite Day 45 W 13,48 € 1
+JUW86354 High - Lite Day 1047 mm 54 W 14,48 € 1
+JUW86356 High-Lite Day 120mm 14,98 € 1
+JUW86424 High-Lite Nature 24 W 11,98 € 1
+JUW86428 High-Lite Nature 28 W 11,98 € 1
+JuW86435 High-Lite Nature 35W 13,48 € 1
+JUW86445 High - Lite Nature 45 W 13,48 € 1
+JUW86524 High - Lite Colour 24 W 11,98 € 1
+JUW86528 High Lite Colour 28 W 11,98 € 1
+JUW86535 High-Lite Colour 35W 13,48 € 1
+JUW86545 High - Lite Colour 45 W 13,48 € 1
+JUW86550 SB VISION 450 buche 200,00 € 1
+JUW86554 High - Lite Colour 1047 mm 14,48 € 1
+JUW86556 High-Lite Colour 120mm 14,98 € 1
+JUW86624 High-Lite Marine 24W 11,98 € 1
+JUW86628 High-Lite Marine 28 W 11,98 € 1
+JUW86635 High-Lite Marine 35 W 13,48 € 1
+JUW86645 Hihg-Lite Marine 45W 13,48 € 1
+JUW86654 High-Lite Marine 1047 mm 54 W 14,48 € 1
+JUW86656 High-Lite Marine 1200mm 14,98 € 1
+JUW86720 SB VISION 450 dunkelbraun 200,00 € 1
+JUW86724 High-Lite Blue 24W 11,98 € 1
+JUW86728 High-LIte Blue 28W 11,98 € 1
+JUW86735 Hih-Lite Blue 35W 13,48 € 1
+JUW86745 High-Lite Blue 45 W 13,48 € 2
+JUW86754 High-Lite Blue 1047 mm 54 W 14,48 € 1
+JUW86756 High-Lite Blue1200mm 14,98 € 1
+JUW86900 STR 450 10,00 € 1
+JUW86905 Rückwand ROCK 450 27,00 € 1
+JUW86907 Rückwand ROOT 450 39,00 € 1
+JUW86910 STR 600 13,00 € 1
+JUW86915 Rückwand ROCK 600 32,00 € 1
+JUW86917 Rückwand ROOT 600 46,00 € 1
+JUW86920 STR 300 8,00 € 1
+JUW86932 Rückwand Stone Clay 60x55 23,50 € 1
+JUW86950 Terrace Rock B 7,60 € 1
+JUW86951 Terrace Rock B 7,60 € 1
+JUW87150 Compact Super 280 l/h 25,00 € 1
+JUW87200 Compact Filter 400 l/h 35,00 € 1
+Preisliste JUWEL; HOBBY Zoobedarf Brodersen
+5
+JUW87450 Standard H Filter 600 l/h 65,00 € 1
+JUW87600 Jumbo Filter 1000 l/h 85,00 € 1
+JUW88039 Compact Super f. Rekord60 1,55 € 1
+JUW88049 Filterwatte Compact 1,00 € 1
+JUW88050 Filterschwamm Compact gr 2,10 € 1
+JUW88051 Filterschwamm Compact fn 2,10 € 1
+JUW88055 Nitratentferner Compact 3,15 € 1
+JUW88059 Kohleschwamm Compact 3,65 € 1
+JUW88099 Filterwatte Standard 1,40 € 1
+JUW88100 Filterschwamm Standard gr 2,50 € 1
+JUW88101 Filterschwamm Standard fn 2,50 € 1
+JUW88105 Nitratentferner Standard 4,70 € 1
+JUW88109 Kohleschwamm Standard 6,20 € 1
+JUW88149 Filterwatte Jumbo 1,50 € 1
+JUW88150 Filterschwamm Jumbo grob 3,40 € 1
+JUW88151 Filterschwamm Jumbo fein 3,40 € 1
+JUW88155 Nitratentferner Jumbo 6,30 € 1
+JUW88159 Kohleschwamm Jumbo 7,60 € 1
+JUW88350 Tube AQ-Silikon schwarz 3,80 € 1
+JUW89000 Futterautomat 15,00 € 1
+JUW90046 Ausströmer-Set alle Filte 2,50 € 1
+JUW90100 Compact S Service-Set 4,00 € 1
+JUW92003 Fassungsringe Hihg-Lite 3,00 € 1
+JUW92005 Fassungsringe 2,50 € 1
+JUW92061 Starter Set II 2,00 € 1
+JUW92062 Starter Set I 2,00 € 1
+JUW93905 Klappensatz 80 20,00 € 1
+JUW94015 Griffstopfen 3,00 € 1
+JUW94020 Clips für Reflekt.Metall 3,50 € 1
+JUW94025 Clips für Reflekt.Plastik 2,00 € 1
+JUW94030 Kunststoffclips 2,00 € 1
+JUW94101 Möbelgriff-Set Edelstahl 7,45 € 1
+REI01470 eSHa 2000 20 ml 2,65 € 1
+SLI00068 Röhre 35 W 4,50 € 1
+SLI00708 F15W Gro-Lux 4,85 € 1
+SLI00709 F18W Gro-Lux 5,05 € 1
+SLI00711 F30W Gro-Lux 6,45 € 1
+SLI00731 F15W Reptistar 9,95 € 1
+SLI00732 F18W Reptistar 11,05 € 1
+SLI20407 HQL-Birne 125W 4,65 € 1
+U10621 Filterwatte 100 g 0,79 € 1
+U10622 Filterwatte 250 g 1,46 € 1
+U10623 Filterwatte 500 g 2,70 € 1
+U10624 Filterwatte 1000g 4,99 € 1
+U48027 Fischbeutel 19x37 0,08 € 1
+Preisliste MARCHIORO Zoobedarf Brodersen
+1
+Art.nr. Artikelbezeichnung Preis UstArt
+10511 Adria Raufe Plastik 1,20 € 1
+10108 Anflugstange PAL 12 U 1,20 € 1
+202020 Asya 72 weiß/blau 56,95 € 1
+10604 Binny 2 8,00 € 1
+10605 Binny Bike 11,30 € 1
+10070 Break Futterspender 3,60 € 1
+106151 Clipper Aran Gr. 1 15,85 € 1
+106152 Clipper Aran Gr. 2 21,10 € 1
+106127 Clipper Tortuga 7 (Transportbox) 102,95 € 1
+106153 Clipper Aran 3 24,95 € 1
+106162 Clipper Margarita 2 13,24 € 1
+10612 Clipper Tortuga 2 18,75 € 1
+106124 Clipper Tortuga 4 (Transportbox) 42,06 € 1
+106120 Clipper Tortuga 5 (Transportbox) 65,60 € 1
+106126 Clipper Tortuga 6 82,50 € 1
+20119 Cova 46 15,95 € 1
+20199/ Cova 67 26,50 € 1
+20120 Cova 57 19,95 € 1
+20212 Coya 52 messing 65,20 € 1
+10100 Endkappen D= 12mm 0,10 € 1
+10656 Fix 4 Filter f. Katzentoilette 1,40 € 1
+20174 Fox 1 Mauskäfig bunt 15,05 € 1
+20176 Fox 3 Mauskäfig 25,95 € 1
+10653 Freecat Cottage 7,95 € 1
+10654 Freecat Mini 10,30 € 1
+10091 Gela 2 Napf 2,40 € 1
+10080 Hamsterhaus Plastic 1,48 € 1
+20240 Happy Trek 42 x 42 Kit 34,50 € 1
+20172 Happy Trek 52x52 Kit 44,50 € 1
+20230 Inca 62 weiß 43,50 € 1
+20237 Inca 72 weiß 59,90 € 1
+10075 Jok 1 Futterhaus 11,50 € 1
+10076 Jok 2 Futterhaus L 15,25 € 1
+10513 K I M 2 L 1,00 € 1
+10514 K I M 2 T 1,20 € 1
+10512 KIM 2 C 1,00 € 1
+10516 KIM 2 U 1,10 € 1
+20243 Kit Lux 3 Hamsterkäfig 35,55 € 1
+20175 Kit Fox 2 22,50 € 1
+20244 Kit Lux 2 26,90 € 1
+10510 Konya 3 Schaufel 3,75 € 1
+10505 Kufra 0,6 L Tränke 1,07 € 1
+10508 Kufra 1,2 L 2,35 € 1
+200952 Kyoto 42 messing 33,70 € 1
+200950 Kyoto 42 weiß neu 32,00 € 1
+20096 Kyoto 52 messing 49,30 € 1
+200960 Kyoto 52 weiß neu 45,35 € 1
+20223 Lena weiß Vogelkäfig, teilbar 45,95 € 1
+20076 Lux 1 Hamsterkäfig 13,60 € 1
+20079 Lux 2 Hamsterkäfig 20,35 € 1
+20078 Lux 3 Hamsterkäfig 25,70 € 1
+20032 Maya Großsittichkäfig 38,95 € 1
+20101 Milly 42 messing 31,10 € 1
+20103 Milly 42 weiß neu 26,85 € 1
+200982 Milly 52 club messing 38,50 € 1
+201002 Milly 52 rif messing 39,50 € 1
+20104 Milly 52 weiß neu 37,20 € 1
+Preisliste MARCHIORO Zoobedarf Brodersen
+2
+1009301 Mirto 1 ( Nest ) 4,10 € 1
+100503 Napf Genova 0,65 € 1
+10081 Napf Hamster 0,30 € 1
+100500 Napf Start 0,65 € 1
+10052 Napo 1 Tränke/Futterautomat 0,60 € 1
+10052/ Napo 2 0,95 € 1
+10053 Napoli Tränke/Futternapf groß 1,95 € 1
+100504 Napoli Tränke f. Voliere 1,70 € 1
+100502 Naschnapf 0,12 € 1
+10099 Nora 3 c 7,95 € 1
+100501 Olmpia - Napf innen 0,65 € 1
+100921 Pila 102 Ständer 39,50 € 1
+10661 Porter 1 12,65 € 1
+10085 RAS 17 Hamsterrad f.Käfig 3,20 € 1
+10066 Rio 1 Badehaus 1,95 € 1
+10065 Rio 1 S Badehaus m. Spiegel 2,30 € 1
+10067 Rio 10 Badehaus groß 3,95 € 1
+10068 Rio 2 Badehaus G.S. 3,25 € 1
+10071 Rio 3 Badehaus Papagei 4,60 € 1
+10069 Rio 2 S Badehaus GS 3,70 € 1
+106447 Rollensatz für Clipper 4,5,6,7 13,90 € 1
+10051 Sana 1 Tränke/Futterautomat 0,80 € 1
+10050 Sana 2 Tränke/Futterautomat 0,85 € 1
+20112 Scoiattolo 66 59,90 € 1
+10660 Set Porter 34,95 € 1
+20127 Set Start 42/52 Chrom-blau 35,00 € 1
+11076 Sia 2 Rem 1,85 € 1
+11077 Sia 3 Rem 2,30 € 1
+10107 Sitzstange 1/2 PAL C 12 0,60 € 1
+10109 Sitzstange PAL 12 D 0,75 € 1
+10104 Sitzstange halbrund 1 0,95 € 1
+10105 Sitzstange halbrund 2 1,10 € 1
+10106 Sitzstange halbrund 3 1,30 € 1
+11075 Siwa 1 Rem Tränke 1,70 € 1
+106031 Skipper 3 10,00 € 1
+10601 Skipper I 8,00 € 1
+10602 Skipper II 11,76 € 1
+10603 Skipper III 16,03 € 1
+20200 Spiros 42 weiß neu 29,15 € 1
+20201 Spiros 52 weiß neu 36,64 € 1
+20203 Spiros 62 weiß neu 40,60 € 1
+202080 Spyros 42 messing 35,40 € 1
+20208 Spyros 52 messing 42,95 € 1
+20917 Ständer für Schale 62 21,93 € 1
+209001 Ständer für Schale 52 15,29 € 1
+202050 Start 42 messing 20,90 € 1
+201271 Start 42 chrom 16,00 € 1
+20205 Start 42 weiß neu 17,10 € 1
+201272 Start 52 chrom 26,90 € 1
+202060 Start 52 messing 31,45 € 1
+20206 Start 52 weiß neu 29,25 € 1
+20207/ Start 62 messing 43,30 € 1
+20207 Start 62 weiß neu 37,90 € 1
+100942 Tidra 2 Meerschweinhaus 5,15 € 1
+100943 Tidra 3 Hasenhaus 10,10 € 1
+10655/ Toilet medio ohne Rand 2,95 € 1
+106522 Toilet mini ohne Rand 1,80 € 1
+10655 Toilett medio m. Rand 4,35 € 1
+Preisliste MARCHIORO Zoobedarf Brodersen
+3
+106521 Toilett mini m. Rand 2,80 € 1
+20228 Tommy 102 K 19,95 € 1
+20225 Tommy 72 K 18,00 € 1
+20226 Tommy 82 K 19,00 € 1
+20229 Tommy 120 K 38,95 € 1
+20224 Tommy 62 K 16,00 € 1
+10506 Tota 1 Tränke 1,51 € 1
+10507 Tota 2 Tränke 3,04 € 1
+106480 Tragegurt für Clipper 2,53 € 1
+20921 Vekto 102 Ständer 30,65 € 1
+209211 Vekto 120 29,85 € 1
+20918 Vekto 66 Ständer f. Asya etc. 26,33 € 1
+20919 Vekto 72 Ständer 29,90 € 1
+106413 Velox 13 Rollen für Clipper kl. 3,04 € 1
+10651 Weekend (Katzentoilette) 1,78 € 1
+Preisliste Mucki Zoobedarf Brodersen
+Artikelnummer Artikelbezeichnung Preis UstArt
+65910 Actionball 4,90 € 1
+37199 Artleather Halsband 1,9x30-40 cm 3,30 € 1
+37213 Artleather Halsband 3,4x50-61 cm 6,50 € 1
+37198 Artleather Halsband 1,5x25-30 cm 2,80 € 1
+37212 Artleather Halsband 2,4x40-50 cm 4,50 € 1
+37191 Artleather Halsband mit Applik. 5,40 € 1
+68638 Badehaus - Luxus 6,20 € 1
+68618 Badehaus Sittich 1,75 € 1
+68645 Bügelschaukel 10 cm 0,75 € 1
+68646 Bügelschaukel Sittich 1,00 € 1
+66401 Catnip Fisch 0,90 € 1
+66764 Catnipkissen 0,85 € 1
+60510 Chinchilla Badesand 1,95 € 1
+10022/ Chinchilla Menü 15kg 17,90 € 2
+64888 Clicker 1,85 € 1
+68650 Doppelschauckel Sitt. 1,45 € 1
+65232 Erziehungsgeschirr L 40-60 cm 5,90 € 1
+65231 Erziehungsgeschirr M 30-42 5,10 € 1
+10424 Fruchties 1,65 € 2
+35200 Führleine Gurt 10 mm 3,20 € 1
+35360 Führleine Gurt 15 mm 4,20 € 1
+37281 Geschirr 30 - 40/ 10 mm 4,99 € 1
+36890 Geschirr 20 - 30 cm / 10 mm XXS 4,70 € 1
+36893 Geschirr 30 - 40 cm / 10 mm XS 5,20 € 1
+36900 Geschirr 40 - 50 cm/ 15 mm S 5,95 € 1
+36905 Geschirr 48 - 63 cm/ 15 mm M 7,80 € 1
+36910 Geschirr 55 - 70 cm/ 25 mm L 8,90 € 1
+36915 Geschirr 63 - 90 cm/ 32 mm XL 10,50 € 1
+36997 Geschirr 85 - 110 cm / 25 mm XXL 12,50 € 1
+37333 Geschirr f. Welpen 30-40 cm 6,95 € 1
+35150 Geschirr Gurt 30-40cm/10mm 3,20 € 1
+35160 Geschirr Gurt 50-60cm/15 mm 4,20 € 1
+35170 Geschirr Gurt 70-80cm/20 mm 5,20 € 1
+67886 Gitterball m. Glocke 4 cm 0,40 € 1
+37171 Halsband Gr. 1,5 x 25 - 30 3,20 € 1
+37172 Halsband Gr. 1,9 x 30 - 40 3,50 € 1
+37174 Halsband 3,4 x 50-61 7,90 € 1
+37184 Halsband 3,4 x 61 - 72 9,50 € 1
+35210 Halsband Gurt 10 mm 22-37 cm 1,85 € 1
+35710 Halsband Gurt 20 mm 32-47 cm 2,40 € 1
+60920 Hamsternest Baumwolle 35g 1,00 € 1
+65524 Hartgummiball 50mm 90 g 1,80 € 1
+60868 Holzhaus Happy M 5,60 € 1
+67802 Holzleiter 3 Sprossen Naturholz 0,80 € 1
+67740 Holzleiter 4 Sprossen 0,65 € 1
+68660 Holzleiter 5 Sprossen 0,80 € 1
+67741 Holzleiter 6 Sprossen 0,90 € 1
+67742 Holzleiter 7 Sprossen 1,00 € 1
+67817 Holzsitzstange Y 20 cm 2,30 € 1
+67700 Holzspiegel rund 7 cm 1,90 € 1
+67701 Holzspiegel, eckig, mit Glocke 1,55 € 1
+67720 Holzstangen 10mm/1m 0,85 € 1
+64831 Hundenapf 1 L 2,05 € 1
+68693 Kaisernest 2,49 € 1
+60799 Kapok 2er auf Karte 2,10 € 1
+16303M Katzen-Soft-Gras 100g 1,10 € 2
+66607 Katzenangel mit Maus 1,50 € 1
+Preisliste Mucki Zoobedarf Brodersen
+66517 Katzenbürste m. weichen Borsten 17 cm 1,45 € 1
+66741 Katzengarnitur mit Clickverschl. 3,95 € 1
+66619 Katzengarnitur mit Staß 120/35-45cm 3,95 € 1
+66877 Katzenglocke 2 St. 0,99 € 1
+16301 Katzengras 0,99 € 2
+66499 Katzenhalsband reflektierend 1,99 € 1
+66497 Katzenhalsband elastisch 2,20 € 1
+66061 Katzenminze 25 g 0,99 € 1
+66691 Katzenwedel 60 cm 1,05 € 1
+68696 Kletterstrick f.Sittiche 35 cm 2,00 € 1
+64734 Knochen - Napf 2,30 € 1
+67738 Koksfaser 20g 0,75 € 1
+65225 Kunststoffnapf 1 L 2,65 € 1
+64461 Latexhahn Koch 3,95 € 1
+65252 Latexhuhn Bäckerin 3,85 € 1
+65672 Latexschwein 22 cm 3,99 € 1
+37182 Leder-Halsband 2,4x40-50 4,99 € 1
+10427 Löwenzahnkr. 1,65 € 2
+10018 Mehlwürmer 20 g 1,10 € 2
+65508 Melamin Napf 700 ml 2,80 € 1
+65501 Melamin Napf Hund 400 ml 3,45 € 1
+66748 Melamin Napf Katze 200 ml 2,00 € 1
+65505 Melamin Napf rot 500 ml 2,50 € 1
+65873 Moosg. Ball 6 cm 1,05 € 1
+65836 Moosgummi Schleuderball 6,5 cm 1,85 € 1
+10301 Mucki - Vit 1,90 € 2
+10300 Mucki-Vit Meerschwein 1,90 € 2
+61844 Nagernapf Melamin 100 ml 1,20 € 1
+29501 Namensherz klein 2,20 € 1
+68629 Niströhre 1,55 € 1
+68612 Olympia - Napf 1,75 € 1
+67737 Palmfaser 40g 0,75 € 1
+64659 Papp - Kotschaufel 5 St. 0,80 € 1
+64786 Plüschdino Schildi 23 cm 3,50 € 1
+64785 Plüschdrache 23 cm 3,50 € 1
+64685 Plüschente m. Stimme 3,30 € 1
+65932 Plüschente Quack 2,95 € 1
+64784 Plüschschildkröte 15 cm 2,50 € 1
+10016 Protein Mix 20 g 1,10 € 2
+64590 Reise Trinkflasche 500 ml 3,10 € 1
+10502 Salzleckstein 50g mit Halter 0,75 € 2
+10500 Salzleckstein lose 50 g 0,20 € 2
+10498 Salzleckstein lose 80 g 0,30 € 2
+65528 Schwimmring 2,49 € 1
+18307 Sepia-Schale groß 17 cm 0,99 € 2
+18306 Sepia-Schale klein 12 cm 0,75 € 2
+67735 Sharpie 40 g 0,80 € 1
+67721 Sitzstange Holz 1 m 12mm 1,00 € 1
+67843 Sitzstange Seil bunt groß 4,10 € 1
+65760 Solar Leuchthalsband 35 40 13,50 € 1
+65761 Solar Leuchthalsband 40-50 14,50 € 1
+65762 Solar Leuchthalsband 46-60 15,50 € 1
+65797 Stretchspielzeug Hund 3,90 € 1
+68652 Strickleiter für Sittiche 2,10 € 1
+31105M Suchleine 10 m 6,10 € 1
+31107 Suchleine 10m 5,99 € 1
+31205M Suchleine 15 m 7,80 € 1
+31207 Suchleine 15m 7,85 € 1
+Preisliste Mucki Zoobedarf Brodersen
+31307 Suchleine 20 m 9,75 € 1
+31005M Suchleine 5 m 4,60 € 1
+31007 Suchleine 5m 4,55 € 1
+37083 Suchleine 16 m / 20 mm 17,95 € 1
+60627 Tränke Vogel 1,10 € 1
+68626 Trapezschauckel /holz 12 cm 0,95 € 1
+64645 Trillerpfeife Naturhorn 6,5 cm 3,95 € 1
+67795 Vogelspielplatz natur 4,35 € 1
+65525 Vollgummi-Ball 60 mm 2,30 € 1
+10425 Wildapfel 1,65 € 2
+65511 Wurfball mit Glocke 75 mm 2,35 € 1
+65509 Wurfball mit Glocke 55mm 1,75 € 1
+65510 Wurfball mit Glocke 60mm 1,95 € 1
+66760 Wusel - Angel 1,80 € 1
+66411 Wusel-Angel doppelt 1,95 € 1
+64595 Zeckenzange Plastic 0,95 € 1
+Preisliste NAGER-VOGELFUTTER Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+BD002950 Weizen 25kg 12,00 € 2
+BD003022 Sonnenblumenkerne gestreift 12 kg 12,95 € 2
+BD006350 Kanarienfutter Basis 20 Kg 18,50 € 2
+BD006430 G.S. - Futter Stand. 20 Kg 17,95 € 2
+BD006460 Papageienfutter Basis 15 kg 17,95 € 2
+BD006466 W.S. Futter Super Premium 20 Kg 19,95 € 2
+BD006540 Exotenfutter Stand./Basis 20 Kg 18,95 € 2
+BD006591 Waldvogelfutter 19,50 € 2
+BD033483 Z.K. Pressfutter 25 kg 15,90 € 2
+BD28010 Kanarienfutter 1 Kg 1,55 € 2
+BD28011 W.S. Futter 1 Kg 1,50 € 2
+BD28012 G.S. Futter 1 Kg 1,30 € 2
+BD29110 ZK.-Futter 3 kg 4,75 € 2
+BD700500 W.S.-Futter Premium 20 kg 19,50 € 2
+BD700501 Kanarifutter m Rübsen 20 Kg 15,95 € 2
+BD700502 Kanarienfutter o. Rübsen 24,20 € 2
+BD700503 WS - Futter Standard 20 Kg 16,75 € 2
+BD700508 Exotenfutter Standard 20 kg 16,50 € 2
+BD700510 Papageifutter 15 Kg Standard 14,95 € 2
+BD802008 Chnchilla Pressfutter 20 kg 13,50 € 2
+BD807001 ZK - Futter Standard 15 kg 9,80 € 2
+BD807003 M.S. Futter Standard 15 kg 9,90 € 2
+BD807004 MS - Pr. Dinner 15 kg 14,20 € 2
+BD807006 Nagerkrokant ohne Pellets 12,10 € 2
+GU80520 GU Buch 5,45 € 2
+HLZ-0041 Winterfutterhaus Gandalf 10,50 € 1
+HLZ-0134 Winterfutterhaus Zlocisty 11,95 € 1
+HLZ-023 Winterfutterhaus Zakop S 5,40 € 1
+HLZ-024 Winterfutterhaus Alek L 4,80 € 1
+HLZ-024A Winterfutterhaus Alek klein 3,95 € 1
+HLZ-031 Winterfutterhaus Pienin 5,90 € 1
+HLZ-048 Winterfutterhaus ZAKOP M 8,95 € 1
+HLZ-057 Winterfutterhaus Zakopek 4,95 € 1
+HLZ-501 Winterfutterhaus XXL 14,25 € 1
+HLZ-501A Winterfutterhaus Mikrusek 3,00 € 1
+HLZ-503 Winterfutterhaus Wacek 4,00 € 1
+HLZ_029 Winterfutterhaus Poldek 4,00 € 1
+HLZ_032 Winterfutterhaus Powaga 6,70 € 1
+HLZ_268 Winterfutterhaus Chatek 6,70 € 1
+HLZ_5018 Zakopek M 7,55 € 1
+HLZ_502 Winterfutterhaus Szyszek 7,15 € 1
+WF020005 Meisenknödel 100 im Netz 14,00 € 2
+WF020006 Meisenknödel 48 St. 7,60 € 2
+WF070084 Winterstreufutter 25 kg 16,00 € 2
+WF080014 Meisenringe 5 St. 1,15 € 2
+Preisliste NUTRO Zoobedarf brodersen
+1
+Art.nr. Artikelbezeichnung Preis UstArt
+NUT1261 Cat Adult 3kg 19,31 € 2
+NUT3430 Cat adult Fisch 300g 2,84 € 2
+NUT6240 Cat Adult Hairball 300g 2,48 € 2
+NUT1270 Cat Adult Huhn 7,5 Kg 30,25 € 2
+NUT1240 Cat Adult Huhn 300g 2,48 € 2
+NUT5260 Cat Adult Lachs 3kg 17,12 € 2
+NUT1251 Cat Cc Adult 1 Kg 7,50 € 2
+NUT1524 Dog Adult Huhn 7,5 kg 25,48 € 2
+NUT1525 Dog Adult Huhn 15 kg 42,61 € 2
+NUT2743 Dog Adult large L&R 15 Kg 42,24 € 2
+NUT1423 Dog Adult light 13,5 Kg 42,24 € 2
+NUT1623 Dog Adult normal 15 kg 36,34 € 2
+NUT1223 Dog Puppy Lamm 15 Kg 42,97 € 2
+NUT1222 Dog Puppy Lamm 7,5 Kg 26,94 € 2
+NUT2441 Dog senior large 2 kg 9,15 € 2
+NUT1260 Nutro Cat Huhn 3 kg 17,12 € 2
+NUT1523 Nutro Adult Huhn 2 kg 9,15 € 2
+NUT1121 Nutro Adult Lamm 2 kg 9,15 € 2
+NUT1122 Nutro Adult Lamm 7,5 kg 25,48 € 2
+NUT5250 Nutro Cat adult Lachs 1kg 6,70 € 2
+NUT3350 Nutro Cat CC light 1kg 7,65 € 2
+NUT3360 Nutro Cat CC light 3kg 20,11 € 2
+NUT1250 Nutro Cat Huhn 1 kg 6,70 € 2
+NUT5240 Nutro Cat Lachs 300 g 2,48 € 2
+NUT3340 Nutro Cat light 300g 2,84 € 2
+NUT4225 Nutro Cat senior 1kg 7,65 € 2
+NUT4220 Nutro Cat senior 300g 2,84 € 2
+NUT2261 Nutro Kitten 3 kg 20,89 € 2
+NUT2241 Nutro Kitten Chicken 300g 2,95 € 2
+NUT1823 Nutro L.Breed Puppy 15kg 42,97 € 2
+NUT1123 Nutro Lamm & Reis 15 kg 42,61 € 2
+NUT1221 Nutro Lamm&Reis 2kg 10,17 € 2
+NUT1421 Nutro light L&R 2kg 9,15 € 2
+NUT1921 Nutro Mini Adult 3kg 8,71 € 2
+NUT2641 Nutro Puppy L&R 2kg 10,17 € 2
+NUT1721 Puppy Mini 2 kg 9,15 € 2
+Preislsite Rosenlöcher Zoobedarf Brodersen
+1
+Artikelnummer Artikelbeteichnung Preis UstArt
+18831 Agapornidenfutter 800 g 1,27 € 2
+348028 Allco Pansen Snack 10kg 27,90 € 2
+5421 Apfeldrops f. Nager 75g 0,50 € 2
+1843A Apfelscheiben 100g 1,06 € 2
+T4752 Bada Beam Laser 11,00 € 1
+1341 Bananenchips 150 g 0,95 € 2
+506 Bananenchips 150g 1,29 € 2
+3001 Baumwoll-Einstreu 30 L 5,72 € 1
+10202 Baumwolleinstreu 15 L 3,05 € 1
+783 Biogrün 40g 0,28 € 1
+283 Bioperlen WS 20g 0,24 € 2
+2711 Bodentabl. 50 g 1,30 € 2
+T2036 Catnip - Sack 1,65 € 1
+T2044 Catnip - Socke 1,15 € 1
+T6644 Catnip Takle Bag 5,50 € 1
+5084 Championmix 700g 1,99 € 2
+6582 Chinchilla - Müsli 500g 1,38 € 2
+50 Chinchilla Leckerbissen 50g 1,00 € 2
+077A Chinchilla Mix 1 Kg 1,51 € 2
+5002 Chinchilla Sticks 3 * 70g 1,25 € 2
+51801 Chinchillamenü 600g 1,05 € 2
+74 Chinchillasand 1 Kg 0,90 € 1
+7400 Chinchillasand 1kg 0,80 € 1
+5081 Country-Mix M.S. 20 Kg 28,00 € 2
+5080 Country-Mix Z.K. 20 Kg 30,20 € 2
+T20224 Crinkle Ball 3 Stck. 1,45 € 1
+T00321 Da Bomb 7,70 € 1
+286 Daphnien 10 g 0,30 € 2
+353 Daphnien 180 ml 1,12 € 2
+358 Daphnien 500 ml 2,45 € 2
+51601 Degu Menü 300g 1,29 € 2
+981 Degufutter 600 g 0,95 € 2
+981A Degufutter lose 25 Kg 20,25 € 2
+51605 Degumenü 5 L 4,99 € 2
+1390/ DeliLeckerMix Obstsalat 1,04 € 2
+1399 DeliLeckerMix Exotic 1,70 € 2
+1395 DeliLeckerMix gemüse 250 g 1,30 € 2
+1397 DeliLeckerMix Papagei Nüsse 1,70 € 2
+1396 DeliLeckerMix Papagei Papaya 1,50 € 2
+1398 DeliLeckerMix Tropic 1,73 € 2
+1392 DeliLeckMix Blüten/Fenchel 1,33 € 2
+18891 Desi-Tropfen 30 ml 1,70 € 1
+5451/ Dopsmix Heidelbeere 0,49 € 2
+5404 Drops Schoko - Milch f. Ng 0,58 € 2
+60057 Echinacea 75 g 1,06 € 2
+80035 Eckhaus 35 7,99 € 1
+1334 Ei-Sticks Sittich 2 er 0,77 € 2
+1032 Eifutter gelb 250 g 1,06 € 2
+1031 Eifutter ROT 250g 1,06 € 2
+1034 Eifutter gelb, 5L 9,95 € 2
+1033 Eifutter rot, 5L 9,95 € 2
+TT927 Elchleder - Führleine rundgenäht 25,00 € 1
+1892 Erbsenflocken 25kg 29,50 € 2
+31005 Erdbeere 10g 0,79 € 2
+1853 Erdnüsse in Schale 10 Kg 29,90 € 2
+118B Exotenfutter 1Kg 1,67 € 2
+6481 Exotic-Mix Papaya 200g 1,70 € 2
+Preislsite Rosenlöcher Zoobedarf Brodersen
+2
+T4757 Falt-Napf Gr. 4,65 € 1
+T4758 Falt-Napf Kl. 3,50 € 1
+350 Fischfutter 100 ml 0,52 € 2
+209 Fischfutter 180ml 1,45 € 2
+360 Fischfutterflocken 500ml 2,88 € 2
+1351 Frucht-Sticks Kanari 2er 0,71 € 2
+1403 Frucht-Sticks Papagei 2er 1,77 € 2
+1503 Frucht-Sticks G.S. 2er 1,49 € 2
+6652 Früchtchen 150 g 0,73 € 2
+5431 Fruchtdrops Nager 75g 0,52 € 2
+1324 Fruchtsticks Ws 2er 0,75 € 2
+5406 Frumenti Mix 250 g 0,92 € 2
+287 Gammariden 10 g 0,35 € 2
+354 Gammariden 180 ml Dose 1,22 € 2
+359 Gammariden 500 ml 2,78 € 2
+T002 Gefüllter Knochen 2,00 € 1
+6015 Gemüse - Mix 10 kg 35,60 € 2
+535A Gemüse Apfel 35stk. 12,45 € 2
+50419 Gemüse Menü 10 Kg 47,50 € 2
+5041 Gemüsemenü Nager 300 g 1,51 € 2
+5407 Gemüseschnitten 250g 1,10 € 2
+1812 Großsittichfutter 25 kg 28,75 € 2
+60063 Grüner Hafer 700 g 2,45 € 2
+10901 GS - Menü 1kg 1,67 € 2
+60054 H M Blütenmix 1,29 € 2
+6531 H M Crunch 0,64 € 2
+60050 H M Grüner Hafer 1,06 € 2
+6551 H M Haferecken 1,10 € 2
+60053 H M Hopfendolden 1,35 € 2
+60055 H M Löwenzahn 0,89 € 2
+5087 H M Luzerne Karotte 400g 1,18 € 2
+6461 H M Obstsalat 0,93 € 2
+6641 H M Traube-Nuss-Mix 200g 1,40 € 1
+2701 Hafttabletten 50 g 1,30 € 2
+1879A Hagebutten 150g 1,00 € 2
+502A Hamsterfutter 1kg 1,00 € 2
+50201 Hamstermenü 700g 1,21 € 2
+50203 Hamstermenue Premium 500g 1,49 € 2
+T020 Hanging Monkey 3,60 € 1
+6631 heidelbeer-FruchtMix 200 g 1,10 € 2
+8000 Heimtierstreu ca. 100 L 2,50 € 2
+6000 Heimtierstreu ca. 18 L 0,75 € 2
+7000 Heimtierstreu ca. 50 L 1,75 € 2
+8010 Heu 1 kg 1,20 € 2
+8020 Heu 2,5 kg 2,50 € 2
+60060 Heu mit Karotten 500 g 1,49 € 2
+60065 Heu mit Pfefferminze 500 g 1,49 € 2
+18535 HM Erdnußkugeln 150g 1,03 € 2
+6541 HM Flips 200g 0,83 € 2
+50705 HM Meerschwein 5 Kg 4,24 € 2
+6653 HM Möhrentopf 150 g 0,75 € 2
+6492 HM Popcorn 200 g 0,89 € 2
+50605 HM Zwergkaninchen 5 Kg 4,24 € 2
+5411 Honig drops Nager 75g 0,50 € 2
+500A Honig Sticks Nager 25 St. 12,45 € 2
+1502 Honig-Sticks G.S. 2er 1,38 € 2
+1350 Honig-Sticks Kanarien 2er 0,75 € 2
+1402 Honig-Sticks Papagei 2er 1,78 € 2
+Preislsite Rosenlöcher Zoobedarf Brodersen
+3
+282 Honigperlen 0,24 € 2
+781 Honigperlen Kanarien 0,24 € 2
+1323 Honigsticks WS 2-er 0,80 € 2
+1862E Hoppel Moppel im Eimer 5 L. 3,40 € 2
+281 Jod Perlen 0,24 € 2
+5441 Joghurt Drops Nager 75g 0,56 € 2
+1857A Johannisbrot 250 g 0,64 € 2
+289 Jungfische Vitamine 10g 0,23 € 2
+9000 Kalkstein f. Vögel 0,60 € 1
+119A Kanarienfutter 1 kg 1,90 € 2
+10301R Kanarienmenü 600 g 1,06 € 2
+6651 Karotten Chips 125 g 0,91 € 2
+T30003 Katzenangel 3,95 € 1
+T015 Katzenangel m. Feder 3,95 € 1
+T003 Katzenangel Tweeties 3,95 € 1
+T4754 Katzenhalsband 1,55 € 1
+TT051 Katzennapf mit Motiv 0,95 € 1
+T242 Kauschuh groß gefüllt 5,60 € 1
+T241 Kauschuh klein 1,75 € 1
+T263 Kaustrumpf Hund 2,85 € 1
+T600 Kaustrumpf Katze 3,90 € 1
+18741 Kleinnagerfutter 25 kg 26,25 € 2
+5321/ Knabber-Rollen 3er Mix 1,10 € 2
+215 Koifit 5 L 9,81 € 2
+111C Kolbenhirse 200g rot 1,10 € 2
+111D Kolbenhirse 500g rot 2,45 € 2
+112A Kolbenhirse gelb 1 Kg 3,91 € 2
+112 Kolbenhirse gelb 100g 0,65 € 2
+112C Kolbenhirse gelb 200g 1,00 € 2
+112D Kolbenhirse gelb 500g 2,20 € 2
+111A Kolbenhirse rot 1000g 4,45 € 2
+111 Kolbenhirse rot 100g 0,68 € 2
+1815D Kolbenhirse rot 15kg 47,65 € 2
+6451 Kräuter - Glocken Display 6 er 10,94 € 2
+1833A Kürbiskerne 200 g 1,49 € 2
+T547 Latex Reindeer Lobber 5,65 € 1
+T0163 Latex Rubber Tugger 4,10 € 1
+T785 Latex Weihnachtsspielzeug 1,55 € 1
+18771 Lauch 40g 0,50 € 2
+780 Lebertranperlen Sitt. 0,25 € 2
+497 Leckerbissen Sittich 0,32 € 2
+789 Leckerbissen m. Hirtentäschel 0,33 € 2
+788 Leckerbissen m. Vogelmiere 0,33 € 2
+790 Leckerbissen m. Wildsamen 0,33 € 2
+787 Leckerbissen mit Löwenzahn 0,33 € 2
+498 Leckerbissen P/GS 20 g 0,34 € 2
+1393 Leckermix Heidelb. /Banane 250 g 1,03 € 2
+1394 Leckermix mit Petersilie 250 g 1,40 € 2
+5405 Lieblingsherzen 250 g 1,06 € 2
+6452 Luzerne Glocken Display 6er 10,94 € 2
+611 Luzerne Rolle 2,90 € 2
+5086 Luzernebits Apfel/Banane 1,51 € 2
+6025R Luzernebits mit Karotte 10 Kg 25,60 € 2
+1861B Luzernepellets 1 Kg 0,70 € 2
+18262 Maiskolben 2er 1,18 € 2
+31007 Mango 50g 0,69 € 2
+T95006 Matminator 8,90 € 1
+51401 Maus Menü 500g 0,95 € 2
+Preislsite Rosenlöcher Zoobedarf Brodersen
+4
+149C Mäusefutter 1kg 1,41 € 2
+149A Mäusefutter 25kg 24,75 € 2
+492 Mauserkörner Kanari 0,32 € 2
+494 Mauserkörner Papagei/großsittich 0,32 € 2
+493 Mauserkörner Sittich 25g 0,32 € 2
+285 Mausersalz 0,33 € 2
+1325 Mausersticks WS 2er 0,80 € 2
+507A Meerschw.futter 1kg 0,97 € 2
+507B Meerschweinfutter 2,5kg 2,45 € 2
+79819 Mini Kauschuh bunt 6 St. 1,10 € 1
+66533 Mini-Mais-Mix 1,22 € 2
+784 Mix Sortiment 6Btl. 1,49 € 2
+50701 MS - Menü800g 1,49 € 2
+5331 Nagerbirnen 2er 0,93 € 2
+6654 Nagerfrühstück 150 g 0,89 € 2
+1874B Nagergenuß 25kg 27,25 € 2
+70702 Nagerhaus IGLU groß 12,75 € 1
+1861 Nagerpellets 25 kg 13,50 € 2
+9001 Nagerstein 1,20 € 1
+5006/ Nagerstick Frucht 1,12 € 2
+5004/ Nagerstick Gemüse 1,17 € 2
+5007 Nagerstick Nuß 1,25 € 2
+5005/ Nagersticks Honig, 2er 0,99 € 2
+1821A Negersaat 400 g 1,09 € 2
+1171 Papa-Chili Mix 800g 2,15 € 2
+11701 Papagei Menü 1kg 1,65 € 2
+117A Papageienfutter 1kg 1,75 € 2
+9002 Papageienstein 1,20 € 1
+1822E Papageifutter 5L Eimer 4,21 € 2
+31008 Papaya 50g 0,69 € 2
+117B Papgeienfutter 2,5kg 3,70 € 2
+T4769 Pentapull Baby 8,70 € 1
+T444 Pentapull Plüsch 8,75 € 1
+604 Petersilien - Glöckchen 1,24 € 2
+1903A Petersilienstengel 50 g 0,50 € 2
+60084 Petersilienstiele 1 Kg 3,20 € 2
+1903 Petersilienstiele 5 kg 19,15 € 2
+6002 Pfefferminzblätter 50 g 0,88 € 2
+T15750 Plüsch Kuh 5,50 € 1
+T542 Plüschrentier klein 2,85 € 1
+T544 Plüschrentier Raggy 4,30 € 1
+T666 Plush Bottle Toy 8,00 € 1
+50903 Premium Granulat Chinchilla 500g 1,29 € 2
+50902 Premium Granulat Hamster 500g 1,29 € 2
+50901 Premium Granulat MS 500g 1,44 € 2
+50904 Premium Granulat Ratte 1,29 € 2
+T15710 Pull My Leg 6,75 € 1
+348047 Puppy Treats Minze 7,5kg 22,65 € 2
+T20228 Rasselball 2 Stck. 1,50 € 1
+51501 Ratten Menü 600g 1,05 € 2
+51503 Ratten Premium-Menü 500g 1,49 € 2
+980B Rattenfutter 2,5 Kg 4,91 € 2
+66531 Reiskräckerm. Heidelbeeren 125g 1,15 € 2
+51402 Rennmaus Gerbil Menü 600 g 1,14 € 2
+T555 Schwimm-Wurfspielzeug 8,70 € 1
+284 Singperlen Kan. 20 g 0,24 € 2
+605 Sommerwiesen-Glöckchen 1,33 € 2
+TT506 Spielseil mit Ball 1,80 € 1
+Preislsite Rosenlöcher Zoobedarf Brodersen
+5
+280 Sprechperlen 0,24 € 2
+T10500 Sqeak cat toy 4,15 € 1
+T4756 Straßhalsband Beverly 6,90 € 1
+8030 Stroh 1,5 kg 1,75 € 2
+927 Strohpellets 48 L 7,37 € 2
+929 Strohpellets 20 L 3,60 € 2
+926 Strohpellets 60 L 10,66 € 2
+T16256 Tauring 4,95 € 1
+T16259 Tauwurfball groß 5,60 € 1
+356 Teichmix 5L Eimer 4,37 € 2
+214 Teichsticks zweifarbig 5L Eimer 3,65 € 2
+T20281 Tug-a-ball- large 6,90 € 1
+T20280 Tug-a-ball- small 4,80 € 1
+206 Vitaminaufzucht Fische 180 ml 1,42 € 0
+352 Vitaminaufzuchtf.Fische 180ml 1,48 € 2
+496 Vogelgrit 0,21 € 2
+495 Vogelgrit Papag. / GS 0,22 € 2
+491 Vogelgrün WS 0,26 € 2
+791 Vogelkohle 15 g 0,24 € 2
+100 Vogeltrank 500 ml 1,44 € 2
+T4753 Vor-Führleine Leder 8,30 € 1
+T543 Weihnachts-Plüschente 3,90 € 1
+T512 Weihnachts-Plüschmeerkatze 5,90 € 1
+T876 Weihnachtsbaum Plüsch 5,15 € 1
+T4765 Weihnachtskalender 3,10 € 2
+T486 Weihnachtsmann + Schokodrops 3,70 € 1
+T249 Weihnachtsmann Schoko 2,95 € 1
+T782 Weihnachtsmantel L 8,95 € 1
+T781 Weihnachtsmantel M 8,00 € 1
+T780 Weihnachtsmantel S 7,05 € 1
+1827 Weizen 25 Kg 12,00 € 2
+108A Wellensitichfutter 1kg 1,34 € 2
+60062 Wiesenheu m. Blüten 500g 1,49 € 2
+60061 Wiesenheu mit Früchten 1,49 € 2
+60051 Wiesenkräuter Mix 75 g 1,23 € 2
+TT286 Winterfutterröhre 4,10 € 1
+TT288 Winterfutterröhre 5,10 € 1
+TT289 Winterfutterröhre 4,00 € 1
+TT287 Winterfutterröhre 3,60 € 1
+TT180 Winterhaus 6,55 € 1
+10801 WS Menü 1kg 1,73 € 2
+TT545 Wurfball 6 cm 1,55 € 1
+T241601 Yento Pure Bristle brush 17,80 € 1
+5066 Z.K. Country Mix im 5 L Eimer 3,73 € 2
+1854A Zirbelnüsse 200g 1,60 € 2
+506B ZK - Futter 2,5 Kg 2,56 € 2
+50601 ZK - Menü 800g 1,49 € 2
+50603 ZK Premium Menü 500g 1,49 € 2
+50202 Zwerghamster - Menü 700 g 1,17 € 2
+506A Zwergkaninchenfutter 1kg 1,06 € 2
+Preisliste Royal Canin Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+RC10000 RC XSmall junior 500 g 5,49 € 2
+RC10001 RC Xsmall junior 1,5 kg 10,21 € 2
+RC10010 RC XSMALL Adult 500g 5,08 € 2
+RC10011 RC XSMALL Adult 1,5 kg 9,45 € 2
+RC10013 RC XSMALL Adult 3 Kg 17,58 € 2
+RC10020 RC XSMALL Mature 8 500 g 5,49 € 2
+RC10021 RC XSMALL Mature 8 1,5 kg 10,21 € 2
+RC10030 RC XSMALL Ageing 12 500 g 5,18 € 2
+RC10031 RC XSMALL Ageing 12 1,5 kg 9,62 € 2
+RC10111 RC Mini Ageing + 12 1,5 kg 9,00 € 2
+RC10115 RC Mini Ageing 12 800 g 6,84 € 2
+RC10122 RC Mini Adult 8 Plus 2 Kg 10,68 € 2
+RC10128 RC Mini Adult + 8 8 kg 30,75 € 2
+RC1035 RC Club SP Adult CC 15 Kg 26,10 € 2
+RC1055 RC Club SP Junior 15 Kg 29,87 € 2
+RC11045 RC Medium Ageing +10 15 kg 49,23 € 2
+RC1220 RC Club Energie HE 20 Kg 35,95 € 2
+RC1350 RC Oral sensitive 30 400g 4,92 € 2
+RC1351 RC Oral sensitive 30 1,5k 14,93 € 2
+RC1354 RC Oral sensitive 30 3,5k 27,88 € 2
+RC1358 RC Oral Sensitive 30 8 kg 44,26 € 2
+RC1360 RC Exigent 35/30 400 gr 4,70 € 2
+RC1361 RC Exigent 35/30 10 kg 48,12 € 2
+RC1362 RC Exigent 35/30 2 kg 17,18 € 2
+RC1364 RC Exigent 35/30 4 kg 27,48 € 2
+RC1380 RC BabyCat 34 400 gr 4,62 € 2
+RC1382 RC BabyCat 34 2 kg 17,50 € 2
+RC1384 RC BabyCat 34 4 kg 27,48 € 2
+RC1389 RC BabyCat milk 300 gr 11,82 € 2
+RC1390 RC Outdoor 30 400 gr 4,73 € 2
+RC1391 RC Outdoor 30 10 kg 48,12 € 2
+RC1392 RC Outdoor 30 2 kg 17,18 € 2
+RC1394 RC Outdoor 30 4 kg 27,48 € 2
+RC1400 RC Kitten 34 400 gr 4,62 € 2
+RC1401 RC Kitten 34 10 kg 48,12 € 2
+RC1402 RC Kitten 34 2 kg 17,50 € 2
+RC1404 RC Kitten 34 4 kg 27,48 € 2
+RC1410 RC Fit 32 400 gr 4,27 € 2
+RC1411 RC Fit 32 10 kg 46,27 € 2
+RC1412 RC Fit 32 2 kg 16,20 € 2
+RC1414 RC Fit 32 4 kg 26,69 € 2
+RC1420 RC Sensible 33 400 gr 4,49 € 2
+RC1421 RC Sensible 33 10 kg 48,12 € 2
+RC1422 RC Sensible 33 2 kg 16,85 € 2
+RC1424 RC Sensible 33 4 kg 26,96 € 2
+RC1450 RC Persian 30 400 gr 4,92 € 2
+RC1451 RC Persian 30 10 kg 49,51 € 2
+RC1452 RC Persian 30 2 kg 18,63 € 2
+RC1454 RC Persian 30 4 kg 28,51 € 2
+RC1470 RC Indoor 27 400 gr 4,73 € 2
+RC1471 RC Indoor 27 10 kg 48,12 € 2
+RC1472 RC Indoor 27 2 kg 17,18 € 2
+RC1474 RC Indoor 27 4 kg 27,48 € 2
+RC1480 RC Light 40 400 gr 4,92 € 2
+RC1481 RC Light 40 10 kg 50,90 € 2
+RC1482 RC Light 40 2 kg 18,63 € 2
+RC1483 RC Light 40 3,5 Kg 29,81 € 2
+Preisliste Royal Canin Zoobedarf Brodersen
+2
+RC1700 RC Train&Belohn Educ 50 g 41,40 € 2
+RC1710 RC Babydog Milk 400 g 10,48 € 2
+RC1720 RC Maine Coon 31 400 gr 4,92 € 2
+RC1721 RC Maine Coon 31 10 kg 49,51 € 2
+RC1722 RC Maine Coon 31 2 kg 18,63 € 2
+RC1724 RC Maine Coon 31 4 kg 28,51 € 2
+RC1730 RC Siamese 38 400 gr 4,92 € 2
+RC1731 RC Siamese 38 10 kg 49,51 € 2
+RC1732 RC Siamese 38 2 kg 18,63 € 2
+RC1734 RC Siamese 38 4 kg 28,51 € 2
+RC1750 RC Kitten Persian 400g 5,13 € 2
+RC1760 RC British Kurzhaar 400 g 4,92 € 2
+RC1761 RC British Kurzhaar 10 kg 49,51 € 2
+RC1762 RC British Kurzhaar 2kg 18,63 € 2
+RC1764 RC Brit. Kurzhaar 34 4 Kg 28,51 € 2
+RC2070 RC Intense Hairball 400gr 4,92 € 2
+RC2071 RC Intense Hairball 10 kg 50,90 € 2
+RC2072 RC Intense Hairball 2 kg 19,07 € 2
+RC2074 RC Intense Hairball 4 kg 30,64 € 2
+RC2084 RC Outdoor Mature 28 4 kg 24,73 € 2
+RC2100 RC Hair & Skin 33 400 gr 4,92 € 2
+RC2101 RC Hair & Skin 33 10 kg 50,90 € 2
+RC2102 RC Hair & Skin 33 2 kg 18,63 € 2
+RC2104 RC Hair & Skin 33 4 kg 29,81 € 2
+RC2200 RC Pure Felline Schönheit 300g 2,80 € 2
+RC2201 RC Pure Feline Schönheit 1,5kg 12,38 € 2
+RC2203 RC Pure Feline Schönheit 3 kg 20,77 € 2
+RC2210 RC Pure Feline Idealgewicht 300g 2,80 € 2
+RC2211 RC Pure Feline Idealgewicht 1,5kg 12,38 € 2
+RC2213 RC Pure Feline Idealgewicht 3 kg 20,77 € 2
+RC2220 RC Pure Felline Vitalität 300g 2,80 € 2
+RC2221 RC Pure Feline Vitalität 1,5kg 12,76 € 2
+RC2223 RC Pure Feline Vitalität 3 kg 20,77 € 2
+RC2300 RC Indoor Long Hair 400g 4,92 € 2
+RC2301 RC Indoor Longhair 10 kg 50,90 € 2
+RC2302 RC Indoor Long Hair 2kg 18,63 € 2
+RC2304 RC Indoor Longhair 4 kg 29,81 € 2
+RC2310 RC Sterilised 400g 5,33 € 2
+RC2311 RC Sterilised 10 kg 50,90 € 2
+RC2312 RC Sterilised 2kg 19,97 € 2
+RC2314 RC Sterilised 37 4 Kg 31,71 € 2
+RC2320 RC Exigent Prot 42 400 g 4,73 € 2
+RC2321 RC Exigent Protein 42 10 kg 45,74 € 2
+RC2322 RC Exigent Prot 42 2 Kg 17,18 € 2
+RC2330 RC Exigent Aroma 33 400 g 4,73 € 2
+RC2331 RC Exigent Aroma 33 10 kg 48,12 € 2
+RC2332 RC Exigent Aroma 33 2 Kg 17,18 € 2
+RC2340 RC Indoor plus 7 400g 4,82 € 2
+RC2342 RC Indoor plus7 1,5 Kg 15,47 € 2
+RC2344 RC Indoor plus 7 3,5 Kg 24,97 € 2
+RC2350 RC Outdoor +7 400 g 4,82 € 2
+RC2351 RC Outdoor plus 7 10 Kg 49,00 € 2
+RC2352 RC Outdoor + 7 2 Kg 17,52 € 2
+RC2360 RC Sterilised + 7 400 g 5,33 € 2
+RC2370 RC Ageing +12 400 g 5,33 € 2
+RC2372 RC Ageing 12 2Kg 19,44 € 2
+RC2374 RC Ageing plus 12 4 Kg 31,10 € 2
+RC2574 RC Mini Adult Steril 4 Kg 19,64 € 2
+Preisliste Royal Canin Zoobedarf Brodersen
+3
+RC2583 RC MEDIUM Adult Steril 3 kg 13,80 € 2
+RC2592 RC Maxi Adult Steril 12 kg 43,20 € 2
+RC2593 RC MAXI Adult Steril 3,5 kg 14,40 € 2
+RC2805 RC Mini Junior 800 g 6,71 € 2
+RC2806 RC Mini Junior 2 Kg 10,68 € 2
+RC2808 RC MINI Junior 8,5 kg 31,73 € 2
+RC2809 RC Mini Junior 8 Kg 32,60 € 2
+RC2812 RC MINI Adult 2 kg 10,08 € 2
+RC2814 RC Mini Adult 4 Kg 18,12 € 2
+RC2815 RC Mini Adult 800 g 6,33 € 2
+RC2818 RC Mini Adult 8 Kg 30,75 € 2
+RC2825 RC Mini Mature plus 8 800g 6,71 € 2
+RC2828 RC MINI Mature 8 kg 32,60 € 2
+RC2835 RC Mini Sensible 800g 6,97 € 2
+RC2836 RC Mini Sensible 2 kg 11,09 € 2
+RC2838 RC Mini Sensible 10 Kg 42,24 € 2
+RC2839 RC MINI Sensible 9,5 kg 40,17 € 2
+RC2842 RC MINI Light 2 kg 10,88 € 2
+RC2845 RC Mini Light 800 g 6,84 € 2
+RC2850 RC Yorkshire 0,5 kg 4,21 € 2
+RC2851 RC Yorkshire 1,5 kg 9,69 € 2
+RC2857 RC Yorkshire 7,5 kg 33,75 € 2
+RC2874 RC Mini Dermacomfort 4 Kg 20,29 € 2
+RC2875 RC Mini Dermacomfort 800 g 6,84 € 2
+RC2904 RC MEDIUM Junior 4 kg 17,36 € 2
+RC2905 RC MEDIUM Junior 15 kg 49,23 € 2
+RC2908 RC MEDIUM Junior 10 Kg 39,04 € 2
+RC2914 RC MEDIUM Adult 4 kg 16,37 € 2
+RC2915 RC MEDIUM Adult 15 kg 46,44 € 2
+RC2919 RC MEDIUM Adult 10 Kg 36,83 € 2
+RC2924 RC MEDIUM + 7 4 kg 17,36 € 2
+RC2925 RC MEDIUM + 7 15 kg 49,23 € 2
+RC2929 RC Medium Mature 10 kg 37,60 € 2
+RC2944 RC MEDIUM Sensible 4 kg 17,68 € 2
+RC2945 RC MEDIUM Sensible 15 kg 50,16 € 2
+RC2952 RC Medium Light 3,5 Kg 15,47 € 2
+RC2953 RC Medium Light 13 Kg 43,47 € 2
+RC2963 RC MEDIUM Dermacomfort 3 kg 14,25 € 2
+RC3004 RC MAXI Junior 4 kg 15,86 € 2
+RC3005 RC MAXI Junior 15 kg 49,38 € 2
+RC3009 RC MAXI Junior 10 Kg 38,34 € 2
+RC3014 RC MAXI Adult 4 kg 14,97 € 2
+RC3015 RC MAXI Adult 15 kg 45,73 € 2
+RC3019 RC Maxi Adult 10 Kg 35,50 € 2
+RC3024 RC MAXI + 5 4 kg 15,86 € 2
+RC3025 RC MAXI Mature 15 kg 48,47 € 2
+RC3029 RC Maxi Mature 10 Kg 37,63 € 2
+RC3034 RC MAXI Light 3,5 kg 14,14 € 2
+RC3035 RC MAXI Light 15 kg 49,38 € 2
+RC3042 RC Maxi Dermacomfort 12,5 kg 43,20 € 2
+RC3043 RC MAXI Dermacomfort 3 kg 12,12 € 2
+RC3044 RC GIANT Adult 4 kg 13,91 € 2
+RC3064 RC MAXI sensible 4 kg 17,06 € 2
+RC3065 RC MAXI sensible 15 kg 52,13 € 2
+RC3074 RC GIANT Puppy 4 kg 15,26 € 2
+RC3075 RC GIANT Puppy 15 kg 49,46 € 2
+RC3084 RC GIANT Junior 4 kg 15,55 € 2
+RC3085 RC GIANT Junior 15 kg 49,05 € 2
+Preisliste Royal Canin Zoobedarf Brodersen
+4
+RC3094 RC Giant Adult 4 Kg 14,40 € 2
+RC3095 RC Giant Adult 15 Kg 44,19 € 2
+RC3133 RC Chihuahua 1,5 kg 11,78 € 2
+RC3142 RC German Shepherd 12 kg 46,82 € 2
+RC3143 RC German Shepherd 3 kg 14,89 € 2
+RC3152 RC Labrador Retriever 12kg 46,82 € 2
+RC3153 RC Labrador Retriever 3 kg 14,89 € 2
+RC3172 RC Boxer 12 kg 46,82 € 2
+RC3173 RC Boxer 3 kg 14,89 € 2
+RC3180 RC Poodle 500 gr 4,21 € 2
+RC3181 RC Poodle 1,5 Kg 9,69 € 2
+RC3187 RC Poodle 7,5 kg 33,75 € 2
+RC3190 RC Dachshund 500 gr 4,21 € 2
+RC3191 RC Dachshund 1,5 kg 9,69 € 2
+RC3198 RC Dachshund 7,5 Kg 33,75 € 2
+RC3252 RC Labrador Junior 12 kg 48,11 € 2
+RC3323 RC Cocker 3 Kg 14,74 € 2
+RC3330 RC Yorkshire Junior 500g 4,37 € 2
+RC3331 RC Yorkshire Junior 1,5 Kg 10,27 € 2
+RC3342 RC Golden Retreiver 12 kg 46,82 € 2
+RC3343 RC Golden Retriever 3 kg 14,89 € 2
+RC4310 RC Mini Junior 195 g 1,16 € 2
+RC4540 RC Pouchbeutel 85g 0,98 € 2
+RC4551 RC Babycat Inst. 195 g 1,95 € 2
+RC50104 RC Kitten Steril 4 Kg 26,55 € 2
+RC82105 NAGUT Hundebisquit 5 kg 11,48 € 2
+RC82111 NAGUT Hundebiskuit 1 kg 3,02 € 2
+RC82205 NAGUT Hundekuchen 5 kg 11,05 € 2
+RC82211 NAGUT Hundekuchen 1 kg 2,56 € 2
+Preisliste SAVANNA PET Zoobedarf Brodersen
+1
+Artikelnummer Name Preis UstArt
+S40000 Chips Strauss 200 g 4,50 € 2
+S40002 Straussen Hälse 4 St. 4,10 € 2
+S40003 Streifenfleisch Strauss 150 g 4,95 € 2
+S40004 Sehnen Strauss 200g 5,10 € 2
+S40005 Langsehnen Strauss 3 St. 4,90 € 2
+S40006 Strossen Strauss 50g 1,95 € 2
+S40007 Crispi's Strauss 200g 4,40 € 2
+S40009 Knochen Strauss XXL 1 St. 4,30 € 2
+S40010 Schnupperpack Strauss 200g 4,50 € 2
+S40012 Stripes Strauss 200g 4,60 € 2
+S40013 Mini Strossen Strauss 50g 2,00 € 2
+S40014 Fingersehnen Strauss 150g 3,75 € 2
+S40016 Premium Drops Strauss 200g 1,80 € 2
+S40018 Mega Chips Strauss 2 St. 4,90 € 2
+S40024 Angus Stripes 200g 3,40 € 1
+S40026 Strauss-Reis-Dinkel Kräcker 4 St. 2,40 € 2
+S40028 Strauss-Reis-Dinkel Kräcker Display 11,55 € 2
+S40031 Galoppino Flips 200g 3,90 € 2
+S40037 Mini Sehnen Strauß 70g 2,43 € 2
+S40039 Mini Flakes Strauß 70g 2,19 € 2
+S40042 Mini Angus Stripes 70g 2,19 € 2
+S70000 SannaPet Puppy 1,5kg 8,30 € 2
+S70002 SannaPet Adult 1,5kg 7,60 € 2
+S70004 Sannapet Adult 12kg 37,20 € 2
+S80001 Cat Strauß & Hering 100g 0,90 € 2
+S80003 Cat Strauß & Lachs 100g 0,90 € 2
+S80005 Cat Strauß & Huhn 100g 0,90 € 2
+Preisliste SavannaPet / Wolfsblut Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+S40000 Chips Strauss 200 g 5,00 € 2
+S40003 Streifenfleisch Strauss 150 g 5,30 € 2
+S40004 Sehnen Strauss 200g 5,70 € 2
+S40005 Langsehnen Strauss 3 St. 5,40 € 2
+S40006 Strossen Strauss 50g 2,30 € 2
+S40007 Crispi's Strauss 200g 4,90 € 2
+S40009 Knochen Strauss XXL 1 St. 4,70 € 2
+S40012 Stripes Strauss 200g 5,10 € 2
+S40013 Mini Strossen Strauss 50g 2,40 € 2
+S40014 Fingersehnen Strauss 150g 4,60 € 2
+S40016 Premium Drops Strauss 200g 1,98 € 2
+S40037 Mini Sehnen Strauß 70g 2,43 € 2
+S40039 Mini Flakes Strauß 70g 2,19 € 2
+S40042 Mini Angus Stripes 70g 2,19 € 2
+S40111 Chips Strauß 7000g 134,00 € 2
+S40512 Bullkau 15 cm 200 g (Kopfhaut) 2,00 € 1
+S40522 Rinderohren 10 Stck. 3,45 € 1
+S40523 Rinderohren 200 St. 60,00 € 1
+S52036 Hasenohren 100g 2,60 € 2
+WB76002 Alaska Salmon Lachs und Reis 2 kg 9,60 € 2
+WB76003 Alaska Salmon Lachs&Reis15 kg 46,40 € 2
+WB76052 Range Lamb Lamm und Reis 2 kg 9,60 € 1
+WB76053 Range Lamb Lamm und Reis 15 kg 46,40 € 2
+WB76054 Range Lamm Puppy 2 kg 10,40 € 2
+WB76102 Wolfsblut 12 x 395 g 26,40 € 2
+WB76102/ Wolfsblut 6 x 395 g 13,20 € 2
+WB76102// Wolfsblut 395 g 2,20 € 2
+WB76104 Wild Duck Ente&Kart. 500g 3,19 € 2
+WB76105 Wild Duck Ente und Kartoffel 2 kg 9,60 € 2
+WB76106 Wild Duck Ente&Kartoffel 15 kg 46,40 € 2
+WB76110 Wild Duck Senior Ent.& Kart. 2 kg 11,20 € 2
+WB76111 Wild Duck senior 15 kg 51,20 € 2
+WB76114 Wild Duck Puppy 2 kg 11,20 € 2
+WB76115 Wild Duck Pup. Ent&Kar. 15 Kg 51,20 € 2
+WB76117 Wild Duck Ente & Kart. small 500 g 3,99 € 2
+WB76118 Wild Duck small Ente&Kart.2 kg 11,20 € 2
+WB76134 Hunters Pride Fasan&Ente 2 kg 12,80 € 2
+WB76154 Wild Pacif. Seefi.&Kart. 500g 3,19 € 2
+WB76155 Wild Pacif. Seefi&Kart. 2 Kg 11,20 € 2
+WB76156 Wild Pacifik Seefisch&Kartoffel 15 kg 51,20 € 2
+WB76202 Dark Forest Wild&Süßkart. 500g 3,19 € 2
+WB76203 Dark Forrest Wild&Süßkart. 2kg 9,60 € 2
+WB76204 Dark Forrest Wild&Süßkart. 15kg 47,20 € 2
+WB76252 Cold River Forelle &Süßk. 500g 3,19 € 2
+WB76253 Cold River Forelle/Süßkartoffel 2 kg 9,60 € 2
+WB76254 Cold River Forelle&Süßka. 15 kg 46,40 € 2
+WB76257 Cold Riv. Fofel&Süßka 395g 2,20 € 2
+WB76304 Blue Mount. Wild&Hase 500g 3,19 € 2
+WB76305 Blue Mount. Wild&Hase 2 Kg 11,20 € 2
+WB76306 Blue Mount. Wild&hase 15 kg 52,00 € 2
+WB76325 Deep Glade Roth.&Kürb. 395g 2,20 € 2
+WB76348 Red Rock Ad. Käng&Kürb. 395g 2,20 € 2
+WB76352 Gr.Valley Lamm&Fisch 395g 2,20 € 2
+WB76359 Gr.Valley Lamm&Fisch 500g 3,19 € 2
+WB76360 Gr.Valley Lamm&Fisch 2 Kg 11,20 € 2
+WB76361 Gr.Valley Lamm und Fisch 15 kg 51,20 € 2
+WB76403 Wide Pl.Pferd pur 395g 2,20 € 2
+Preisliste SavannaPet / Wolfsblut Zoobedarf Brodersen
+2
+WB76420 Wide Pl. Pferd&Süßkar. 500 g 3,19 € 2
+WB76421 Wide Plan Pferd&Süßkart. 2 kg 11,20 € 1
+WB76422 Wide Plain Pferd&Süßk. 15kg 51,20 € 2
+WB76555 Red Rock Ad. Käng&Kür. 500g 3,99 € 2
+WB76556 Red. Rock Ad. Käng&Kürb. 2 Kg 14,00 € 2
+WB76557 Red Rock Ad. Käng&kür. 15 Kg 56,80 € 2
+WB76574 Gr.Peak. Adult Zie.&Süßka. 395g 2,20 € 2
+WB76588 GR.Peak adult 500g 3,99 € 2
+WB76589 Gr.Peak. Adul. Zie&Süßk. 2 Kg 12,00 € 2
+WB76590 Gr. Peak.Adult Zie.&Süßk. 15 kg 53,60 € 2
+WB76591 Gr.Peak.Kle.Ziege&Süßk. 500g 3,99 € 2
+WB76592 Gr.Peak klein 2 kg 12,80 € 2
+WB76594 Gr.Peak Puppy 500 g 3,99 € 2
+WB76595 Gr.Peak Puppy 2 kg 12,80 € 2
+WB76596 Gr.Peak Puppy Ziege & Süßk. 15 kg 55,20 € 2
+WB76598 Gr.Peak senior 2 kg 12,00 € 2
+WB76599 Gr. Peak Senior Zieg.&Süßk. 15 kg 53,60 € 2
+WB76622 Bl.Marsh Wasserb.&Kürbis 500 g 3,99 € 2
+WB76623 BL.Marsh. Wasserb.&Kürb. 2kg 14,00 € 2
+WB76624 Black Marsh Ad. Wa-büf&Kür. 15 kg 56,80 € 2
+WB76626 Pol.Night Ad. Rent.&Kür. 500g 3,99 € 2
+WB76627 Pol.Night Rentier&Kürb. 2kg 14,00 € 2
+WB76628 Pol.Night Ad. Rent&Kür 15 Kg 56,80 € 2
+WB76700 Cat Rani Fasan/Ente 500g 3,99 € 2
+WB76701 Cat Rani Fasan/Ente 3 Kg 22,40 € 2
+WB76702 Cat Cheetah Wildfl. & Lachs 500 g 3,99 € 2
+WB76703 Cat Cheetah Wildfl & Lachs 3 Kg 22,40 € 2
+WB76800 Cat Andrah Fisch/Süßk. 500g 3,99 € 2
+WB76801 Cat Andrah Fisch/Süßk. 3 Kg 22,40 € 2
+WB76802 Cat Etosha Huhn & Trut. 500 g 3,99 € 2
+WB76803 Cat Etosha Huhn & Truth. 3 Kg 20,80 € 2
+WB76900 Cat Badhra Pferd/Süßk. 500g 3,99 € 2
+WB76901 CAT Badhra Pferd&Süßk. 3 kg 22,40 € 2
+WB76902 Cat Karoo Kan. & Gefl. 500g 3,99 € 2
+WB76903 Cat Karoo Kan. & Geflü. 3 Kg 20,80 € 2
+Preisliste SAVIC Zoobedarf Brodersen
+1
+Art.nr. Artikelbezeichnung Preis UstArt
+593 Aqua Biba 150ml 2,30 € 1
+1600 Biba Tränke 100 ml 1,00 € 1
+1610 Biba Tränke 150 ml 1,10 € 1
+1630 Biba Tränke 500 ml 1,50 € 1
+5903 Käfignapf 2 St. 1,45 € 1
+5320 Mickey Mauskäfig 13,70 € 1
+5622 Olivia 50 Vogelkäfig 37,10 € 1
+5904 Papageiennapf 2 St. 2,20 € 1
+3268 Pet Caddy 1 9,80 € 1
+3269 Pet Caddy 2 12,65 € 1
+3270 Pet Caddy compact 7,20 € 1
+1650 Rody Cavia MS. 23,80 € 1
+1660 Rody Hamster 14,50 € 1
+SV0166-06 Rody Hamster ohne Zubehör 11,90 € 1
+SV0220-17 Toilett Medio 3,95 € 1
+SV0217-48 Toilette oval large 4,50 € 1
+SV0209-00 Toilette oval Jumbo 5,95 € 1
+4066 Toledo 40 Käfigständer 28,00 € 1
+Preisliste VITAKRAFT Zoobedarf Brodersen
+1
+Artikelnummer Artikelbezeichnung Preis UstArt
+21288 Agapornidenkräcker 1,79 € 2
+21336 Anti - Trieb 2 x 10g 3,29 € 2
+12179 Aqua Bon 100ml 2,16 € 1
+11062 Balsomin 2,74 € 1
+21254 Bananenkräcker Sittich 0,99 € 2
+25586 Beauty Chincilla 600 3,09 € 2
+23294 Beefo Minis 0,45 € 2
+23177 Beefo Petit 0,59 € 2
+23145 Beefstick Herz 0,49 € 2
+23148 Beefstick Junior 0,49 € 2
+23149 Beefstick Knoblauch 0,49 € 2
+23109 Beefstick Lamm 0,49 € 2
+23147 Beefstick Menü 0,49 € 2
+23146 Beefstick Pansen 0,49 € 2
+23110 Beefstick Pute 0,49 € 2
+23009 Beefstick Rind 0,49 € 2
+23416 Beefstick School 0,88 € 2
+23415 Beefstick School 0,88 € 2
+23386 Beefstick Sport 0,62 € 2
+23029 Beefstick Wild 0,49 € 2
+21096/ Beo Special Perlen I kg 4,85 € 2
+21095/ Beo-Perlen 500g 2,95 € 2
+21122/ Bio Green 0,61 € 2
+11002 Bio Vogelsand 1 kg 0,73 € 1
+31051 Bio-Box 1,99 € 1
+21160/ Biskuit - Kräcker Kanari 1,13 € 2
+21155 Biskuit - Kräcker Sittich 1,13 € 2
+21157 Biskuitkräcker Honig Sittich 1,13 € 2
+21212 Bisquit Deli 4 St. 1,24 € 2
+10321/ Bisquit Ei 0,93 € 2
+10320 Bisquit Spinat 0,93 € 2
+21211 Bisquit Frucht 1,24 € 2
+21177 Bisquit Kräcker Frucht 1,19 € 2
+21158 Bisquiti Mohn Kanari 1,19 € 2
+24019 Cat Milk Vitamin 250 ml 0,99 € 2
+24137 Cat Stick Rind 0,49 € 2
+24191 Cat Stickis Lachs-Forelle 3 St. 0,60 € 2
+24146 Cat-Stickli´s 0,78 € 2
+25062 Chinchilla-Kräcker 1,13 € 2
+25555 Chrunchy Mix 200 g 1,29 € 2
+25204 Citruskräcker Meerschw. 1,25 € 2
+14041 Cleany Toilettenspray 3,47 € 1
+21877 Color- Cocktail Sittich 1,15 € 2
+21881 Color-Cocktail Kanari 1,15 € 2
+21228 Colorkräcker Kanari 0,99 € 2
+14031 Compact ultra 8 kg 7,50 € 1
+25011 Cookies 0,79 € 2
+21653 Country Home Überstreu 1,49 € 2
+23166 Crispi Hund 0,99 € 2
+25014 Crispis 0,99 € 2
+23359 Dog Minis 120g 1,33 € 2
+23403 Dog Minis Chicken 120 g 1,25 € 2
+23350 Dog Stickis 0,62 € 2
+23349 Dog Sticklies Käse - Herz 0,62 € 2
+21258 Eikräcker Exoten 0,99 € 2
+21265 Eikräcker Kanari 0,99 € 2
+21263 Eikräcker Sittich 0,99 € 2
+Preisliste VITAKRAFT Zoobedarf Brodersen
+2
+21292 Energykräcker Sittich 0,99 € 2
+21219 Feigenkräcker Sittich 0,99 € 2
+25347 Fenchelkräcker Meerschwein 1,13 € 2
+25782 Fit Bits Nager 2,40 € 2
+21110 Flachs 20 g 1,12 € 1
+13036 Fleckraus 3,14 € 1
+23028 Flockis light 1kg 2,16 € 2
+21168/ Fresh Deli Mix Kanarien 1,28 € 2
+21888 Fresh Super Fruit G.S. 2,15 € 2
+21165 Fresh-Deli-Mix Papagei 1,99 € 2
+21167/ Fresh-Deli-Mix G.S. 1,93 € 2
+21170 Fresh-Deli-Mix Sittich 1,39 € 2
+21169/ Fresh-Fruit Sittich 1,39 € 2
+21171 Fresh-Fruit- Kanarien 1,39 € 2
+25306 Frettchen Delikat 0,55 € 2
+25365 Frettchen Menü 4,19 € 2
+21882 Fruchtcocktail Kanari 1,15 € 2
+21454 Fruchtcocktail Papagei 1,89 € 2
+21878 Fruchtcocktail Sittich 1,15 € 2
+25140 Fruchtkr. Ratte 1,25 € 2
+21289 Fruchtkräcker G. S. 1,79 € 2
+21283 Fruchtkräcker Agapornide 1,79 € 2
+25154 Fruchtkräcker Hamster 1,25 € 2
+21266 Fruchtkräcker Kanari 0,99 € 2
+25155 Fruchtkräcker Meerschw. 1,25 € 2
+21264 Fruchtkräcker Sittich 0,99 € 2
+25783 Fruit Crossys Kaninchen 0,83 € 2
+25063 Frutti Nager Fruchtschnitte 0,89 € 2
+25013 Funny Hearts 2er Ng. 1,35 € 2
+21277 Funny Rings 3 St. 1,49 € 2
+25551 Gemüsecocktail MS. 1,29 € 2
+25015 Gemüsekräcker Hase 1,25 € 2
+25208 Gemüsekräcker Merschw. 1,25 € 2
+25056 Green-Fresh 1,83 € 2
+25047 Grün Rollis 500g 2,51 € 2
+25046 Grün-Rollis 300g 1,79 € 2
+25263 Grüner Hafer 1,90 € 2
+25669 Grünlinge 50 g 1,37 € 2
+25671 Grünlinge Meerschwein 1,37 € 2
+25584 Hamster Menü 1 Kg 3,19 € 2
+21310 Hansi´s Mauserhilfe 0,55 € 2
+25164 Happy Drops Hase 0,66 € 2
+25165 Happy Drops MS 0,66 € 2
+25389 Honey Cruchies 80g 1,01 € 2
+21239 Honig Popfit Mauserkr. Sittich 1,39 € 2
+21210 Honigbiskuit 4er 1,24 € 2
+21251 Honigkräcker 3er Kanari 1,39 € 2
+21257 Honigkräcker Exoten 0,99 € 2
+21245 Honigkräcker G.S. 1,79 € 2
+25152 Honigkräcker Hamster 1,25 € 2
+25018 Honigkräcker Hase 1,25 € 2
+21247 Honigkräcker Kanari 0,99 € 2
+25163 Honigkräcker Meerschw. 1,25 € 2
+21287 Honigkräcker Papgei 1,79 € 2
+21238 Honigkräcker Sittich 2er 0,99 € 2
+21243 Honigkräcker Sittich 3er 1,39 € 2
+21182 Honigperlen f. Sittich 0,35 € 2
+21183 Honigperlen Kanari 0,35 € 2
+Preisliste VITAKRAFT Zoobedarf Brodersen
+3
+25093 Igelfutter 500g 2,60 € 2
+25091 Igelnaßfutter 0,69 € 2
+21202 Jod-Rapid-Perlen 0,35 € 2
+25238 Johhurt - Drops Ratte 0,66 € 2
+21248 Jumbo Frutti Kanari 1,45 € 2
+21327 Kalkstein Sittich 0,75 € 2
+21242 Kanarienkräcker 0,99 € 2
+25673 Karottis 1,37 € 2
+21295 Kiwikräcker G.S. 1,79 € 2
+21269 Kiwikräcker Kanari 0,99 € 2
+21267 Kiwikräcker Sittich 0,99 € 2
+21301 Knusperherz multi Papgei 1,27 € 2
+21220 Knusperherzen 2er 0,99 € 2
+21300 Knusperherzen G.S. u. Pap. 1,27 € 2
+25338 Kombi - Kräcker Kaninchen 1,79 € 2
+25337 Kombi - Kräcker M. S. 1,79 € 2
+25339 Kombi - Kräcker Meerschwein 1,79 € 2
+25227 Kombi-Kräcker Hase 1,79 € 2
+25226 Kombikräcker Merschwein 1,79 € 2
+21229 Kombikräcker Kanari 1,39 € 2
+21231 Kombikräcker Sittich 1,39 € 2
+21237 Kombikräcker Sittich (Kiwi) 1,39 € 2
+21883 Konditionscocktail Kanari 1,15 € 2
+21879 Konditionscocktail Sittich 1,15 € 2
+21159 Kräcker Bisquiti Blütenpollen 1,19 € 2
+25345 Kräcker Junior Calcium 2er 1,25 € 2
+25350 Kräcker Senior Weizenkeim 1,25 € 2
+25349 Kräuter-Kräcker Chinchilla 1,25 € 2
+21068 Kräuterkräcker exoten 0,99 € 2
+21284 Kräuterkräcker Kanari 0,99 € 2
+21280/ Kräuterkräcker Sittich 0,99 € 2
+25300 Kuschelbett Streu 2,15 € 2
+21192 Lebertranperlen Sittich 0,35 € 2
+21193/ Lebertranperlen Kan. 0,35 € 2
+21285 Leckerbissen Kanari 0,69 € 2
+25124 Lofty´s 1,37 € 2
+25022 Maus-Menü 400g 2,60 € 2
+21880 Mausercocktail Kanari 1,15 € 2
+21876 Mausercocktail Sittich 1,15 € 2
+21306 Mauserherzen Sittich 1,09 € 2
+21339 Mauserhilfe G.S. und Papagei 0,65 € 2
+21221 Mauserkräcker Kanari 0,99 € 2
+21294 Mauserkräcker Papagei 1,79 € 2
+21224 Mauserkräcker Sittich 0,99 € 2
+25143 Menü für Degus 2,11 € 2
+21318 Menü Exotis 1,79 € 2
+25880 Menü f. Gerbile 250g 1,15 € 2
+21047 Menü f. Papageien 1kg. 3,09 € 2
+21337 Menü Kids 500g Sittich 1,59 € 2
+11104 Milben Spray 75 ml 2,34 € 1
+11102 Milbentod 150ml 3,23 € 1
+25146 Milch + Honig Drops Hamst. 1,02 € 2
+25166 Mini Drops Hamster 0,66 € 2
+23067 Mini Koteletts 1,45 € 2
+11092 Morgentau 2,17 € 1
+10330 Muffins + Mohn Kanari 1,25 € 2
+10322 Muffins Nager 1,25 € 2
+25789 Nager - Drops 1,16 € 2
+Preisliste VITAKRAFT Zoobedarf Brodersen
+4
+25030 Nagerstein 0,82 € 2
+15002 Nagertrank 1,27 € 1
+25024 Nibbels Hamster 0,95 € 2
+25207 Nußkräcker Hamster 1,25 € 2
+25016 Nußkräcker Hase 1,25 € 2
+25206 Nußkräcker Meerschw. 1,25 € 2
+21290 Nußkräcker Papagei 1,79 € 2
+25199 Orangen Drops MS 1,02 € 2
+21279 Orangenkräcker Kanari 0,99 € 2
+21278 Orangenkräcker Sittich 0,99 € 2
+12018 Oxy Tabs Sauerstoff - Plus 4,98 € 1
+21225 Pop-fitkräcker Sittich 0,99 € 2
+25230 Popcornkr. Ratte 1,25 € 2
+25157 Popcornkräcker Hase 1,25 € 2
+25205 Popcornkräcker Meerschw. 1,25 € 2
+14437 Pro Baby Kanari 20 1,55 € 2
+14438 Pro Baby Kanari 650 g 2,95 € 2
+14434 Pro Baby Sittich 650 g 2,95 € 2
+11058 Pro Feda 3,79 € 1
+21500/ Pro-Vitin 1,21 € 2
+21311 Pucki`s Mauserhilfe 0,55 € 2
+25243 Red Power Ratte 0,99 € 2
+25844 Regular 600g MS 3,49 € 2
+21777 Rollinis Papagei 0,89 € 2
+25728 Rollinis Waldbeere 0,83 € 2
+25729 Rollinos MS 0,83 € 2
+31003 Sandhüllen G. S. 1,36 € 2
+11034 Sandy 24 * 38 1,69 € 1
+11018 Sandy African 2 Kg 2,42 € 2
+11019 Sandy Canarian 2 kg 2,42 € 2
+11036 Sandy Sandteppich 46 x 26 1,99 € 1
+11035 Sandy 21+32 1,59 € 1
+11017 Sandy Australien 2 kg 2,42 € 1
+31002 Sandy Sandhüllen 1,29 € 1
+15010 Sandy spezial 2,18 € 1
+21069 Sesam-Apfelkräcker Exoten 0,99 € 2
+25007 Sesam-Bisquit Ng. 1,18 € 2
+21162 Singperlen Kan. 0,35 € 2
+14433 Sittich Gold 200g 1,55 € 2
+21291 Sittichkuchen 0,75 € 2
+21259 Sittichringe 2er 1,39 € 2
+21275 Sittichstärkung 0,69 € 2
+21078 Soft Mix medium 200g Exoten 2,54 € 2
+21172 Sprechperlen 0,35 € 2
+25279 Streu Heideland 10 L 2,15 € 2
+25158 Super Power Kräcker Hase 1,79 € 2
+12065 Torfin Tabs T 20 Tabl. 2,96 € 1
+21296 Tropenfruchtkräcker + Honig Papagei 1,79 € 2
+25418 Turtle gammare 250ml 2,06 € 2
+25083 Turtle pellets 250ml 2,45 € 2
+25072 Turtle special 250ml 2,79 € 2
+25077 Turtle special 1 L 8,45 € 2
+10308/ Twinis + Honig&Anis 1,19 € 2
+11005 Vita - Grit 1,25 € 1
+25099 Vita Bon Nager 1,75 € 2
+21043 Vita Nature 0,45 € 2
+11929 Vita Spezial Indoor short hair 3,49 € 2
+11937 Vita Spezial indoor short hair 3,29 € 2
+Preisliste VITAKRAFT Zoobedarf Brodersen
+5
+25841 Vita Spezial Regular 600g 3,49 € 2
+23070 Vita-bon Gr. 3,69 € 2
+23063 Vita-bon Gr. Z.P. 17,45 € 2
+24033 Vita-bon Katze 2,08 € 2
+24034 Vita-bon Katze Z.P. 6,99 € 2
+23068 Vita-bon kl. 2,20 € 2
+23061 Vita-bon kl. Z.P. 6,49 € 2
+23069 Vita-bon mittel 2,99 € 2
+23062 Vita-bon mittl. Z.P. 10,77 € 2
+25104 Vita-C-forte Ng. 1,32 € 2
+21321 Vita-Mineral maxi Pap.u.G.S. 1,26 € 2
+21042 Vita-Nature 0,45 € 2
+11052 Vitalino Quell 1,96 € 1
+25653 Vitaminkräcker Kaninchen 1er 0,62 € 2
+25655 Vitaminkräcker Hamster 1er 0,62 € 2
+25652 Vitaminkräcker Hamster 2er 1,13 € 2
+21334 Vogeldoktor 1,29 € 2
+11110 Vogeldusche 500 ml 4,08 € 1
+11112 Vogelkohle 0,54 € 1
+21380 Vogelsalat 0,69 € 2
+21349 Vogeltrank 1000 ml 2,15 € 2
+21350 Vogeltrank 500 ml 1,35 € 2
+25147 Waldbeer Drops 1,02 € 2
+25004 Waldbeerkräcker Ng. 1,25 € 2
+25277 Waldboden Überstreu 2,15 € 2
+Preisliste VOLLMERS Zoobedarf Brodersen
+Artikelnummer Name Preis UstArt
+V133 Anti - Allergie 1 Kg 3,50 € 2
+V135 Anti - Allergie 15 Kg 37,10 € 2
+V134 Anti - Allergie 5 Kg 16,80 € 2
+V161 Anti - Allergie Mini 5 Kg 19,40 € 2
+V160 Anti - Allergie Mini 1 Kg 3,95 € 2
+V094 Anti - Allergie Snack 10 Kg 30,40 € 2
+V037 Brocken 1 kg 3,45 € 2
+V006 Brocken 5 kg 10,18 € 2
+V00415 Brocken 15 kg 21,87 € 2
+V084 Crossis 1 kg 2,10 € 2
+V009 Crossis 15 kg 21,60 € 2
+V044 Crossis 5 kg 9,13 € 2
+V047 Crossis light 1 kg 2,25 € 2
+V008 Crossis light 5 kg 9,85 € 2
+V007 Crossis light 15 kg 23,15 € 2
+V0695 Energy Extra 5 Kg 11,80 € 2
+V069 Energy Extra 15 kg 29,09 € 2
+V114 Fisch & Reis 1 Kg 2,85 € 2
+V129 Fisch & Reis 15 Kg 29,29 € 2
+V130 Fisch & Reis 5 Kg 12,00 € 2
+V077 Flocken Dinner 15 Kg 18,45 € 2
+V036 Flocken + Fleisch 1 kg 2,00 € 2
+V002 Flocken + Fleisch 10 Kg 15,06 € 2
+V001 Flocken + Fleisch 15 kg 20,90 € 2
+V003 Flocken + Fleisch 5 kg 9,00 € 2
+V035 Good Deal 20 Kg 12,30 € 2
+V147 Große Rassen 1 kg 2,25 € 2
+V146 Große Rassen 15 kg 24,78 € 2
+V169 Holistic 15 Kg 38,10 € 2
+V172 Holistic 5 Kg 15,79 € 2
+V171 Holistic 1 kg 3,45 € 2
+V0858 Hunde - Bisquit 10 Kg 17,59 € 2
+V0850 Hunde - Kuchen 10 Kg 17,59 € 2
+V08501 Hunde - Kuchen 8 x 10 St. 15,20 € 2
+V08581 Hunde -Biskuit 8 x 10 15,20 € 2
+V030 Junior Ringe 5 Kg 10,13 € 2
+V029 Junior Ringe 15 Kg 23,75 € 2
+V041 Junior Ringe 1kg 2,20 € 2
+V0603 Katzen-Menü 2 Kg 3,95 € 2
+V0813 Katzen-Menü Geflügel 5 Kg 8,01 € 2
+V0833 Katzen-Menü Geflügel 20 kg 28,60 € 2
+V0602 Katzen-Menü-Fisch 2 Kg 3,92 € 2
+V0834 Katzen-Menü-Mix 20 Kg 28,60 € 2
+V0814 Katzen-Menü-Mix 5 Kg 8,01 € 2
+V0454 Katzen-Menü-Mix 10 kg 14,90 € 2
+V0601 Katzen-Mix Rind 2 Kg 3,92 € 2
+V137 Kleine Pfoten 1 Kg 2,85 € 2
+V139 Kleine Pfoten 15 kg 29,90 € 2
+V138 Kleine Pfoten 5 kg 11,65 € 2
+V0671 Knabber - Snack`s 1 Kg 2,00 € 2
+V06710 Knabber - Snacks 10 kg 19,90 € 2
+V067500 Knabber - Snacks 500g 1,35 € 2
+V090 Krokett 1 Kg 1,85 € 2
+V087 Krokett 15 kg 18,45 € 2
+V0895 Krokett 5 kg 8,23 € 2
+V153 Lachsöl 1 L 14,40 € 2
+V150 Lachsöl 300ml 6,65 € 2
+Preisliste VOLLMERS Zoobedarf Brodersen
+V158 Lachsöl Pumpe mit Schlauch 1,00 € 1
+V056 Lamm & Reis 15 kg 30,09 € 2
+V055 Lamm & Reis 5 kg 12,40 € 2
+V054 Lamm & Reis 20 x 400 g 22,40 € 2
+V124 Lamm & Reis 400g 1,12 € 2
+V091 Leichtkost 1 kg 2,00 € 2
+V194 Leichtkost 15 kg 20,90 € 2
+V096 Leichtkost 5 Kg 9,20 € 2
+V06810 Markknochen 10 Kg 21,72 € 2
+V0681 Markknochen 800 g 2,30 € 2
+V0683 Markknochen 3 kg 8,55 € 2
+V111 Mini - Karotten 1 Kg 3,85 € 2
+V112 Mini - Karotten 2,5 kg 9,35 € 2
+V113 Mini - Karotten 10 kg 30,06 € 2
+V065 Reisbällchen 5 kg 14,80 € 2
+V066 Reisbällchen 800 g 2,75 € 2
+V064 Reisbällchen 500 g 1,55 € 2
+V013 Reiskost 10 Kg 18,08 € 2
+V015 Reiskost 2,5 Kg 6,30 € 2
+V014 Reiskost 5 Kg 10,63 € 2
+V076 Reiskost 1 kg 2,45 € 2
+V122 Trockenfleisch fein 10 Kg 20,85 € 2
+V120 Trockenfleisch fein 2,5 Kg 6,35 € 2
+V010 Trockenfleischwürfel 1,5 Kg 4,10 € 2
+V017 Trockenfleischwürfel 10 Kg 20,83 € 2
+V019 Trockenfleischwürfel 2,5 kg 6,35 € 2
+V016 Trockenfleischwürfel 25 Kg 44,96 € 2
+V018 Trockenfleischwürfel 5 kg 11,65 € 2
+V173 Trtuhahn mit Kartoffel 1kg 3,45 € 2
+V176 Truthahn mit Kartoffel 15 Kg 38,10 € 2
+V175 Truthahn mit Kartoffel 5 Kg 15,79 € 2
+V012 Vollkorn Flocken 5 kg 9,07 € 2
+V011 Vollkorn Flocken 10 kg 13,88 € 2
+V078 Vollkorn Flocken 15 kg 19,35 € 2
+V034 Vollkost - Ringe 1 kg 1,85 € 2
+V032 Vollkost - Ringe 15 kg 18,45 € 2
+V033 Vollkost - Ringe 5 kg 8,23 € 2
+V058 Voro Dog Dinner 20 Kg 15,00 € 2
+V031 Voro Dog Krokett 10 Kg 9,00 € 2
+V062 Voro Dog Krokett 20 Kg 15,90 € 2
+V023 Welpenbrei 25 Kg 51,11 € 2
+V025 Welpenbrei 5 Kg 14,05 € 2
+V040 Welpenbrei 1 kg x 10 29,00 € 2
+V028 Welpenkost 5 Kg 10,24 € 2
+V050 Welpenkost 1 kg 2,20 € 2
+V026 Welpenkost 15 kg 24,33 € 2
+V020 Welpenmilch 10 Kg 70,22 € 2
+V022 Welpenmilch 2,5 kg 19,91 € 2
+V021 Welpenmilch 5 Kg 36,97 € 2
+
