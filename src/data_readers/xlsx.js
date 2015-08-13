@@ -12,7 +12,8 @@ var reader = require("./../reader"),
 function xlsxReader(file, options){
     reader.apply(this, arguments);
 
-    var _columns = [];
+    var _columns = [],
+        _workbook = null;
 
     var getNextLetter = function (l){ // [A->B, 0] [Z->A, 1]
             var code = l.charCodeAt(0);
@@ -44,7 +45,6 @@ function xlsxReader(file, options){
 
         var col = from;
 
-        console.log(from, to);
         for(; col!=to; col=increase(col))
             _columns.push(col);
 
@@ -52,71 +52,93 @@ function xlsxReader(file, options){
 
         return _columns;
     }
+
+    this.setWorkbook = function(workbook){
+        _workbook = workbook;
+    }
+
+    this.getWorkbook = function(){
+        if(!_workbook) throw "Workbook was not read";
+        return _workbook;
+    }
 };
 
 xlsxReader.prototype = Object.create(reader);
 xlsxReader.prototype.constructor = xlsxReader;
 
 xlsxReader.prototype.readData = function(done){
-    var file = this.getFile(),
-        concatSheets = this.getOption("concatSheets") || false;
+    var file = this.getFile();
 
-    workbook = xlsx.readFile(file);
+    var workbook = xlsx.readFile(file);
+    this.setWorkbook(workbook);
 
-    if( !concatSheets ){
-        var sheetName = this.getOption("sheetName") || workbook.SheetNames[0]; //primary sheet but should be configured
-        this.readSheet(sheetName);
-    }
-    else{
-        for(var s in workbook.SheetNames){
-            this.readSheet(workbook.SheetNames[s]);
-        }
-        this.longestRowLength ++;
-    }
+    for(var s in workbook.SheetNames)
+        this.data[workbook.SheetNames[s]] = this.readSheet(workbook.SheetNames[s]);
 
     done(null, this);
 };
 
 xlsxReader.prototype.readSheet = function(sheetName){
-    var worksheet = workbook.Sheets[sheetName],
+    var worksheet = this.getWorkbook().Sheets[sheetName],
         addSheetName = this.getOption("addSheetName") || false,
-        concatSheets = this.getOption("concatSheets") || false,
-        offset = this.getOption("concatSheets")? this.data.length : 0,
-        range = worksheet["!ref"]; //get range
+        range = worksheet["!ref"],
+        data = [];//get range
 
     range = range.match(/([A-Z]+)([0-9]+)\:([A-Z]+)([0-9]+)/); //parse range A1-Z100
 
     var list = this.getColumns(range[1], range[3]);
 
     //create result array
-    var rowLength = 1,
-        rowC = offset+1;
+    var rowC = 0;
 
     for(var row = range[2]; row < range[4]; row++, rowC++){ //iterate through all rows
 
-        this.data[rowC] = this.data[rowC] || []; //create new offset if it's required
-        rowLength = 1;
+        data[rowC] = data[rowC] || []; //create new offset if it's required
 
         if(addSheetName)
-            this.data[rowC].push(sheetName);
+            data[rowC].push(sheetName);
 
         for(var i = 0; i<list.length; i++){ //iterate through all columns
             if(worksheet[list[i]+row] === undefined){
-                this.data[rowC].push("");
+                data[rowC].push("");
                 continue;
             }
-            rowLength ++;
             //result[row] = result[row][i] || [];
             //rowData.push(worksheet[list[i]+row].v);
 
-            this.data[rowC].push(worksheet[list[i]+row].v);
+            data[rowC].push(worksheet[list[i]+row].v);
         }
 
-        if( rowLength > this.longestRowLength )
-            this.longestRowLength = rowLength;
     }
 
-    return this;
+    return data;
+};
+
+xlsxReader.prototype.info = function(){
+    var w = this.getWorkbook();
+
+    return {
+        "type" : "xlsx",
+        "sheets" : w.SheetNames
+    };
+};
+
+xlsxReader.prototype.getData = function(options){
+    var options = options || {};
+
+    if(options.sheetName !== undefined)
+        return this.data[options.sheetName];
+
+
+    if(options.concatSheets){
+        var data = [];
+        for(var s in this.data)
+            data = data.concat(this.data[s]);
+
+        return data;
+    }
+
+    return this.data;
 };
 
 

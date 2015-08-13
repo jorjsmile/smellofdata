@@ -21,7 +21,6 @@ function reader(file, options){
 
 
     this.data = [];
-    this.longestRowLength = 0;
 };
 
 reader.prototype = new Object();
@@ -29,9 +28,23 @@ reader.prototype.constructor = reader;
 
 
 reader.prototype.getData = function(){
-    throw "Method is abstract! Should be described!";
+    throw "Method getData is abstract! Should be described!";
 };
 
+reader.prototype.info = function(){
+    throw "Method info is abstract! Should be described!";
+};
 
+reader.prototype.readData = function(){
+    throw "Method readData is abstract! Should be described!";
+};
+
+reader.prototype.cache = function(memory){
+    memory.set("readerData", this.data);
+};
+
+reader.prototype.restore = function(memory){
+    this.data = memory.get("readerData");
+};
 
 module.exports = reader;

@@ -64,9 +64,13 @@ function session(path){
         }
 
         if(typeof(value) == "string"){
-            value = value.replace(/\n/, "");
-            if(value.indexOf("js:") === 0)
+            if(value.indexOf("js:") === 0){
+                value = value
+                    .replace(/\/\/.*\n/g, "") //single line comments
+                    .replace(/\/\*.*?\*\//g,"") //multiple line comments
+                    .replace(/\n/g, ""); //new lines;
                 newSession += "'"+name+"':"+value.replace(/^js\:/,"");
+            }
             else
                 newSession += "'"+name+"': '"+value.replace(/\'/,"\\'")+"'";
         }
@@ -77,6 +81,7 @@ function session(path){
         newSession = newSession.replace(/\n{2,}/g, "\n");
 
         newSession = "module.exports={\n"+newSession+"\n};";
+        console.log(newSession);
         try{
 
             esprima.parse(newSession);
@@ -92,6 +97,11 @@ function session(path){
     };
 
     this.getSession = function(){ return _session; };
+
+    //shortcut to setSessionValue
+    this.set = function(name, value){ this.setSessionValue(name, value); return this; };
+
+    this.get = function(name){ return _session[name]; };
 };
 
 session.prototype = new Object();

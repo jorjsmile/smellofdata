@@ -3,20 +3,19 @@
  */
 
 var mime = require("mime"),
-    mapReduce = require("./mapReduce");
+    mapReduce = require("./mapReduce"),
+    Session = require("./session");
 
 function Parser(file, confReads){
     var _file = file,
         _confReads = confReads || {};
-        _mime = null,
         _available = {
             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" : "xlsx",
             "application/vnd.ms-excel" : "xlsx",
             "application/pdf" : "pdf"
         },
         _module = null,
-        _this = this,
-        _fileDetected = false;
+        _this = this;
 
     this.getFile = function(){
         return _file;
@@ -32,34 +31,35 @@ function Parser(file, confReads){
     };
 
     this.getModuleName = function(){
-        if(_available[_mime] == undefined)
-            console.log("Type not supported", _mime);
-        return _available[_mime];
+        var mime = _getMime();
+        if(_available[mime] == undefined)
+            console.log("Type not supported", mime);
+        return _available[mime];
     };
 
     this.getModule = function(){
         return _module;
     };
 
-    var _loadModule = function(){
-        var modName = _this.getModuleName();
+    var _loadModule = function(name){
+        var modName = name || _this.getModuleName();
             object = require("./data_readers/"+modName);
-        _module = new object(_this.getFile(), _this.getConfReads( modName ));
+
+        _module = new object(_file, _this.getConfReads( modName ));
     };
 
-    var _defineMime = function(){
-        //console.log(_file, _file && _file == null);
-        if(_file && _file !== null)
-            _mime = mime.lookup(_file);
+    var _getMime = function(){
+        return mime.lookup(_file);
     };
 
 
-    _defineMime();
-    if(this.getModuleName()){
+    if( typeof(_file) == "object" && _file instanceof Session){
+        _loadModule(_file.get("parser").moduleName);
+        _module.restore(_file);
+    } //session
+    else if ( typeof(_file) == "string"){
         _loadModule();
-        _fileDetected = true;
-    }
-
+    } //file
 }
 
 Parser.prototype = new Object();
@@ -73,33 +73,36 @@ Parser.prototype.getReader = function(){
     return this.getModule();
 };
 
-Parser.prototype.process = function(done){
-    if(!this.isFileDetected()) return done({"message" : "File Not Detected, nothing to process"}, null);
-
-    var module = this.getModule();
-    module.readData(done);
+Parser.prototype.getData = function(options){
+    return this.getReader().getData(options);
 };
 
-Parser.prototype.mapReduce = function(data, map, reduce, log){
-    var data = data || this.getReader().data,
-        map = map || function(key, value){
+Parser.prototype.process = function(done, session){
+    var module = this.getModule();
+    if(!module) return done({"message" : "File Not Detected, nothing to process"}, null);
+
+    module.readData(function(){
+        if(session && session instanceof Session)
+            session.set("parser", {
+                "moduleName" : this.getModuleName()
+            });
+
+        done(null, module.info());
+    });
+};
+
+Parser.prototype.mapReduce = function(options){
+    var data = this.getReader().data,
+        map = options.map || function(key, value){
             return emit(key, value);
             },
-        reduce = reduce || function(key, prev, curr){
+        reduce = options.reduce || function(key, prev, curr){
                 return curr;
-            },
-        log = log || false;
+            };
 
-    var obj = new mapReduce(data, map, reduce),
-        data = obj.getResult();
+    var obj = new mapReduce(data, map, reduce);
 
-    output = data == false?
-            obj.getError() :
-            output = data;
-
-    if(log) output.log = obj.getLog();
-
-    return output;
+    return obj.getResult() || obj.getError();
 };
 
 module.exports = Parser;

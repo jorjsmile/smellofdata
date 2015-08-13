@@ -46,6 +46,10 @@ module.exports = function(data, map, reduce){
 
     this.getResult = function(){
         if(_error !== null) return false;
+
+        if(_log.length != 0)
+            _result.log = _log;
+
         return _result;
     };
 
@@ -53,8 +57,5 @@ module.exports = function(data, map, reduce){
         return _error;
     };
 
-    this.getLog = function(){
-        return _log;
-    };
 };
 
