@@ -4,7 +4,7 @@
 
 var mime = require("mime"),
     mapReduce = require("./mapReduce"),
-    Session = require("./session");
+    Session = require("./session").session;
 
 function Parser(file, confReads){
     var _file = file,
@@ -78,14 +78,20 @@ Parser.prototype.getData = function(options){
 };
 
 Parser.prototype.process = function(done, session){
-    var module = this.getModule();
+    var module = this.getModule(),
+        _this = this;
+
     if(!module) return done({"message" : "File Not Detected, nothing to process"}, null);
 
     module.readData(function(){
-        if(session && session instanceof Session)
+        if(session && session instanceof Session){
             session.set("parser", {
-                "moduleName" : this.getModuleName()
+                "moduleName" : _this.getModuleName()
             });
+
+            module.cache(session);
+        }
+
 
         done(null, module.info());
     });

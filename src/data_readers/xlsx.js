@@ -63,7 +63,7 @@ function xlsxReader(file, options){
     }
 };
 
-xlsxReader.prototype = Object.create(reader);
+xlsxReader.prototype = new reader();
 xlsxReader.prototype.constructor = xlsxReader;
 
 xlsxReader.prototype.readData = function(done){
@@ -71,9 +71,11 @@ xlsxReader.prototype.readData = function(done){
 
     var workbook = xlsx.readFile(file);
     this.setWorkbook(workbook);
+    this.data = {};
 
     for(var s in workbook.SheetNames)
         this.data[workbook.SheetNames[s]] = this.readSheet(workbook.SheetNames[s]);
+
 
     done(null, this);
 };
@@ -115,12 +117,16 @@ xlsxReader.prototype.readSheet = function(sheetName){
 };
 
 xlsxReader.prototype.info = function(){
-    var w = this.getWorkbook();
+    if(Object.getOwnPropertyNames(this._info).length)
+        return this._info;
+    else{
+        var w = this.getWorkbook();
 
-    return {
-        "type" : "xlsx",
-        "sheets" : w.SheetNames
-    };
+        return {
+            "type" : "xlsx",
+            "sheets" : w.SheetNames
+        };
+    }
 };
 
 xlsxReader.prototype.getData = function(options){

@@ -23,7 +23,8 @@ function session(path){
     var _path = path || "sessions";
         _name = null,
         _session = {},
-        _sessionString = "";
+        _sessionString = "",
+        _this = this;
 
     this.setName = function(name){
         _name=name;
@@ -62,7 +63,6 @@ function session(path){
             newSession +=",\n";
             newSession = newSession.replace(/,\n,/, ",");
         }
-
         if(typeof(value) == "string"){
             if(value.indexOf("js:") === 0){
                 value = value
@@ -78,10 +78,11 @@ function session(path){
             newSession +=  "'"+name+"': " + JSON.stringify(value);
 
 
+
         newSession = newSession.replace(/\n{2,}/g, "\n");
 
         newSession = "module.exports={\n"+newSession+"\n};";
-        console.log(newSession);
+        //console.log(newSession);
         try{
 
             esprima.parse(newSession);
@@ -99,7 +100,7 @@ function session(path){
     this.getSession = function(){ return _session; };
 
     //shortcut to setSessionValue
-    this.set = function(name, value){ this.setSessionValue(name, value); return this; };
+    this.set = function(name, value){ this.setSessionValue(name, value); return _this; };
 
     this.get = function(name){ return _session[name]; };
 };

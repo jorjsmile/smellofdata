@@ -19,7 +19,7 @@ function reader(file, options){
             return _opt[name];
     };
 
-
+    this._info = {};
     this.data = [];
 };
 
@@ -28,23 +28,28 @@ reader.prototype.constructor = reader;
 
 
 reader.prototype.getData = function(){
-    throw "Method getData is abstract! Should be described!";
+    throw new Error("Method getData is abstract! Should be described!");
 };
 
 reader.prototype.info = function(){
-    throw "Method info is abstract! Should be described!";
+    throw new Error("Method info is abstract! Should be described!");
 };
 
 reader.prototype.readData = function(){
-    throw "Method readData is abstract! Should be described!";
+    throw new Error("Method readData is abstract! Should be described!");
 };
 
 reader.prototype.cache = function(memory){
-    memory.set("readerData", this.data);
+    memory.set("reader", {
+        "data": this.data,
+        "info": this.info()
+    });
 };
 
 reader.prototype.restore = function(memory){
-    this.data = memory.get("readerData");
+    var _fromStorage = memory.get("reader");
+    this.data = _fromStorage.data;
+    this._info = _fromStorage.info;
 };
 
 module.exports = reader;
